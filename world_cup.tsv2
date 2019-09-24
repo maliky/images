@@ -1,0 +1,837 @@
+	attendance	team1	team2	goals	tie	pk	stage	round	year	date	time	stadium	referee	url
+0	25000	Italy	USA	1-7	False	FALSE	FIRST ROUND	FALSE	1934	27-05-1934 (16:00 h)	16:00	Stadio Nazionale del PNF (Roma)	Rení€Œ© Mercet (SWI)	1934_ITALY_FS.htm
+1	16000	Austria	France	2-3	False	FALSE	FIRST ROUND	FALSE	1934	27-05-1934 (16:30 h)	16:30	Benito Mussolini (Torino)	John van Moorsel (NED)	1934_ITALY_FS.htm
+2	8000	Germany	Belgium	2-5	False	FALSE	FIRST ROUND	FALSE	1934	27-05-1934 (16:30 h)	16:30	Giovanni Berta (Firenze)	Francesco Mattea (ITA)	1934_ITALY_FS.htm
+3	9000	Czechoslovakia	Romania	1-2	False	FALSE	FIRST ROUND	FALSE	1934	27-05-1934 (16:30 h)	16:30	Stadio del Littorio (Trieste)	Jean Langenus (BEL)	1934_ITALY_FS.htm
+4	33000	Switzerland	Netherlands	2-3	False	FALSE	FIRST ROUND	FALSE	1934	27-05-1934 (16:30 h)	16:30	San Siro (Milano)	Ivan Eklind (SWE)	1934_ITALY_FS.htm
+5	14000	Sweden	Argentina	2-3	False	FALSE	FIRST ROUND	FALSE	1934	27-05-1934 (16:30 h)	16:30	Stadio Littoriale (Bologna)	Erwin Braun (AUT)	1934_ITALY_FS.htm
+6	21000	Spain	Brazil	1-3	False	FALSE	FIRST ROUND	FALSE	1934	27-05-1934 (16:30 h)	16:30	Luigi Ferraris (Genova)	Alfred Birlem (GER)	1934_ITALY_FS.htm
+7	9000	Hungary	Egypt	2-4	False	FALSE	FIRST ROUND	FALSE	1934	27-05-1934 (16:30 h)	16:30	Giorgio Ascarelli (Napoli)	Rinaldo Barlassina (ITA)	1934_ITALY_FS.htm
+8	23000	Austria	Hungary	1-2	False	FALSE	1/4 FINAL	FALSE	1934	31-05-1934 (16:30 h)	16:30	Stadio Littoriale (Bologna)	Francesco Mattea (ITA)	1934_ITALY_FS.htm
+9	12000	Czechoslovakia	Switzerland	2-3	False	FALSE	1/4 FINAL	FALSE	1934	31-05-1934 (16:30 h)	16:30	Benito Mussolini (Torino)	Alois Beranek (AUT)	1934_ITALY_FS.htm
+10	15000	Germany	Sweden	1-2	False	FALSE	1/4 FINAL	FALSE	1934	31-05-1934 (16:30 h)	16:30	San Siro (Milano)	Rinaldo Barlassina (ITA)	1934_ITALY_FS.htm
+11	35000	Italy	Spain	1-1	False	FALSE	1/4 FINAL	FALSE	1934	31-05-1934 (16:30 h)	16:30	Giovanni Berta (Firenze)	Louis Baert (BEL)	1934_ITALY_FS.htm
+12	43000	Italy	Spain	1-0	False	FALSE	1/4 FINAL	FALSE	1934	1-06-1934 (16:45 h)	16:45	Giovanni Berta (Firenze)	Rení€Œ© Mercet (SWI)	1934_ITALY_FS.htm
+13	60000	Italy	Austria	1-0	False	FALSE	1/2 FINAL	FALSE	1934	3-06-1934 (16:30 h)	16:30	San Siro (Milano)	Ivan Eklind (SWE)	1934_ITALY_FS.htm
+14	15000	Czechoslovakia	Germany	1-3	False	FALSE	1/2 FINAL	FALSE	1934	3-06-1934 (16:30 h)	16:30	Stadio Nazionale del PNF (Roma)	Rinaldo Barlassina (ITA)	1934_ITALY_FS.htm
+15	7000	Germany	Austria	2-3	False	FALSE	PLACES 3-4	FALSE	1934	7-06-1934 (17:30 h)	17:30	Giorgio Ascarelli (Napoli)	Albino Carraro (ITA)	1934_ITALY_FS.htm
+16	50000	Italy	Czechoslovakia	1-2	False	FALSE	FINAL ROUND	FALSE	1934	10-06-1934 (17:00 h)	17:00	Stadio Nazionale del PNF (Roma)	Ivan Eklind(SWE)	1934_ITALY_FS.htm
+17	34107	Sweden	Mexico	3-0	False	FALSE	GROUP STAGE	FALSE	1958	8-06-1958 (14:00 h)	14:00	Rí€Œ«sunda (Solna, Stockholm)	Nikolaj Latyshev (USSR)	1958_SWEDEN_FS.htm
+18	31156	FRG	Argentina	1-3	False	FALSE	GROUP STAGE	FALSE	1958	8-06-1958 (19:00 h)	19:00	Malmí€Œ_ Stadion (Malmí€Œ_)	Reginald Leafe (ENG)	1958_SWEDEN_FS.htm
+19	10647	Northern Ireland	Czechoslovakia	1-0	False	FALSE	GROUP STAGE	FALSE	1958	8-06-1958 (19:00 h)	19:00	í€Œ_rjans Vall (Halmstad)	Fritz Seipelt (AUT)	1958_SWEDEN_FS.htm
+20	16518	France	Paraguay	3-7	False	FALSE	GROUP STAGE	FALSE	1958	8-06-1958 (19:00 h)	19:00	Idrottsparken (Norrkí€Œ_ping)	Juan Gardeazí€Œçbal (SPA)	1958_SWEDEN_FS.htm
+21	9591	Yugoslavia	Scotland	1-1	False	FALSE	GROUP STAGE	FALSE	1958	8-06-1958 (19:00 h)	19:00	Arosvallen (Ví€Œ_sterí€Œ«s)	Paul Wyssling (SWI)	1958_SWEDEN_FS.htm
+22	15343	Hungary	Wales	1-1	False	FALSE	GROUP STAGE	FALSE	1958	8-06-1958 (19:00 h)	19:00	Jernvallen (Sandviken)	Josí€Œ© Marí€Œ_a Codesal (URU)	1958_SWEDEN_FS.htm
+23	49348	England	Soviet Union	2-2	False	FALSE	GROUP STAGE	FALSE	1958	8-06-1958 (19:00 h)	19:00	Nya Ullevi (Gí€Œ_teborg)	Iství€Œçn Zsolt (HUN)	1958_SWEDEN_FS.htm
+24	17778	Brazil	Austria	3-0	False	FALSE	GROUP STAGE	FALSE	1958	8-06-1958 (19:00 h)	19:00	Rimnersvallen (Uddevalla)	Maurice Guigue (FRA)	1958_SWEDEN_FS.htm
+25	31156	FRG	Czechoslovakia	2-2	False	FALSE	GROUP STAGE	FALSE	1958	11-06-1958 (19:00 h)	19:00	Olympiastadion (Helsingborg)	Arthur Ellis (ENG)	1958_SWEDEN_FS.htm
+26	14174	Argentina	Northern Ireland	1-3	False	FALSE	GROUP STAGE	FALSE	1958	11-06-1958 (19:00 h)	19:00	í€Œ_rjans Vall (Halmstad)	Sten Ahlner (SWE)	1958_SWEDEN_FS.htm
+27	11665	Paraguay	Scotland	2-3	False	FALSE	GROUP STAGE	FALSE	1958	11-06-1958 (19:00 h)	19:00	Idrottsparken (Norrkí€Œ_ping)	Vincenzo Orlandini (ITA)	1958_SWEDEN_FS.htm
+28	12217	Yugoslavia	France	2-3	False	FALSE	GROUP STAGE	FALSE	1958	11-06-1958 (19:00 h)	19:00	Arosvallen (Ví€Œ_sterí€Œ«s)	Mervyn Griffiths (WAL)	1958_SWEDEN_FS.htm
+29	15150	Wales	Mexico	1-1	False	FALSE	GROUP STAGE	FALSE	1958	11-06-1958 (19:00 h)	19:00	Rí€Œ«sunda (Solna, Stockholm)	Leo LemeíƒŒçií‹Œˆ (YUG)	1958_SWEDEN_FS.htm
+30	40895	Brazil	England	-	False	FALSE	GROUP STAGE	FALSE	1958	11-06-1958 (19:00 h)	19:00	Nya Ullevi (Gí€Œ_teborg)	Albert Dusch (FRG)	1958_SWEDEN_FS.htm
+31	21239	Soviet Union	Austria	-	False	FALSE	GROUP STAGE	FALSE	1958	11-06-1958 (19:00 h)	19:00	Ryavallen (Borí€Œ«s)	Carl Jí€ŒŸrgensen (DEN)	1958_SWEDEN_FS.htm
+32	38850	Sweden	Hungary	1-2	False	FALSE	GROUP STAGE	FALSE	1958	12-06-1958 (19:00 h)	19:00	Rí€Œ«sunda (Solna, Stockholm)	John Mowatt (SCO)	1958_SWEDEN_FS.htm
+33	30287	Sweden	Wales	-	False	FALSE	GROUP STAGE	FALSE	1958	15-06-1958 (14:00 h)	14:00	Rí€Œ«sunda (Solna, Stockholm)	Lucien van Nuffel (BEL)	1958_SWEDEN_FS.htm
+34	21990	FRG	Northern Ireland	2-2	False	FALSE	GROUP STAGE	FALSE	1958	15-06-1958 (19:00 h)	19:00	Malmí€Œ_ Stadion (Malmí€Œ_)	Joaquim Fernandes Campos (POR)	1958_SWEDEN_FS.htm
+35	16418	Czechoslovakia	Argentina	1-6	False	FALSE	GROUP STAGE	FALSE	1958	15-06-1958 (19:00 h)	19:00	Olympiastadion (Helsingborg)	Arthur Ellis (ENG)	1958_SWEDEN_FS.htm
+36	13554	France	Scotland	1-2	False	FALSE	GROUP STAGE	FALSE	1958	15-06-1958 (19:00 h)	19:00	Eyravallen (í€Œ_rebro)	Juan Regis Brozzi (ARG)	1958_SWEDEN_FS.htm
+37	13103	Yugoslavia	Paraguay	3-3	False	FALSE	GROUP STAGE	FALSE	1958	15-06-1958 (19:00 h)	19:00	Tunavallen (Eskilstuna)	Martin Maí‹Œko (CZE)	1958_SWEDEN_FS.htm
+38	13310	Hungary	Mexico	4-0	False	FALSE	GROUP STAGE	FALSE	1958	15-06-1958 (19:00 h)	19:00	Jernvallen (Sandviken)	Aarne Eriksson (FIN)	1958_SWEDEN_FS.htm
+39	50928	Brazil	Soviet Union	2-0	False	FALSE	GROUP STAGE	FALSE	1958	15-06-1958 (19:00 h)	19:00	Nya Ullevi (Gí€Œ_teborg)	Maurice Guigue (FRA)	1958_SWEDEN_FS.htm
+40	15872	England	Austria	2-2	False	FALSE	GROUP STAGE	FALSE	1958	15-06-1958 (19:00 h)	19:00	Ryavallen (Borí€Œ«s)	Jan Bronkhorst (NED)	1958_SWEDEN_FS.htm
+41	6196	Northern Ireland	Czechoslovakia	1-2	True	FALSE	GROUP STAGE	FALSE	1958	17-06-1958 (19:00 h)	19:00	Malmí€Œ_ Stadion (Malmí€Œ_)	Maurice Guigue (FRA)	1958_SWEDEN_FS.htm
+42	2823	Wales	Hungary	1-2	True	FALSE	GROUP STAGE	FALSE	1958	17-06-1958 (19:00 h)	19:00	Rí€Œ«sunda (Solna, Stockholm)	Nikolaj Latyshev (USSR)	1958_SWEDEN_FS.htm
+43	23182	Soviet Union	England	1-0	True	FALSE	GROUP STAGE	FALSE	1958	17-06-1958 (19:00 h)	19:00	Nya Ullevi (Gí€Œ_teborg)	Albert Dusch (FRG)	1958_SWEDEN_FS.htm
+44	31900	Sweden	Soviet Union	2-0	False	FALSE	1/4 FINAL	FALSE	1958	19-06-1958 (14:00 h)	14:00	Rí€Œ«sunda (Solna, Stockholm)	Reginald Leafe (ENG)	1958_SWEDEN_FS.htm
+45	20055	FRG	Yugoslavia	1-0	False	FALSE	1/4 FINAL	FALSE	1958	19-06-1958 (19:00 h)	19:00	Malmí€Œ_ Stadion (Malmí€Œ_)	Paul Wyssling (SWI)	1958_SWEDEN_FS.htm
+46	11800	France	Northern Ireland	4-0	False	FALSE	1/4 FINAL	FALSE	1958	19-06-1958 (19:00 h)	19:00	Idrottsparken (Norrkí€Œ_ping)	Juan Gardeazí€Œçbal (SPA)	1958_SWEDEN_FS.htm
+47	25923	Brazil	Wales	1-0	False	FALSE	1/4 FINAL	FALSE	1958	19-06-1958 (19:00 h)	19:00	Nya Ullevi (Gí€Œ_teborg)	Fritz Seipelt (AUT)	1958_SWEDEN_FS.htm
+48	49471	Sweden	FRG	1-3	False	FALSE	1/2 FINAL	FALSE	1958	24-06-1958 (19:00 h)	19:00	Nya Ullevi (Gí€Œ_teborg)	Iství€Œçn Zsolt (HUN)	1958_SWEDEN_FS.htm
+49	27100	Brazil	France	2-5	False	FALSE	1/2 FINAL	FALSE	1958	24-06-1958 (19:00 h)	19:00	Rí€Œ«sunda (Solna, Stockholm)	Mervyn Griffiths (WAL)	1958_SWEDEN_FS.htm
+50	32482	France	FRG	3-6	False	FALSE	PLACES 3-4	FALSE	1958	28-06-1958 (17:00 h)	17:00	Nya Ullevi (Gí€Œ_teborg)	Juan Regis Brozzi (ARG)	1958_SWEDEN_FS.htm
+51	49737	Brazil	Sweden	2-5	False	FALSE	FINAL ROUND	FALSE	1958	29-06-1958 (15:00 h)	15:00	Rí€Œ«sunda (Solna, Stockholm)	Maurice Guigue (FRA)	1958_SWEDEN_FS.htm
+52	95000	Argentina	Belgium	0-1	False	FALSE	GROUP STAGE	first	1982	13-06-1982 (20:00 h)	20:00	Camp Nou (Barcelona)	Vojtí‹Œ_ch Christov (CZE)	1982_SPAIN_FS.htm
+53	22000	Italy	Poland	-	False	FALSE	GROUP STAGE	first	1982	14-06-1982 (17:15 h)	17:15	Balaí€Œ_dos (Vigo)	Michel Vautrot (FRA)	1982_SPAIN_FS.htm
+54	50000	Brazil	Soviet Union	1-2	False	FALSE	GROUP STAGE	first	1982	14-06-1982 (21:00 h)	21:00	Ramí€Œ_n Sí€Œçnchez Pizjuí€Œçn (Sevilla)	Augusto Lamo Castillo (SPA)	1982_SPAIN_FS.htm
+55	15000	Peru	Cameroon	-	False	FALSE	GROUP STAGE	first	1982	15-06-1982 (17:15 h)	17:15	Riazor (La Coruí€Œ±a)	Franz Wí€Œ_hrer (AUT)	1982_SPAIN_FS.htm
+56	23000	Hungary	El Salvador	1-10	False	FALSE	GROUP STAGE	first	1982	15-06-1982 (21:00 h)	21:00	Nuevo Estadio (Elche)	Ibrahim Al-Doy (BHR)	1982_SPAIN_FS.htm
+57	22000	Scotland	New Zealand	2-5	False	FALSE	GROUP STAGE	first	1982	15-06-1982 (21:00 h)	21:00	La Rosaleda (Mí€Œçlaga)	David Socha (USA)	1982_SPAIN_FS.htm
+58	25000	FRG	Algeria	2-1	False	FALSE	GROUP STAGE	first	1982	16-06-1982 (17:15 h)	17:15	El Moliní€Œ_n (Gijí€Œ_n)	Enrique Labí€Œ_ (PER)	1982_SPAIN_FS.htm
+59	44172	England	France	1-3	False	FALSE	GROUP STAGE	first	1982	16-06-1982 (17:15 h)	17:15	San Mamí€Œ©s (Bilbao)	Antí€Œ_nio Josí€Œ© da Silva Garrido (POR)	1982_SPAIN_FS.htm
+60	49562	Spain	Honduras	1-1	False	FALSE	GROUP STAGE	first	1982	16-06-1982 (21:00 h)	21:00	Luis Casanova (Valencia)	Arturo Andrí€Œ©s Iturralde (ARG)	1982_SPAIN_FS.htm
+61	22000	Chile	Austria	0-1	False	FALSE	GROUP STAGE	first	1982	17-06-1982 (17:15 h)	17:15	Carlos Tartiere (Oviedo)	Juan Daniel Cardellino (URU)	1982_SPAIN_FS.htm
+62	12000	Czechoslovakia	Kuwait	1-1	False	FALSE	GROUP STAGE	first	1982	17-06-1982 (17:15 h)	17:15	Nuevo Josí€Œ© Zorrilla (Valladolid)	Benjamin Dwomoh (GHA)	1982_SPAIN_FS.htm
+63	18000	Yugoslavia	Northern Ireland	-	False	FALSE	GROUP STAGE	first	1982	17-06-1982 (21:00 h)	21:00	La Romareda (Zaragoza)	Erik Fredriksson (SWE)	1982_SPAIN_FS.htm
+64	25000	Italy	Peru	1-1	False	FALSE	GROUP STAGE	first	1982	18-06-1982 (17:15 h)	17:15	Balaí€Œ_dos (Vigo)	Walter Eschweiler (FRG)	1982_SPAIN_FS.htm
+65	32093	Argentina	Hungary	1-4	False	FALSE	GROUP STAGE	first	1982	18-06-1982 (21:00 h)	21:00	Josí€Œ© Rico Pí€Œ©rez (Alicante)	Belaí€Œ¿d Lacarne (ALG)	1982_SPAIN_FS.htm
+66	47379	Brazil	Scotland	1-4	False	FALSE	GROUP STAGE	first	1982	18-06-1982 (21:00 h)	21:00	Benito Villamarí€Œ_n (Sevilla)	Luis Paulino Siles (CRC)	1982_SPAIN_FS.htm
+67	12000	Poland	Cameroon	-	False	FALSE	GROUP STAGE	first	1982	19-06-1982 (17:15 h)	17:15	Riazor (La Coruí€Œ±a)	Alexis Ponnet (BEL)	1982_SPAIN_FS.htm
+68	6000	Belgium	El Salvador	1-0	False	FALSE	GROUP STAGE	first	1982	19-06-1982 (21:00 h)	21:00	Nuevo Estadio (Elche)	Malcolm Moffatt (NIR)	1982_SPAIN_FS.htm
+69	17000	Soviet Union	New Zealand	3-0	False	FALSE	GROUP STAGE	first	1982	19-06-1982 (21:00 h)	21:00	La Rosaleda (Mí€Œçlaga)	Yousef el-Ghoul (LYB)	1982_SPAIN_FS.htm
+70	40000	FRG	Chile	1-4	False	FALSE	GROUP STAGE	first	1982	20-06-1982 (17:15 h)	17:15	El Moliní€Œ_n (Gijí€Œ_n)	Bruno Galler (SWI)	1982_SPAIN_FS.htm
+71	44182	England	Czechoslovakia	2-0	False	FALSE	GROUP STAGE	first	1982	20-06-1982 (17:15 h)	17:15	San Mamí€Œ©s (Bilbao)	Charles Corver (NED)	1982_SPAIN_FS.htm
+72	47500	Spain	Yugoslavia	1-2	False	FALSE	GROUP STAGE	first	1982	20-06-1982 (21:00 h)	21:00	Luis Casanova (Valencia)	Henning Lund-Sí€ŒŸrensen (DEN)	1982_SPAIN_FS.htm
+73	22000	Algeria	Austria	0-2	False	FALSE	GROUP STAGE	first	1982	21-06-1982 (17:15 h)	17:15	Carlos Tartiere (Oviedo)	Tony BoíƒŒçkovií‹Œˆ (AUS)	1982_SPAIN_FS.htm
+74	30043	France	Kuwait	1-4	False	FALSE	GROUP STAGE	first	1982	21-06-1982 (17:15 h)	17:15	Nuevo Josí€Œ© Zorrilla (Valladolid)	Miroslav Stupar (USSR)	1982_SPAIN_FS.htm
+75	15000	Honduras	Northern Ireland	1-1	False	FALSE	GROUP STAGE	first	1982	21-06-1982 (21:00 h)	21:00	La Romareda (Zaragoza)	Chan Tam-Sun (HKG)	1982_SPAIN_FS.htm
+76	16000	Poland	Peru	1-5	False	FALSE	GROUP STAGE	first	1982	22-06-1982 (17:15 h)	17:15	Riazor (La Coruí€Œ±a)	Mario Rubio (MEX)	1982_SPAIN_FS.htm
+77	22000	Belgium	Hungary	1-1	False	FALSE	GROUP STAGE	first	1982	22-06-1982 (21:00 h)	21:00	Nuevo Estadio (Elche)	Clive White (ENG)	1982_SPAIN_FS.htm
+78	30000	Soviet Union	Scotland	2-2	False	FALSE	GROUP STAGE	first	1982	22-06-1982 (21:00 h)	21:00	La Rosaleda (Mí€Œçlaga)	Nicolae Rainea (ROM)	1982_SPAIN_FS.htm
+79	17000	Italy	Cameroon	1-1	False	FALSE	GROUP STAGE	first	1982	23-06-1982 (17:15 h)	17:15	Balaí€Œ_dos (Vigo)	Bogdan Dochev (BUL)	1982_SPAIN_FS.htm
+80	18000	Argentina	El Salvador	2-0	False	FALSE	GROUP STAGE	first	1982	23-06-1982 (21:00 h)	21:00	Josí€Œ© Rico Pí€Œ©rez (Alicante)	Luis Barrancos (BOL)	1982_SPAIN_FS.htm
+81	32000	Brazil	New Zealand	4-0	False	FALSE	GROUP STAGE	first	1982	23-06-1982 (21:00 h)	21:00	Benito Villamarí€Œ_n (Sevilla)	Damir Matovinovií‹Œˆ (YUG)	1982_SPAIN_FS.htm
+82	18000	Algeria	Chile	2-3	False	FALSE	GROUP STAGE	first	1982	24-06-1982 (17:15 h)	17:15	Carlos Tartiere (Oviedo)	Rí€Œ_mulo Mí€Œ©ndez (GUA)	1982_SPAIN_FS.htm
+83	28000	France	Czechoslovakia	1-1	False	FALSE	GROUP STAGE	first	1982	24-06-1982 (17:15 h)	17:15	Nuevo Josí€Œ© Zorrilla (Valladolid)	Paolo Casarin (ITA)	1982_SPAIN_FS.htm
+84	12000	Honduras	Yugoslavia	0-1	False	FALSE	GROUP STAGE	first	1982	24-06-1982 (21:00 h)	21:00	La Romareda (Zaragoza)	Gastí€Œ_n Castro (CHI)	1982_SPAIN_FS.htm
+85	41000	FRG	Austria	1-0	False	FALSE	GROUP STAGE	first	1982	25-06-1982 (17:15 h)	17:15	El Moliní€Œ_n (Gijí€Œ_n)	Robert Valentine (SCO)	1982_SPAIN_FS.htm
+86	31000	England	Kuwait	1-0	False	FALSE	GROUP STAGE	first	1982	25-06-1982 (17:15 h)	17:15	San Mamí€Œ©s (Bilbao)	Gilberto Aristizí€Œçbal (COL)	1982_SPAIN_FS.htm
+87	49562	Northern Ireland	Spain	1-0	False	FALSE	GROUP STAGE	first	1982	25-06-1982 (21:00 h)	21:00	Luis Casanova (Valencia)	Hí€Œ©ctor Ortiz (PAR)	1982_SPAIN_FS.htm
+88	30000	Austria	France	0-1	False	FALSE	GROUP STAGE	second	1982	28-06-1982 (17:15 h)	17:15	Vicente Calderí€Œ_n (Madrid)	Kí€Œçroly Palotai (HUN)	1982_SPAIN_FS.htm
+89	30000	Poland	Belgium	3-0	False	FALSE	GROUP STAGE	second	1982	28-06-1982 (21:00 h)	21:00	Camp Nou (Barcelona)	Luis Paulino Siles (CRC)	1982_SPAIN_FS.htm
+90	39000	Italy	Argentina	1-2	False	FALSE	GROUP STAGE	second	1982	29-06-1982 (17:15 h)	17:15	Sarrií€Œç (Barcelona)	Nicolae Rainea (ROM)	1982_SPAIN_FS.htm
+91	75000	FRG	England	-	False	FALSE	GROUP STAGE	second	1982	29-06-1982 (21:00 h)	21:00	Santiago Bernabí€Œ©u (Madrid)	Arnaldo Cí€Œ©sar Coelho (BRA)	1982_SPAIN_FS.htm
+92	24000	Austria	Northern Ireland	2-2	False	FALSE	GROUP STAGE	second	1982	1-07-1982 (17:15 h)	17:15	Vicente Calderí€Œ_n (Madrid)	Adolf Prokop (GDR)	1982_SPAIN_FS.htm
+93	25000	Belgium	Soviet Union	0-1	False	FALSE	GROUP STAGE	second	1982	1-07-1982 (21:00 h)	21:00	Camp Nou (Barcelona)	Michel Vautrot (FRA)	1982_SPAIN_FS.htm
+94	44000	Argentina	Brazil	3-1	False	FALSE	GROUP STAGE	second	1982	2-07-1982 (17:15 h)	17:15	Sarrií€Œç (Barcelona)	Mario Rubio (MEX)	1982_SPAIN_FS.htm
+95	90089	FRG	Spain	1-2	False	FALSE	GROUP STAGE	second	1982	2-07-1982 (21:00 h)	21:00	Santiago Bernabí€Œ©u (Madrid)	Paolo Casarin (ITA)	1982_SPAIN_FS.htm
+96	30000	France	Northern Ireland	1-4	False	FALSE	GROUP STAGE	second	1982	4-07-1982 (17:15 h)	17:15	Vicente Calderí€Œ_n (Madrid)	Alojzy Jarguz (POL)	1982_SPAIN_FS.htm
+97	45000	Poland	Soviet Union	-	False	FALSE	GROUP STAGE	second	1982	4-07-1982 (21:00 h)	21:00	Camp Nou (Barcelona)	Robert Valentine (SCO)	1982_SPAIN_FS.htm
+98	44000	Italy	Brazil	2-3	False	FALSE	GROUP STAGE	second	1982	5-07-1982 (17:15 h)	17:15	Sarrií€Œç (Barcelona)	Abraham Klein (ISR)	1982_SPAIN_FS.htm
+99	65000	Spain	England	-	False	FALSE	GROUP STAGE	second	1982	5-07-1982 (21:00 h)	21:00	Santiago Bernabí€Œ©u (Madrid)	Alexis Ponnet (BEL)	1982_SPAIN_FS.htm
+100	55000	Poland	Italy	0-2	False	FALSE	1/2 FINAL	FALSE	1982	8-07-1982 (17:15 h)	17:15	Camp Nou (Barcelona)	Juan Daniel Cardellino (URU)	1982_SPAIN_FS.htm
+101	71000	FRG	France	3-3	False	0-1 (Giresse); 1-1 (Kaltz) / 1-2 (Amorí€Œ_s); 2-2 (Breitner) / 2-3 (Rocheteau); 2-3 (Stielike [saved]) / 2-3 (Six [saved]); 3-3 (Littbarski) / 3-4 (Platini); 4-4 (Rummenigge) // [decisive shots] 4-4 (Bossis [saved]); 5-4 (Hrubesch)	1/2 FINAL	FALSE	1982	8-07-1982 (21:00 h)	21:00	Ramí€Œ_n Sí€Œçnchez Pizjuí€Œçn (Sevilla)	Charles Corver (NED)	1982_SPAIN_FS.htm
+102	28000	Poland	France	2-3	False	FALSE	PLACES 3-4	FALSE	1982	10-07-1982 (20:00 h)	20:00	Josí€Œ© Rico Pí€Œ©rez (Alicante)	Antí€Œ_nio Josí€Œ© da Silva Garrido (POR)	1982_SPAIN_FS.htm
+103	90089	Italy	FRG	1-3	False	FALSE	FINAL ROUND	FALSE	1982	11-07-1982 (20:00 h)	20:00	Santiago Bernabí€Œ©u (Madrid)	Arnaldo Cí€Œ©sar Coelho (BRA)	1982_SPAIN_FS.htm
+104	87148	England	Uruguay	-	False	FALSE	GROUP STAGE	FALSE	1966	11-07-1966 (19:30 h)	19:30	Wembley (London)	Iství€Œçn Zsolt (HUN)	1966_ENGLAND_FS.htm
+105	36127	FRG	Switzerland	5-0	False	FALSE	GROUP STAGE	FALSE	1966	12-07-1966 (19:30 h)	19:30	Hillsborough (Sheffield)	Hugh Phillips (SCO)	1966_ENGLAND_FS.htm
+106	47308	Brazil	Bulgaria	2-0	False	FALSE	GROUP STAGE	FALSE	1966	12-07-1966 (19:30 h)	19:30	Goodison Park (Liverpool)	Kurt Tschenscher (FRG)	1966_ENGLAND_FS.htm
+107	23006	Soviet Union	North Korea	3-0	False	FALSE	GROUP STAGE	FALSE	1966	12-07-1966 (19:30 h)	19:30	Ayresome Park (Middlesbrough)	Juan Gardeazí€Œçbal (SPA)	1966_ENGLAND_FS.htm
+108	69237	France	Mexico	1-1	False	FALSE	GROUP STAGE	FALSE	1966	13-07-1966 (19:30 h)	19:30	Wembley (London)	Menachem Ashkenazi (ISR)	1966_ENGLAND_FS.htm
+109	42738	Argentina	Spain	1-2	False	FALSE	GROUP STAGE	FALSE	1966	13-07-1966 (19:30 h)	19:30	Villa Park (Birmingham)	Dimití‹Œ€r Rumenchev (BUL)	1966_ENGLAND_FS.htm
+110	29886	Portugal	Hungary	1-3	False	FALSE	GROUP STAGE	FALSE	1966	13-07-1966 (19:30 h)	19:30	Old Trafford (Manchester)	Leo Callaghan (WAL)	1966_ENGLAND_FS.htm
+111	27199	Italy	Chile	2-0	False	FALSE	GROUP STAGE	FALSE	1966	13-07-1966 (19:30 h)	19:30	Roker Park (Sunderland)	Gottfried Dienst (SWI)	1966_ENGLAND_FS.htm
+112	45662	Uruguay	France	1-2	False	FALSE	GROUP STAGE	FALSE	1966	15-07-1966 (19:30 h)	19:30	White City (London)	Karol Galba (CZE)	1966_ENGLAND_FS.htm
+113	32028	Spain	Switzerland	1-2	False	FALSE	GROUP STAGE	FALSE	1966	15-07-1966 (19:30 h)	19:30	Hillsborough (Sheffield)	Tofik Bakhramov(USSR)	1966_ENGLAND_FS.htm
+114	51387	Hungary	Brazil	1-3	False	FALSE	GROUP STAGE	FALSE	1966	15-07-1966 (19:30 h)	19:30	Goodison Park (Liverpool)	Kenneth Dagnall (ENG)	1966_ENGLAND_FS.htm
+115	13792	North Korea	Chile	1-1	False	FALSE	GROUP STAGE	FALSE	1966	15-07-1966 (19:30 h)	19:30	Ayresome Park (Middlesbrough)	Ali Hussein Kandil (UAR)	1966_ENGLAND_FS.htm
+116	46587	FRG	Argentina	-	False	FALSE	GROUP STAGE	FALSE	1966	16-07-1966 (15:00 h)	15:00	Villa Park (Birmingham)	Konstantin Zeí‹Œevií‹Œˆ (YUG)	1966_ENGLAND_FS.htm
+117	25438	Portugal	Bulgaria	3-0	False	FALSE	GROUP STAGE	FALSE	1966	16-07-1966 (15:00 h)	15:00	Old Trafford (Manchester)	Josí€Œ© Marí€Œ_a Codesal (URU)	1966_ENGLAND_FS.htm
+118	27793	Soviet Union	Italy	1-0	False	FALSE	GROUP STAGE	FALSE	1966	16-07-1966 (15:00 h)	15:00	Roker Park (Sunderland)	Rudolf Kreitlein (FRG)	1966_ENGLAND_FS.htm
+119	92570	England	Mexico	2-0	False	FALSE	GROUP STAGE	FALSE	1966	16-07-1966 (19:30 h)	19:30	Wembley (London)	Concetto lo Bello (ITA)	1966_ENGLAND_FS.htm
+120	61112	Mexico	Uruguay	-	False	FALSE	GROUP STAGE	FALSE	1966	19-07-1966 (16:30 h)	16:30	Wembley (London)	Bertil Lí€Œ_í€Œ_w (SWE)	1966_ENGLAND_FS.htm
+121	32127	Argentina	Switzerland	2-0	False	FALSE	GROUP STAGE	FALSE	1966	19-07-1966 (19:30 h)	19:30	Hillsborough (Sheffield)	Joaquim Fernandes Campos (POR)	1966_ENGLAND_FS.htm
+122	58479	Portugal	Brazil	1-3	False	FALSE	GROUP STAGE	FALSE	1966	19-07-1966 (19:30 h)	19:30	Goodison Park (Liverpool)	George McCabe (ENG)	1966_ENGLAND_FS.htm
+123	17829	North Korea	Italy	1-0	False	FALSE	GROUP STAGE	FALSE	1966	19-07-1966 (19:30 h)	19:30	Ayresome Park (Middlesbrough)	Pierre Schwinte (FRA)	1966_ENGLAND_FS.htm
+124	98270	England	France	2-0	False	FALSE	GROUP STAGE	FALSE	1966	20-07-1966 (19:30 h)	19:30	Wembley (London)	Arturo Yamasaki (PER)	1966_ENGLAND_FS.htm
+125	45187	FRG	Spain	1-2	False	FALSE	GROUP STAGE	FALSE	1966	20-07-1966 (19:30 h)	19:30	Villa Park (Birmingham)	Armando Marques (BRA)	1966_ENGLAND_FS.htm
+126	24129	Hungary	Bulgaria	1-3	False	FALSE	GROUP STAGE	FALSE	1966	20-07-1966 (19:30 h)	19:30	Old Trafford (Manchester)	Roberto Goicoechea (ARG)	1966_ENGLAND_FS.htm
+127	16027	Soviet Union	Chile	1-2	False	FALSE	GROUP STAGE	FALSE	1966	20-07-1966 (19:30 h)	19:30	Roker Park (Sunderland)	John Adair (NIR)	1966_ENGLAND_FS.htm
+128	40007	FRG	Uruguay	4-0	False	FALSE	1/4 FINAL	FALSE	1966	23-07-1966 (15:00 h)	15:00	Hillsborough (Sheffield)	James Finney (ENG)	1966_ENGLAND_FS.htm
+129	40248	Portugal	North Korea	3-5	False	FALSE	1/4 FINAL	FALSE	1966	23-07-1966 (15:00 h)	15:00	Goodison Park (Liverpool)	Menachem Ashkenazi (ISR)	1966_ENGLAND_FS.htm
+130	22103	Soviet Union	Hungary	1-2	False	FALSE	1/4 FINAL	FALSE	1966	23-07-1966 (15:00 h)	15:00	Roker Park (Sunderland)	Juan Gardeazí€Œçbal (SPA)	1966_ENGLAND_FS.htm
+131	90584	England	Argentina	1-0	False	FALSE	1/4 FINAL	FALSE	1966	23-07-1966 (19:30 h)	19:30	Wembley (London)	Rudolf Kreitlein (FRG)	1966_ENGLAND_FS.htm
+132	38273	FRG	Soviet Union	1-2	False	FALSE	1/2 FINAL	FALSE	1966	25-07-1966 (19:30 h)	19:30	Goodison Park (Liverpool)	Concetto lo Bello (ITA)	1966_ENGLAND_FS.htm
+133	94493	England	Portugal	1-2	False	FALSE	1/2 FINAL	FALSE	1966	26-07-1966 (19:30 h)	19:30	Wembley (London)	Pierre Schwinte (FRA)	1966_ENGLAND_FS.htm
+134	87696	Portugal	Soviet Union	1-2	False	FALSE	PLACES 3-4	FALSE	1966	28-07-1966 (19:30 h)	19:30	Wembley (London)	Kenneth Dagnall (ENG)	1966_ENGLAND_FS.htm
+135	93802	England	FRG	2-4	False	FALSE	FINAL ROUND	FALSE	1966	30-07-1966 (15:00 h)	15:00	Wembley (London)	Gottfried Dienst (SWI)	1966_ENGLAND_FS.htm
+136	62103	Brazil	Croatia	1-3	False	FALSE	GROUP STAGE	FALSE	2014	12-06-2014 (17:00 h)	17:00	Arena Corinthians (Sí£o Paulo)	Yuichi Nishimura (JAP)	2014_BRAZIL_FS.htm
+137	39216	Mexico	Cameroon	1-0	False	FALSE	GROUP STAGE	FALSE	2014	13-06-2014 (13:00 h)	13:00	Arena das Dunas (Natal)	Wilmar Roldí€Œçn (COL)	2014_BRAZIL_FS.htm
+138	48173	Spain	Netherlands	5-1	False	FALSE	GROUP STAGE	FALSE	2014	13-06-2014 (16:00 h)	16:00	Arena Fonte Nova (Salvador)	Nicola Rizzoli (ITA)	2014_BRAZIL_FS.htm
+139	40275	Chile	Australia	1-3	False	FALSE	GROUP STAGE	FALSE	2014	13-06-2014 (18:00 h)	18:00	Arena Pantanal (Cuiabí€Œç)	Douí€Œ© Noumandiez (CIV)	2014_BRAZIL_FS.htm
+140	57174	Colombia	Greece	3-0	False	FALSE	GROUP STAGE	FALSE	2014	14-06-2014 (13:00 h)	13:00	Mineirí£o (Belo Horizonte)	Mark Geiger (USA)	2014_BRAZIL_FS.htm
+141	58679	Uruguay	Costa Rica	3-1	False	FALSE	GROUP STAGE	FALSE	2014	14-06-2014 (16:00 h)	16:00	Castelí£o (Fortaleza)	Felix Brych (GER)	2014_BRAZIL_FS.htm
+142	39800	England	Italy	2-1	False	FALSE	GROUP STAGE	FALSE	2014	14-06-2014 (18:00 h)	18:00	Arena da AmazíÇnia (Manaus)	Bjí_rn Kuipers (NED)	2014_BRAZIL_FS.htm
+143	40267	Ivory Coast	Japan	1-2	False	FALSE	GROUP STAGE	FALSE	2014	14-06-2014 (22:00 h)	22:00	Arena Pernambuco (Recife)	Enrique Osses (CHI)	2014_BRAZIL_FS.htm
+144	68351	Switzerland	Ecuador	1-2	False	FALSE	GROUP STAGE	FALSE	2014	15-06-2014 (13:00 h)	13:00	Estí€Œçdio Nacional de Brasí€Œ_lia (Brasí€Œ_lia)	Ravshan Irmatov (UZB)	2014_BRAZIL_FS.htm
+145	43012	France	Honduras	3-0	False	FALSE	GROUP STAGE	FALSE	2014	15-06-2014 (16:00 h)	16:00	Estí€Œçdio Beira-Rio (Porto Alegre)	Sandro Meira Ricci (BRA)	2014_BRAZIL_FS.htm
+146	74738	Argentina	Bosnia-Herzegovina	1-2	False	FALSE	GROUP STAGE	FALSE	2014	15-06-2014 (19:00 h)	19:00	Maracaní£ (Rio de Janeiro)	Joel Aguilar (SLV)	2014_BRAZIL_FS.htm
+147	51081	Germany	Portugal	4-0	False	FALSE	GROUP STAGE	FALSE	2014	16-06-2014 (13:00 h)	13:00	Arena Fonte Nova (Salvador)	Milorad Ma_iÛˆ (SER)	2014_BRAZIL_FS.htm
+148	39081	Iran	Nigeria	-	False	FALSE	GROUP STAGE	FALSE	2014	16-06-2014 (16:00 h)	16:00	Arena da Baixada (Curitiba)	Carlos Vera (ECU)	2014_BRAZIL_FS.htm
+149	39760	Ghana	USA	2-1	False	FALSE	GROUP STAGE	FALSE	2014	16-06-2014 (19:00 h)	19:00	Arena das Dunas (Natal)	Jonas Eriksson (SWE)	2014_BRAZIL_FS.htm
+150	56800	Belgium	Algeria	1-2	False	FALSE	GROUP STAGE	FALSE	2014	17-06-2014 (13:00 h)	13:00	Mineirí£o (Belo Horizonte)	Marco Antonio Rodrí€Œ_guez (MEX)	2014_BRAZIL_FS.htm
+151	60342	Brazil	Mexico	-	False	FALSE	GROUP STAGE	FALSE	2014	17-06-2014 (16:00 h)	16:00	Castelí£o (Fortaleza)	Cí€Œ_neyt íˆakÛ±r (TUR)	2014_BRAZIL_FS.htm
+152	37603	Russia	South Korea	1-1	False	FALSE	GROUP STAGE	FALSE	2014	17-06-2014 (18:00 h)	18:00	Arena Pantanal (Cuiabí€Œç)	Ní€Œ©stor Pitana (ARG)	2014_BRAZIL_FS.htm
+153	42877	Australia	Netherlands	3-2	False	FALSE	GROUP STAGE	FALSE	2014	18-06-2014 (13:00 h)	13:00	Estí€Œçdio Beira-Rio (Porto Alegre)	Djamel Haimoudi (ALG)	2014_BRAZIL_FS.htm
+154	74101	Spain	Chile	0-2	False	FALSE	GROUP STAGE	FALSE	2014	18-06-2014 (16:00 h)	16:00	Maracaní£ (Rio de Janeiro)	Mark Geiger (USA)	2014_BRAZIL_FS.htm
+155	39982	Cameroon	Croatia	0-4	False	FALSE	GROUP STAGE	FALSE	2014	18-06-2014 (18:00 h)	18:00	Arena da AmazíÇnia (Manaus)	Pedro Proení_a Oliveira (POR)	2014_BRAZIL_FS.htm
+156	68748	Colombia	Ivory Coast	1-2	False	FALSE	GROUP STAGE	FALSE	2014	19-06-2014 (13:00 h)	13:00	Estí€Œçdio Nacional de Brasí€Œ_lia (Brasí€Œ_lia)	Howard Webb (ENG)	2014_BRAZIL_FS.htm
+157	62575	Uruguay	England	1-2	False	FALSE	GROUP STAGE	FALSE	2014	19-06-2014 (16:00 h)	16:00	Arena Corinthians (Sí£o Paulo)	Carlos Velasco Carballo (SPA)	2014_BRAZIL_FS.htm
+158	39485	Japan	Greece	-	False	FALSE	GROUP STAGE	FALSE	2014	19-06-2014 (19:00 h)	19:00	Arena das Dunas (Natal)	Joel Aguilar (SLV)	2014_BRAZIL_FS.htm
+159	40285	Italy	Costa Rica	0-1	False	FALSE	GROUP STAGE	FALSE	2014	20-06-2014 (13:00 h)	13:00	Arena Pernambuco (Recife)	Enrique Osses (CHI)	2014_BRAZIL_FS.htm
+160	51003	Switzerland	France	5-2	False	FALSE	GROUP STAGE	FALSE	2014	20-06-2014 (16:00 h)	16:00	Arena Fonte Nova (Salvador)	Bjí_rn Kuipers (NED)	2014_BRAZIL_FS.htm
+161	39224	Honduras	Ecuador	2-1	False	FALSE	GROUP STAGE	FALSE	2014	20-06-2014 (19:00 h)	19:00	Arena da Baixada (Curitiba)	Ben Williams (AUS)	2014_BRAZIL_FS.htm
+162	57698	Argentina	Iran	1-0	False	FALSE	GROUP STAGE	FALSE	2014	21-06-2014 (13:00 h)	13:00	Mineirí£o (Belo Horizonte)	Milorad Ma_iÛˆ (SER)	2014_BRAZIL_FS.htm
+163	59621	Germany	Ghana	2-2	False	FALSE	GROUP STAGE	FALSE	2014	21-06-2014 (16:00 h)	16:00	Castelí£o (Fortaleza)	Sandro Meira Ricci (BRA)	2014_BRAZIL_FS.htm
+164	40499	Nigeria	Bosnia-Herzegovina	1-0	False	FALSE	GROUP STAGE	FALSE	2014	21-06-2014 (18:00 h)	18:00	Arena Pantanal (Cuiabí€Œç)	Peter Oí¢ŒóŒ»Leary (NZL)	2014_BRAZIL_FS.htm
+165	73819	Belgium	Russia	1-0	False	FALSE	GROUP STAGE	FALSE	2014	22-06-2014 (13:00 h)	13:00	Maracaní£ (Rio de Janeiro)	Felix Brych (GER)	2014_BRAZIL_FS.htm
+166	42732	South Korea	Algeria	4-2	False	FALSE	GROUP STAGE	FALSE	2014	22-06-2014 (16:00 h)	16:00	Estí€Œçdio Beira-Rio (Porto Alegre)	Wilmar Roldí€Œçn (COL)	2014_BRAZIL_FS.htm
+167	40123	USA	Portugal	2-2	False	FALSE	GROUP STAGE	FALSE	2014	22-06-2014 (18:00 h)	18:00	Arena da AmazíÇnia (Manaus)	Ní€Œ©stor Pitana (ARG)	2014_BRAZIL_FS.htm
+168	39375	Australia	Spain	0-3	False	FALSE	GROUP STAGE	FALSE	2014	23-06-2014 (13:00 h)	13:00	Arena da Baixada (Curitiba)	Nawaf Shukralla (BHR)	2014_BRAZIL_FS.htm
+169	62996	Netherlands	Chile	2-0	False	FALSE	GROUP STAGE	FALSE	2014	23-06-2014 (13:00 h)	13:00	Arena Corinthians (Sí£o Paulo)	Bakary Gassama (GAM)	2014_BRAZIL_FS.htm
+170	69112	Cameroon	Brazil	4-1	False	FALSE	GROUP STAGE	FALSE	2014	23-06-2014 (17:00 h)	17:00	Estí€Œçdio Nacional de Brasí€Œ_lia (Brasí€Œ_lia)	Jonas Eriksson (SWE)	2014_BRAZIL_FS.htm
+171	41212	Croatia	Mexico	3-1	False	FALSE	GROUP STAGE	FALSE	2014	23-06-2014 (17:00 h)	17:00	Arena Pernambuco (Recife)	Ravshan Irmatov (UZB)	2014_BRAZIL_FS.htm
+172	39706	Italy	Uruguay	0-1	False	FALSE	GROUP STAGE	FALSE	2014	24-06-2014 (13:00 h)	13:00	Arena das Dunas (Natal)	Marco Antonio Rodrí€Œ_guez (MEX)	2014_BRAZIL_FS.htm
+173	57823	Costa Rica	England	-	False	FALSE	GROUP STAGE	FALSE	2014	24-06-2014 (13:00 h)	13:00	Mineirí£o (Belo Horizonte)	Djamel Haimoudi (ALG)	2014_BRAZIL_FS.htm
+174	40340	Japan	Colombia	4-1	False	FALSE	GROUP STAGE	FALSE	2014	24-06-2014 (16:00 h)	16:00	Arena Pantanal (Cuiabí€Œç)	Pedro Proení_a Oliveira (POR)	2014_BRAZIL_FS.htm
+175	59095	Greece	Ivory Coast	1-2	False	FALSE	GROUP STAGE	FALSE	2014	24-06-2014 (17:00 h)	17:00	Castelí£o (Fortaleza)	Carlos Vera (ECU)	2014_BRAZIL_FS.htm
+176	43285	Nigeria	Argentina	3-2	False	FALSE	GROUP STAGE	FALSE	2014	25-06-2014 (13:00 h)	13:00	Estí€Œçdio Beira-Rio (Porto Alegre)	Nicola Rizzoli (ITA)	2014_BRAZIL_FS.htm
+177	48011	Bosnia-Herzegovina	Iran	1-3	False	FALSE	GROUP STAGE	FALSE	2014	25-06-2014 (13:00 h)	13:00	Arena Fonte Nova (Salvador)	Carlos Velasco Carballo (SPA)	2014_BRAZIL_FS.htm
+178	40322	Honduras	Switzerland	0-3	False	FALSE	GROUP STAGE	FALSE	2014	25-06-2014 (16:00 h)	16:00	Arena da AmazíÇnia (Manaus)	Ní€Œ©stor Pitana (ARG)	2014_BRAZIL_FS.htm
+179	73749	Ecuador	France	-	False	FALSE	GROUP STAGE	FALSE	2014	25-06-2014 (17:00 h)	17:00	Maracaní£ (Rio de Janeiro)	Douí€Œ© Noumandiez (CIV)	2014_BRAZIL_FS.htm
+180	41876	USA	Germany	0-1	False	FALSE	GROUP STAGE	FALSE	2014	26-06-2014 (13:00 h)	13:00	Arena Pernambuco (Recife)	Ravshan Irmatov (UZB)	2014_BRAZIL_FS.htm
+181	67540	Portugal	Ghana	1-2	False	FALSE	GROUP STAGE	FALSE	2014	26-06-2014 (13:00 h)	13:00	Estí€Œçdio Nacional de Brasí€Œ_lia (Brasí€Œ_lia)	Nawaf Shukralla (BHR)	2014_BRAZIL_FS.htm
+182	61397	South Korea	Belgium	0-1	False	FALSE	GROUP STAGE	FALSE	2014	26-06-2014 (17:00 h)	17:00	Arena Corinthians (Sí£o Paulo)	Ben Williams (AUS)	2014_BRAZIL_FS.htm
+183	39311	Algeria	Russia	1-1	False	FALSE	GROUP STAGE	FALSE	2014	26-06-2014 (17:00 h)	17:00	Arena da Baixada (Curitiba)	Cí€Œ_neyt íˆakÛ±r (TUR)	2014_BRAZIL_FS.htm
+184	57714	Brazil	Chile	1-1	False	1-0 (David Luiz); 1-0 (Pinilla [saved]) / 1-0 (Willian [out]); 1-0 (Alexis Sí€Œçnchez [saved]) / 2-0 (Marcelo); 2-1 (Arí€Œçnguiz) / 2-1 (Hulk [saved]); 2-2 (Dí€Œ_az) / 3-2 (Neymar); 3-2 (Jara [out])	1/8 FINAL	FALSE	2014	28-06-2014 (13:00 h)	13:00	Mineirí£o (Belo Horizonte)	Howard Webb (ENG)	2014_BRAZIL_FS.htm
+185	73804	Colombia	Uruguay	2-0	False	FALSE	1/8 FINAL	FALSE	2014	28-06-2014 (17:00 h)	17:00	Maracaní£ (Rio de Janeiro)	Bjí_rn Kuipers (NED)	2014_BRAZIL_FS.htm
+186	58817	Netherlands	Mexico	1-2	False	FALSE	1/8 FINAL	FALSE	2014	29-06-2014 (13:00 h)	13:00	Castelí£o (Fortaleza)	Pedro Proení_a Oliveira (POR)	2014_BRAZIL_FS.htm
+187	41242	Costa Rica	Greece	1-1	False	1-0 (Borges); 1-1 (Mitroglou) / 2-1 (Bryan Ruiz); 2-2 (Christodoulopoulos) / 3-2 (Giancarlo Gonzí€Œçlez); 3-3 (Cholevas) / 4-3 (Campbell); 4-3 (Gekas [saved]) / 5-3 (Umaí±a)	1/8 FINAL	FALSE	2014	29-06-2014 (17:00 h)	17:00	Arena Pernambuco (Recife)	Ben Williams (AUS)	2014_BRAZIL_FS.htm
+188	67882	France	Nigeria	2-0	False	FALSE	1/8 FINAL	FALSE	2014	30-06-2014 (13:00 h)	13:00	Estí€Œçdio Nacional de Brasí€Œ_lia (Brasí€Œ_lia)	Mark Geiger (USA)	2014_BRAZIL_FS.htm
+189	43063	Germany	Algeria	1-2	False	FALSE	1/8 FINAL	FALSE	2014	30-06-2014 (17:00 h)	17:00	Estí€Œçdio Beira-Rio (Porto Alegre)	Sandro Meira Ricci (BRA)	2014_BRAZIL_FS.htm
+190	63255	Argentina	Switzerland	1-0	False	FALSE	1/8 FINAL	FALSE	2014	1-07-2014 (13:00 h)	13:00	Arena Corinthians (Sí£o Paulo)	Jonas Eriksson (SWE)	2014_BRAZIL_FS.htm
+191	51227	Belgium	USA	1-2	False	FALSE	1/8 FINAL	FALSE	2014	1-07-2014 (17:00 h)	17:00	Arena Fonte Nova (Salvador)	Djamel Haimoudi (ALG)	2014_BRAZIL_FS.htm
+192	74240	France	Germany	0-1	False	FALSE	1/4 FINAL	FALSE	2014	4-07-2014 (13:00 h)	13:00	Maracaní£ (Rio de Janeiro)	Ní€Œ©stor Pitana (ARG)	2014_BRAZIL_FS.htm
+193	60342	Brazil	Colombia	1-2	False	FALSE	1/4 FINAL	FALSE	2014	4-07-2014 (17:00 h)	17:00	Castelí£o (Fortaleza)	Carlos Velasco Carballo (SPA)	2014_BRAZIL_FS.htm
+194	68551	Argentina	Belgium	1-0	False	FALSE	1/4 FINAL	FALSE	2014	5-07-2014 (13:00 h)	13:00	Estí€Œçdio Nacional de Brasí€Œ_lia (Brasí€Œ_lia)	Nicola Rizzoli (ITA)	2014_BRAZIL_FS.htm
+195	51179	Netherlands	Costa Rica	-	False	0-1 (Borges); 1-1 (Van Persie) / 1-1 (Bryan Ruiz [saved]); 2-1 (Robben) / 2-2 (Giancarlo Gonzí€Œçlez); 3-2 (Sneijder) / 3-3 (Bolaí±os); 4-3 (Kuijt) / 4-3 (Umaí±a [saved])	1/4 FINAL	FALSE	2014	5-07-2014 (17:00 h)	17:00	Arena Fonte Nova (Salvador)	Ravshan Irmatov (UZB)	2014_BRAZIL_FS.htm
+196	58141	Brazil	Germany	7-1	False	FALSE	1/2 FINAL	FALSE	2014	8-07-2014 (17:00 h)	17:00	Mineirí£o (Belo Horizonte)	Marco Antonio Rodrí€Œ_guez (MEX)	2014_BRAZIL_FS.htm
+197	63267	Netherlands	Argentina	-	False	0-0 (Vlaar [saved]); 0-1 (Messi) / 1-1 (Robben); 1-2 (Garay) / 1-2 (Sneijder [saved]); 1-3 (Agí€Œ_ero) / 2-3 (Kuijt); 2-4 (Maxi Rodrí€Œ_guez)	1/2 FINAL	FALSE	2014	9-07-2014 (17:00 h)	17:00	Arena Corinthians (Sí£o Paulo)	Cí€Œ_neyt íˆakÛ±r (TUR)	2014_BRAZIL_FS.htm
+198	68034	Brazil	Netherlands	0-3	False	FALSE	PLACES 3-4	FALSE	2014	12-07-2014 (17:00 h)	17:00	Estí€Œçdio Nacional de Brasí€Œ_lia (Brasí€Œ_lia)	Djamel Haimoudi (ALG)	2014_BRAZIL_FS.htm
+199	74738	Germany	Argentina	1-0	False	FALSE	FINAL ROUND	FALSE	2014	13-07-2014 (16:00 h)	16:00	Maracaní£ (Rio de Janeiro)	Nicola Rizzoli (ITA)	2014_BRAZIL_FS.htm
+200	4444	France	Mexico	1-4	False	FALSE	GROUP STAGE	FALSE	1930	13-07-1930 (15:00 h)	15:00	Pocitos (Montevideo)	Domingo Lombardi (URU)	1930_URUGUAY_FS.htm
+201	18436	USA	Belgium	3-0	False	FALSE	GROUP STAGE	FALSE	1930	13-07-1930 (15:00 h)	15:00	Parque Central (Montevideo)	Josí€Œ© Bartolomí€Œ© Mací€Œ_as (ARG)	1930_URUGUAY_FS.htm
+202	24059	Yugoslavia	Brazil	1-2	False	FALSE	GROUP STAGE	FALSE	1930	14-07-1930 (12:45 h)	12:45	Parque Central (Montevideo)	Aní€Œ_bal Tejada (URU)	1930_URUGUAY_FS.htm
+203	2000	Romania	Peru	1-3	False	FALSE	GROUP STAGE	FALSE	1930	14-07-1930 (14:50 h)	14:50	Pocitos (Montevideo)	Alberto Warnken (CHI)	1930_URUGUAY_FS.htm
+204	23409	Argentina	France	1-0	False	FALSE	GROUP STAGE	FALSE	1930	15-07-1930 (16:00 h)	16:00	Parque Central (Montevideo)	Gilberto de Almeida Rí€ŒÈgo (BRA)	1930_URUGUAY_FS.htm
+205	9249	Chile	Mexico	3-0	False	FALSE	GROUP STAGE	FALSE	1930	16-07-1930 (14:45 h)	14:45	Parque Central (Montevideo)	Henri Christophe (BEL)	1930_URUGUAY_FS.htm
+206	18306	Yugoslavia	Bolivia	4-0	False	FALSE	GROUP STAGE	FALSE	1930	17-07-1930 (12:45 h)	12:45	Parque Central (Montevideo)	Francisco Mateucci (URU)	1930_URUGUAY_FS.htm
+207	18306	USA	Paraguay	3-0	False	FALSE	GROUP STAGE	FALSE	1930	17-07-1930 (14:45 h)	14:45	Parque Central (Montevideo)	Josí€Œ© Bartolomí€Œ© Mací€Œ_as (ARG)	1930_URUGUAY_FS.htm
+208	57735	Uruguay	Peru	1-0	False	FALSE	GROUP STAGE	FALSE	1930	18-07-1930 (14:30 h)	14:30	Estadio del Centenario (Montevideo)	Jean Langenus (BEL)	1930_URUGUAY_FS.htm
+209	42100	Chile	France	1-0	False	FALSE	GROUP STAGE	FALSE	1930	19-07-1930 (12:50 h)	12:50	Estadio del Centenario (Montevideo)	Aní€Œ_bal Tejada (URU)	1930_URUGUAY_FS.htm
+210	42100	Argentina	Mexico	3-6	False	FALSE	GROUP STAGE	FALSE	1930	19-07-1930 (15:00 h)	15:00	Estadio del Centenario (Montevideo)	Ulises Saucedo (BOL)	1930_URUGUAY_FS.htm
+211	25466	Brazil	Bolivia	4-0	False	FALSE	GROUP STAGE	FALSE	1930	20-07-1930 (13:00 h)	13:00	Estadio del Centenario (Montevideo)	John Balway (FRA)	1930_URUGUAY_FS.htm
+212	25466	Paraguay	Belgium	1-0	False	FALSE	GROUP STAGE	FALSE	1930	20-07-1930 (15:00 h)	15:00	Estadio del Centenario (Montevideo)	Ricardo Vallarino (URU)	1930_URUGUAY_FS.htm
+213	70022	Uruguay	Romania	4-0	False	FALSE	GROUP STAGE	FALSE	1930	21-07-1930 (14:50 h)	14:50	Estadio del Centenario (Montevideo)	Gilberto de Almeida Rí€ŒÈgo (BRA)	1930_URUGUAY_FS.htm
+214	41459	Argentina	Chile	1-3	False	FALSE	GROUP STAGE	FALSE	1930	22-07-1930 (14:45 h)	14:45	Estadio del Centenario (Montevideo)	Jean Langenus (BEL)	1930_URUGUAY_FS.htm
+215	72886	Argentina	USA	1-6	False	FALSE	1/2 FINAL	FALSE	1930	26-07-1930 (14:45 h)	14:45	Estadio del Centenario (Montevideo)	Jean Langenus (BEL)	1930_URUGUAY_FS.htm
+216	79867	Uruguay	Yugoslavia	1-6	False	FALSE	1/2 FINAL	FALSE	1930	27-07-1930 (14:45 h)	14:45	Estadio del Centenario (Montevideo)	Gilberto de Almeida Rí€ŒÈgo (BRA)	1930_URUGUAY_FS.htm
+217	68346	Uruguay	Argentina	2-4	False	FALSE	FINAL ROUND	FALSE	1930	30-07-1930 (15:30 h)	15:30	Estadio del Centenario (Montevideo)	Jean Langenus (BEL)	1930_URUGUAY_FS.htm
+218	95000	Bulgaria	Italy	1-1	False	FALSE	GROUP STAGE	FALSE	1986	31-05-1986 (12:00 h)	12:00	Estadio Azteca (Mí€Œ©xico D.F.)	Erik Fredriksson (SWE)	1986_MEXICO_FS.htm
+219	35748	Spain	Brazil	0-1	False	FALSE	GROUP STAGE	FALSE	1986	1-06-1986 (12:00 h)	12:00	Estadio Jalisco (Guadalajara)	Christopher Bambridge (AUS)	1986_MEXICO_FS.htm
+220	35748	Canada	France	0-1	False	FALSE	GROUP STAGE	FALSE	1986	1-06-1986 (16:00 h)	16:00	Nou Camp (Leí€Œ_n)	Herní€Œçn Martí€Œ_n Silva Arce (CHI)	1986_MEXICO_FS.htm
+221	40000	Argentina	South Korea	1-3	False	FALSE	GROUP STAGE	FALSE	1986	2-06-1986 (12:00 h)	12:00	Estadio Olí€Œ_mpico í¢ŒóŒìMí€Œ©xico 68í¢ŒóŒ (Mí€Œ©xico D.F.)	Victoriano Sí€Œçnchez Arminio (SPA)	1986_MEXICO_FS.htm
+222	16500	Soviet Union	Hungary	6-0	False	FALSE	GROUP STAGE	FALSE	1986	2-06-1986 (12:00 h)	12:00	Revolucií€Œ_n Mexicana (Irapuato)	Luigi Agnolin (ITA)	1986_MEXICO_FS.htm
+223	19694	Morocco	Poland	-	False	FALSE	GROUP STAGE	FALSE	1986	2-06-1986 (16:00 h)	16:00	Estadio Universitario (Monterrey)	Josí€Œ© Luis Martí€Œ_nez Bazí€Œçn (URU)	1986_MEXICO_FS.htm
+224	110000	Belgium	Mexico	2-1	False	FALSE	GROUP STAGE	FALSE	1986	3-06-1986 (12:00 h)	12:00	Estadio Azteca (Mí€Œ©xico D.F.)	Carlos Alfonso Espí€Œ_sito (ARG)	1986_MEXICO_FS.htm
+225	22000	Algeria	Northern Ireland	1-1	False	FALSE	GROUP STAGE	FALSE	1986	3-06-1986 (12:00 h)	12:00	Tres de Marzo (Guadalajara)	Valerij Butenko (USSR)	1986_MEXICO_FS.htm
+226	19998	Portugal	England	1-0	False	FALSE	GROUP STAGE	FALSE	1986	3-06-1986 (16:00 h)	16:00	Estadio Tecnolí€Œ_gico (Monterrey)	Volker Roth (FRG)	1986_MEXICO_FS.htm
+227	24000	Paraguay	Iraq	1-0	False	FALSE	GROUP STAGE	FALSE	1986	4-06-1986 (12:00 h)	12:00	La Bombonera (Toluca)	Edwin Picon-Ackong (MRI)	1986_MEXICO_FS.htm
+228	30500	Uruguay	FRG	1-1	False	FALSE	GROUP STAGE	FALSE	1986	4-06-1986 (12:00 h)	12:00	La Corregidora (Querí€Œ©taro)	Vojtí‹Œ_ch Christov (CZE)	1986_MEXICO_FS.htm
+229	18000	Scotland	Denmark	0-1	False	FALSE	GROUP STAGE	FALSE	1986	4-06-1986 (16:00 h)	16:00	Estadio Neza '86 (Nezahualcí€Œ_yotl)	Lajos Ní€Œ©meth (HUN)	1986_MEXICO_FS.htm
+230	32000	Italy	Argentina	1-1	False	FALSE	GROUP STAGE	FALSE	1986	5-06-1986 (12:00 h)	12:00	Estadio Cuauhtí€Œ©moc (Puebla)	Jan Keizer (NED)	1986_MEXICO_FS.htm
+231	36540	France	Soviet Union	1-1	False	FALSE	GROUP STAGE	FALSE	1986	5-06-1986 (12:00 h)	12:00	Nou Camp (Leí€Œ_n)	Romualdo Arppi Filho (BRA)	1986_MEXICO_FS.htm
+232	45000	South Korea	Bulgaria	1-1	False	FALSE	GROUP STAGE	FALSE	1986	5-06-1986 (16:00 h)	16:00	Estadio Olí€Œ_mpico í¢ŒóŒìMí€Œ©xico 68í¢ŒóŒ (Mí€Œ©xico D.F.)	Fallaj al-Shanar (KSA)	1986_MEXICO_FS.htm
+233	13800	Hungary	Canada	2-0	False	FALSE	GROUP STAGE	FALSE	1986	6-06-1986 (12:00 h)	12:00	Revolucií€Œ_n Mexicana (Irapuato)	Jamal al-Sharif (SYR)	1986_MEXICO_FS.htm
+234	47000	Brazil	Algeria	1-0	False	FALSE	GROUP STAGE	FALSE	1986	6-06-1986 (12:00 h)	12:00	Estadio Jalisco (Guadalajara)	Rí€Œ_mulo Mí€Œ©ndez (GUA)	1986_MEXICO_FS.htm
+235	20200	England	Morocco	-	False	FALSE	GROUP STAGE	FALSE	1986	6-06-1986 (16:00 h)	16:00	Estadio Tecnolí€Œ_gico (Monterrey)	Gabriel Gonzí€Œçlez (PAR)	1986_MEXICO_FS.htm
+236	114600	Mexico	Paraguay	1-1	False	FALSE	GROUP STAGE	FALSE	1986	7-06-1986 (12:00 h)	12:00	Estadio Azteca (Mí€Œ©xico D.F.)	George Courtney (ENG)	1986_MEXICO_FS.htm
+237	28000	Northern Ireland	Spain	2-1	False	FALSE	GROUP STAGE	FALSE	1986	7-06-1986 (12:00 h)	12:00	Tres de Marzo (Guadalajara)	Horst Brummeier (AUT)	1986_MEXICO_FS.htm
+238	19915	Poland	Portugal	1-0	False	FALSE	GROUP STAGE	FALSE	1986	7-06-1986 (16:00 h)	16:00	Estadio Universitario (Monterrey)	Ali Ben Nasser (TUN)	1986_MEXICO_FS.htm
+239	10000	Iraq	Belgium	2-1	False	FALSE	GROUP STAGE	FALSE	1986	8-06-1986 (12:00 h)	12:00	La Bombonera (Toluca)	Jesí€Œ_s Dí€Œ_az Palacios (COL)	1986_MEXICO_FS.htm
+240	25000	FRG	Scotland	1-2	False	FALSE	GROUP STAGE	FALSE	1986	8-06-1986 (12:00 h)	12:00	La Corregidora (Querí€Œ©taro)	Ion Igna (ROM)	1986_MEXICO_FS.htm
+241	26500	Denmark	Uruguay	1-6	False	FALSE	GROUP STAGE	FALSE	1986	8-06-1986 (16:00 h)	16:00	Estadio Neza '86 (Nezahualcí€Œ_yotl)	Antonio Mí€Œçrquez Ramí€Œ_rez (MEX)	1986_MEXICO_FS.htm
+242	31420	Hungary	France	0-3	False	FALSE	GROUP STAGE	FALSE	1986	9-06-1986 (12:00 h)	12:00	Nou Camp (Leí€Œ_n)	Carlos Alberto da Silva Valente (POR)	1986_MEXICO_FS.htm
+243	14200	Soviet Union	Canada	2-0	False	FALSE	GROUP STAGE	FALSE	1986	9-06-1986 (12:00 h)	12:00	Revolucií€Œ_n Mexicana (Irapuato)	Idrissa Traorí€Œ© (MLI)	1986_MEXICO_FS.htm
+244	20000	South Korea	Italy	3-2	False	FALSE	GROUP STAGE	FALSE	1986	10-06-1986 (12:00 h)	12:00	Estadio Cuauhtí€Œ©moc (Puebla)	David Socha (USA)	1986_MEXICO_FS.htm
+245	45000	Argentina	Bulgaria	2-0	False	FALSE	GROUP STAGE	FALSE	1986	10-06-1986 (12:00 h)	12:00	Estadio Olí€Œ_mpico í¢ŒóŒìMí€Œ©xico 68í¢ŒóŒ (Mí€Œ©xico D.F.)	Berny Ulloa (CRC)	1986_MEXICO_FS.htm
+246	10000	Paraguay	Belgium	2-2	False	FALSE	GROUP STAGE	FALSE	1986	11-06-1986 (12:00 h)	12:00	La Bombonera (Toluca)	Bogdan Dochev (BUL)	1986_MEXICO_FS.htm
+247	103763	Iraq	Mexico	0-1	False	FALSE	GROUP STAGE	FALSE	1986	11-06-1986 (12:00 h)	12:00	Estadio Azteca (Mí€Œ©xico D.F.)	Zoran Petrovií‹Œˆ (YUG)	1986_MEXICO_FS.htm
+248	22600	England	Poland	3-0	False	FALSE	GROUP STAGE	FALSE	1986	11-06-1986 (16:00 h)	16:00	Estadio Universitario (Monterrey)	Andrí€Œ© Daina (SWI)	1986_MEXICO_FS.htm
+249	18000	Portugal	Morocco	3-1	False	FALSE	GROUP STAGE	FALSE	1986	11-06-1986 (16:00 h)	16:00	Estadio Jalisco (Guadalajara)	Alan Snoddy (NIR)	1986_MEXICO_FS.htm
+250	46500	Northern Ireland	Brazil	0-3	False	FALSE	GROUP STAGE	FALSE	1986	12-06-1986 (12:00 h)	12:00	Estadio Jalisco (Guadalajara)	Siegfried Kirschen (GDR)	1986_MEXICO_FS.htm
+251	23980	Algeria	Spain	0-3	False	FALSE	GROUP STAGE	FALSE	1986	12-06-1986 (12:00 h)	12:00	Estadio Tecnolí€Œ_gico (Monterrey)	Shizuo Takada (JAP)	1986_MEXICO_FS.htm
+252	28500	Denmark	FRG	2-0	False	FALSE	GROUP STAGE	FALSE	1986	13-06-1986 (12:00 h)	12:00	La Corregidora (Querí€Œ©taro)	Alexis Ponnet (BEL)	1986_MEXICO_FS.htm
+253	20000	Scotland	Uruguay	-	False	FALSE	GROUP STAGE	FALSE	1986	13-06-1986 (12:00 h)	12:00	Estadio Neza '86 (Nezahualcí€Œ_yotl)	Joí€Œ‚l Quiniou (FRA)	1986_MEXICO_FS.htm
+254	114580	Mí€Œ©xico	Bulgaria	2-0	False	FALSE	1/8 FINAL	FALSE	1986	15-06-1986 (12:00 h)	12:00	Estadio Azteca (Mí€Œ©xico D.F.)	Romualdo Arppi Filho (BRA)	1986_MEXICO_FS.htm
+255	32277	Soviet Union	Belgium	4-3	False	FALSE	1/8 FINAL	FALSE	1986	15-06-1986 (16:00 h)	16:00	Nou Camp (Leí€Œ_n)	Erik Fredriksson (SWE)	1986_MEXICO_FS.htm
+256	45000	Brazil	Poland	4-0	False	FALSE	1/8 FINAL	FALSE	1986	16-06-1986 (12:00 h)	12:00	Estadio Jalisco (Guadalajara)	Volker Roth (FRG)	1986_MEXICO_FS.htm
+257	26000	Argentina	Uruguay	1-0	False	FALSE	1/8 FINAL	FALSE	1986	16-06-1986 (16:00 h)	16:00	Estadio Cuauhtí€Œ©moc (Puebla)	Luigi Agnolin (ITA)	1986_MEXICO_FS.htm
+258	71449	Italy	France	0-2	False	FALSE	1/8 FINAL	FALSE	1986	17-06-1986 (12:00 h)	12:00	Estadio Olí€Œ_mpico í¢ŒóŒìMí€Œ©xico 68í¢ŒóŒ (Mí€Œ©xico D.F.)	Carlos Alfonso Espí€Œ_sito (ARG)	1986_MEXICO_FS.htm
+259	19800	Morocco	FRG	0-1	False	FALSE	1/8 FINAL	FALSE	1986	17-06-1986 (16:00 h)	16:00	Estadio Universitario (Monterrey)	Zoran Petrovií‹Œˆ (YUG)	1986_MEXICO_FS.htm
+260	98728	England	Paraguay	3-0	False	FALSE	1/8 FINAL	FALSE	1986	18-06-1986 (12:00 h)	12:00	Estadio Azteca (Mí€Œ©xico D.F.)	Jamal al-Sharif (SYR)	1986_MEXICO_FS.htm
+261	38500	Denmark	Spain	5-1	False	FALSE	1/8 FINAL	FALSE	1986	18-06-1986 (16:00 h)	16:00	La Corregidora (Querí€Œ©taro)	Jan Keizer (NED)	1986_MEXICO_FS.htm
+262	65677	Brazil	France	1-1	False	0-0 (Sí€Œ_crates [saved]); 0-1 (Stopyra) / 1-1 (Alemí€Œ£o); 1-2 (Amorí€Œ_s) / 2-2 (Zico); 2-3 (Bellone) / 3-3 (Branco); 3-3 (Platini [out]) / 3-3 (Jí€Œ_lio Cí€Œ©sar [out]); 3-4 (Ferní€Œçndez)	1/4 FINAL	FALSE	1986	21-06-1986 (12:00 h)	12:00	Estadio Jalisco (Guadalajara)	Ion Igna (ROM)	1986_MEXICO_FS.htm
+263	44386	FRG	Mexico	-	False	1-0 (Allofs); 1-1 (Negrete) / 2-1 (Brehme); 2-1 (Quirarte [saved]) / 3-1 (Matthí€Œ_us); 3-1 (Serví€Œ_n [saved]) / 4-1 (Littbarski)	1/4 FINAL	FALSE	1986	21-06-1986 (16:00 h)	16:00	Estadio Universitario (Monterrey)	Jesí€Œ_s Dí€Œ_az Palacios (COL)	1986_MEXICO_FS.htm
+264	114580	Argentina	England	1-2	False	FALSE	1/4 FINAL	FALSE	1986	22-06-1986 (12:00 h)	12:00	Estadio Azteca (Mí€Œ©xico D.F.)	Ali Ben Nasser (TUN)	1986_MEXICO_FS.htm
+265	45000	Spain	Belgium	1-1	False	1-0 (Seí€Œ±or); 1-1 (Claesen) / 1-1 (Eloy [saved]); 1-2 (Scifo) / 2-2 (Chendo); 2-3 (Broos) / 3-3 (Butragueí€Œ±o); 3-4 (Vervoort) / 4-4 (Ví€Œ_ctor); 4-5 (L. van der Elst)	1/4 FINAL	FALSE	1986	22-06-1986 (16:00 h)	16:00	Estadio Cuauhtí€Œ©moc (Puebla)	Siegfried Kirschen (GDR)	1986_MEXICO_FS.htm
+266	47500	France	FRG	0-2	False	FALSE	1/2 FINAL	FALSE	1986	25-06-1986 (12:00 h)	12:00	Estadio Jalisco (Guadalajara)	Luigi Agnolin (ITA)	1986_MEXICO_FS.htm
+267	110420	Argentina	Belgium	2-0	False	FALSE	1/2 FINAL	FALSE	1986	25-06-1986 (16:00 h)	16:00	Estadio Azteca (Mí€Œ©xico D.F.)	Antonio Mí€Œçrquez Ramí€Œ_rez (MEX)	1986_MEXICO_FS.htm
+268	21500	France	Belgium	2-4	False	FALSE	PLACES 3-4	FALSE	1986	28-06-1986 (12:00 h)	12:00	Estadio Cuauhtí€Œ©moc (Puebla)	George Courtney (ENG)	1986_MEXICO_FS.htm
+269	114580	Argentina	FRG	2-3	False	FALSE	FINAL ROUND	FALSE	1986	29-06-1986 (12:00 h)	12:00	Estadio Azteca (Mí€Œ©xico D.F.)	Romualdo Arppi Filho (BRA)	1986_MEXICO_FS.htm
+270	27152	Switzerland	Germany	1-1	False	FALSE	FIRST ROUND	FALSE	1938	4-06-1938 (18:00 h)	18:00	Parc des Princes (Paris)	Jean Langenus (BEL)	1938_FRANCE_FS.htm
+271	18826	Italy	Norway	1-2	False	FALSE	FIRST ROUND	FALSE	1938	5-06-1938 (17:00 h)	17:00	Ví€Œ©lodrome (Marseille)	Alois Beranek (GER)	1938_FRANCE_FS.htm
+272	30454	France	Belgium	1-3	False	FALSE	FIRST ROUND	FALSE	1938	5-06-1938 (17:00 h)	17:00	Stade Olympique de Colombes (Paris)	Hans Wí€Œ_thrich (SWI)	1938_FRANCE_FS.htm
+273	9091	Hungary	Dutch East Indies	6-0	False	FALSE	FIRST ROUND	FALSE	1938	5-06-1938 (17:00 h)	17:00	Ví€Œ©lodrome Municipal (Reims)	Roger Conrií€Œ© (FRA)	1938_FRANCE_FS.htm
+274	6707	Cuba	Romania	3-3	False	FALSE	FIRST ROUND	FALSE	1938	5-06-1938 (17:00 h)	17:00	Chapou (Toulouse)	Giuseppe Scarpi (ITA)	1938_FRANCE_FS.htm
+275	13452	Brazil	Poland	5-6	False	FALSE	FIRST ROUND	FALSE	1938	5-06-1938 (17:30 h)	17:30	Stade de la Meinau (Strasbourg)	Ivan Eklind (SWE)	1938_FRANCE_FS.htm
+276	10550	Czechoslovakia	Netherlands	3-0	False	FALSE	FIRST ROUND	FALSE	1938	5-06-1938 (18:30 h)	18:30	Stade de la Caví€Œ©e Verte (Le Havre)	Lucien Leclercq (FRA)	1938_FRANCE_FS.htm
+277	20025	Switzerland	Germany	2-4	True	FALSE	FIRST ROUND	FALSE	1938	9-06-1938 (18:00 h)	18:00	Parc des Princes (Paris)	Ivan Eklind (SWE)	1938_FRANCE_FS.htm
+278	7536	Cuba	Romania	1-2	True	FALSE	FIRST ROUND	FALSE	1938	9-06-1938 (18:00 h)	18:00	Chapou (Toulouse)	Alfred Birlem (GER)	1938_FRANCE_FS.htm
+279	58455	Italy	France	1-3	False	FALSE	1/4 FINAL	FALSE	1938	12-06-1938 (17:00 h)	17:00	Stade Olympique de Colombes (Paris)	Louis Baert (BEL)	1938_FRANCE_FS.htm
+280	22021	Brazil	Czechoslovakia	1-1	False	FALSE	1/4 FINAL	FALSE	1938	12-06-1938 (17:00 h)	17:00	Parc Lescure (Bordeaux)	Paul von Hertzka (HUN)	1938_FRANCE_FS.htm
+281	14800	Hungary	Switzerland	2-0	False	FALSE	1/4 FINAL	FALSE	1938	12-06-1938 (17:00 h)	17:00	Victor Boucquey (Lille)	Rinaldo Barlassina (ITA)	1938_FRANCE_FS.htm
+282	6846	Sweden	Cuba	8-0	False	FALSE	1/4 FINAL	FALSE	1938	12-06-1938 (17:00 h)	17:00	Fort Carrí€Œ© (Antibes)	Augustin Krist (CZE)	1938_FRANCE_FS.htm
+283	18141	Brazil	Czechoslovakia	1-2	False	FALSE	1/4 FINAL	FALSE	1938	14-06-1938 (18:00 h)	18:00	Parc Lescure (Bordeaux)	George Capdeville (FRA)	1938_FRANCE_FS.htm
+284	33000	Italy	Brazil	1-2	False	FALSE	1/2 FINAL	FALSE	1938	16-06-1938 (18:00 h)	18:00	Ví€Œ©lodrome (Marseille)	Hans Wí€Œ_thrich (SWI)	1938_FRANCE_FS.htm
+285	20155	Hungary	Sweden	1-5	False	FALSE	1/2 FINAL	FALSE	1938	16-06-1938 (18:00 h)	18:00	Parc des Princes (Paris)	Lucien Leclercq (FRA)	1938_FRANCE_FS.htm
+286	12500	Brazil	Sweden	2-4	False	FALSE	PLACES 3-4	FALSE	1938	19-06-1938 (17:00 h)	17:00	Parc Lescure (Bordeaux)	Jean Langenus (BEL)	1938_FRANCE_FS.htm
+287	45124	Italy	Hungary	2-4	False	FALSE	FINAL ROUND	FALSE	1938	19-06-1938 (17:00 h)	17:00	Stade Olympique de Colombes (Paris)	George Capdeville (FRA)	1938_FRANCE_FS.htm
+288	81649	Brazil	Mexico	4-0	False	FALSE	GROUP STAGE	FALSE	1950	24-06-1950 (15:00 h)	15:00	Maracaní€Œ£ (Rio de Janeiro)	George Reader (ENG)	1950_BRAZIL_FS.htm
+289	29703	England	Chile	2-0	False	FALSE	GROUP STAGE	FALSE	1950	25-06-1950 (15:00 h)	15:00	Maracaní€Œ£ (Rio de Janeiro)	Karel van der Meer (NED)	1950_BRAZIL_FS.htm
+290	9511	Spain	USA	1-3	False	FALSE	GROUP STAGE	FALSE	1950	25-06-1950 (15:00 h)	15:00	Durival de Britto e Silva (Curitiba)	Mí€Œçrio Goní€Œ_alves Vianna (BRA)	1950_BRAZIL_FS.htm
+291	36502	Sweden	Italy	2-3	False	FALSE	GROUP STAGE	FALSE	1950	25-06-1950 (15:00 h)	15:00	Pacaembu (Sí€Œ£o Paulo)	Jean Lutz (SWI)	1950_BRAZIL_FS.htm
+292	7336	Yugoslavia	Switzerland	3-0	False	FALSE	GROUP STAGE	FALSE	1950	25-06-1950 (18:00 h)	18:00	Estí€Œçdio Independí€ŒÈncia (Belo Horizonte)	Giovanni Galeati (ITA)	1950_BRAZIL_FS.htm
+293	42032	Brazil	Switzerland	2-2	False	FALSE	GROUP STAGE	FALSE	1950	28-06-1950 (15:00 h)	15:00	Pacaembu (Sí€Œ£o Paulo)	Ramí€Œ_n Azí€Œ_n (SPA)	1950_BRAZIL_FS.htm
+294	11078	Yugoslavia	Mexico	1-4	False	FALSE	GROUP STAGE	FALSE	1950	28-06-1950 (15:15 h)	15:15	Estí€Œçdio dos Eucaliptos (Porto Alegre)	Reginald Leafe (ENG)	1950_BRAZIL_FS.htm
+295	19790	Spain	Chile	2-0	False	FALSE	GROUP STAGE	FALSE	1950	29-06-1950 (15:00 h)	15:00	Maracaní€Œ£ (Rio de Janeiro)	Alberto da Gama Malcher (BRA)	1950_BRAZIL_FS.htm
+296	7903	Sweden	Paraguay	2-2	False	FALSE	GROUP STAGE	FALSE	1950	29-06-1950 (15:30 h)	15:30	Durival de Britto e Silva (Curitiba)	George Mitchell (SCO)	1950_BRAZIL_FS.htm
+297	10151	USA	England	1-0	False	FALSE	GROUP STAGE	FALSE	1950	29-06-1950 (18:00 h)	18:00	Estí€Œçdio Independí€ŒÈncia (Belo Horizonte)	Generoso Dattilo (ITA)	1950_BRAZIL_FS.htm
+298	142429	Brazil	Yugoslavia	2-0	False	FALSE	GROUP STAGE	FALSE	1950	1-07-1950 (15:00 h)	15:00	Maracaní€Œ£ (Rio de Janeiro)	Mervyn Griffiths (WAL)	1950_BRAZIL_FS.htm
+299	74462	Spain	England	1-0	False	FALSE	GROUP STAGE	FALSE	1950	2-07-1950 (15:00 h)	15:00	Maracaní€Œ£ (Rio de Janeiro)	Giovanni Galeati (ITA)	1950_BRAZIL_FS.htm
+300	25811	Italy	Paraguay	2-0	False	FALSE	GROUP STAGE	FALSE	1950	2-07-1950 (15:00 h)	15:00	Pacaembu (Sí€Œ£o Paulo)	Arthur Ellis (ENG)	1950_BRAZIL_FS.htm
+301	5284	Uruguay	Bolivia	8-0	False	FALSE	GROUP STAGE	FALSE	1950	2-07-1950 (15:00 h)	15:00	Estí€Œçdio Independí€ŒÈncia (Belo Horizonte)	George Reader (ENG)	1950_BRAZIL_FS.htm
+302	3580	Switzerland	Mexico	1-2	False	FALSE	GROUP STAGE	FALSE	1950	2-07-1950 (15:15 h)	15:15	Estí€Œçdio dos Eucaliptos (Porto Alegre)	Ivan Eklind (SWE)	1950_BRAZIL_FS.htm
+303	8501	Chile	USA	2-5	False	FALSE	GROUP STAGE	FALSE	1950	2-07-1950 (18:00 h)	18:00	Ilha do Retiro (Recife)	Mí€Œçrio Gardelli (BRA)	1950_BRAZIL_FS.htm
+304	138886	Brazil	Sweden	1-7	False	FALSE	FINAL ROUND	FALSE	1950	9-07-1950 (15:00 h)	15:00	Maracaní€Œ£ (Rio de Janeiro)	Arthur Ellis (ENG)	1950_BRAZIL_FS.htm
+305	44802	Uruguay	Spain	2-2	False	FALSE	FINAL ROUND	FALSE	1950	9-07-1950 (15:00 h)	15:00	Pacaembu (Sí€Œ£o Paulo)	Mervyn Griffiths (WAL)	1950_BRAZIL_FS.htm
+306	7987	Uruguay	Sweden	2-3	False	FALSE	FINAL ROUND	FALSE	1950	13-07-1950 (15:00 h)	15:00	Pacaembu (Sí€Œ£o Paulo)	Giovanni Galeati (ITA)	1950_BRAZIL_FS.htm
+307	152772	Brazil	Spain	1-6	False	FALSE	FINAL ROUND	FALSE	1950	13-07-1950 (15:00 h)	15:00	Maracaní€Œ£ (Rio de Janeiro)	Reginald Leafe (ENG)	1950_BRAZIL_FS.htm
+308	11227	Sweden	Spain	1-3	False	FALSE	FINAL ROUND	FALSE	1950	16-07-1950 (15:00 h)	15:00	Pacaembu (Sí€Œ£o Paulo)	Karel van der Meer (NED)	1950_BRAZIL_FS.htm
+309	179854	Uruguay	Brazil	1-2	False	FALSE	FINAL ROUND	FALSE	1950	16-07-1950 (15:00 h)	15:00	Maracaní€Œ£ (Rio de Janeiro)	George Reader (ENG)	1950_BRAZIL_FS.htm
+310	63117	Germany	Bolivia	1-0	False	FALSE	GROUP STAGE	FALSE	1994	17-06-1994 (14:00 h)	14:00	Soldier Field (Chicago)	Arturo Brizio Carter (MEX)	1994_USA_FS.htm
+311	56247	Spain	South Korea	2-2	False	FALSE	GROUP STAGE	FALSE	1994	17-06-1994 (18:30 h)	18:30	Cotton Bowl (Dallas)	Peter Mikkelsen (DEN)	1994_USA_FS.htm
+312	74826	Italy	Ireland	0-1	False	FALSE	GROUP STAGE	FALSE	1994	18-06-1994 (16:00 h)	16:00	Giants Stadium (New Jersey, New York)	Mario van der Ende (NED)	1994_USA_FS.htm
+313	91865	Colombia	Romania	3-1	False	FALSE	GROUP STAGE	FALSE	1994	18-06-1994 (16:30 h)	16:30	Rose Bowl (Pasadena, Los Angeles)	Jamal al-Sharif (SYR)	1994_USA_FS.htm
+314	73425	USA	Switzerland	1-1	False	FALSE	GROUP STAGE	FALSE	1994	18-06-1994 (17:30 h)	17:30	Pontiac Silverdome (Detroit)	Francisco í€Œñscar Lamolina (ARG)	1994_USA_FS.htm
+315	60790	Belgium	Morocco	1-0	False	FALSE	GROUP STAGE	FALSE	1994	19-06-1994 (12:30 h)	12:30	Citrus Bowl (Orlando)	Josí€Œ© Joaquí€Œ_n Torres (COL)	1994_USA_FS.htm
+316	52359	Norway	Mexico	1-0	False	FALSE	GROUP STAGE	FALSE	1994	19-06-1994 (16:00 h)	16:00	RFK Memorial Stadium (Washington D.C.)	Sí€Œçndor Puhl (HUN)	1994_USA_FS.htm
+317	83959	Cameroon	Sweden	2-2	False	FALSE	GROUP STAGE	FALSE	1994	19-06-1994 (16:30 h)	16:30	Rose Bowl (Pasadena, Los Angeles)	Alberto Tejada (PER)	1994_USA_FS.htm
+318	52535	Netherlands	Saudi Arabia	1-2	False	FALSE	GROUP STAGE	FALSE	1994	20-06-1994 (12:30 h)	12:30	RFK Memorial Stadium (Washington D.C.)	Manuel Dí€Œ_az Vega (SPA)	1994_USA_FS.htm
+319	81061	Brazil	Russia	2-0	False	FALSE	GROUP STAGE	FALSE	1994	20-06-1994 (13:00 h)	13:00	Stanford Stadium (Palo Alto, San Francisco)	An-Yan Lim Kee Chong (MAU)	1994_USA_FS.htm
+320	53486	Argentina	Greece	4-0	False	FALSE	GROUP STAGE	FALSE	1994	21-06-1994 (12:00 h)	12:00	Foxboro Stadium (Foxboro, Boston)	Arturo í€Œngeles (USA)	1994_USA_FS.htm
+321	63113	Germany	Spain	1-1	False	FALSE	GROUP STAGE	FALSE	1994	21-06-1994 (15:00 h)	15:00	Soldier Field (Chicago)	Ernesto Filippi (URU)	1994_USA_FS.htm
+322	44932	Nigeria	Bulgaria	3-0	False	FALSE	GROUP STAGE	FALSE	1994	21-06-1994 (18:30 h)	18:30	Cotton Bowl (Dallas)	Rodrigo Badilla (CRC)	1994_USA_FS.htm
+323	61428	Romania	Switzerland	4-1	False	FALSE	GROUP STAGE	FALSE	1994	22-06-1994 (16:00 h)	16:00	Pontiac Silverdome (Detroit)	Neji Jouini (TUN)	1994_USA_FS.htm
+324	93194	USA	Colombia	1-2	False	FALSE	GROUP STAGE	FALSE	1994	22-06-1994 (16:30 h)	16:30	Rose Bowl (Pasadena, Los Angeles)	Fabio Baldas (ITA)	1994_USA_FS.htm
+325	74624	Italy	Norway	1-0	False	FALSE	GROUP STAGE	FALSE	1994	23-06-1994 (16:00 h)	16:00	Giants Stadium (New Jersey, New York)	Hellmut Krug (GER)	1994_USA_FS.htm
+326	53456	South Korea	Bolivia	-	False	FALSE	GROUP STAGE	FALSE	1994	23-06-1994 (19:30 h)	19:30	Foxboro Stadium (Foxboro, Boston)	Leslie Mottram (SCO)	1994_USA_FS.htm
+327	61219	Mexico	Ireland	1-2	False	FALSE	GROUP STAGE	FALSE	1994	24-06-1994 (12:30 h)	12:30	Citrus Bowl (Orlando)	Kurt Rí€Œ_thlisberger (SWI)	1994_USA_FS.htm
+328	83401	Brazil	Cameroon	3-0	False	FALSE	GROUP STAGE	FALSE	1994	24-06-1994 (13:00 h)	13:00	Stanford Stadium (Palo Alto, San Francisco)	Arturo Brizio Carter (MEX)	1994_USA_FS.htm
+329	71528	Sweden	Russia	1-3	False	FALSE	GROUP STAGE	FALSE	1994	24-06-1994 (19:30 h)	19:30	Pontiac Silverdome (Detroit)	Joí€Œ‚l Quiniou (FRA)	1994_USA_FS.htm
+330	72404	Saudi Arabia	Morocco	1-2	False	FALSE	GROUP STAGE	FALSE	1994	25-06-1994 (12:30 h)	12:30	Giants Stadium (New Jersey, New York)	Philip Don (ENG)	1994_USA_FS.htm
+331	62387	Belgium	Netherlands	1-0	False	FALSE	GROUP STAGE	FALSE	1994	25-06-1994 (12:30 h)	12:30	Citrus Bowl (Orlando)	Renato Marsiglia (BRA)	1994_USA_FS.htm
+332	54453	Argentina	Nigeria	1-2	False	FALSE	GROUP STAGE	FALSE	1994	25-06-1994 (16:00 h)	16:00	Foxboro Stadium (Foxboro, Boston)	Bo Karlsson (SWE)	1994_USA_FS.htm
+333	63160	Bulgaria	Greece	4-0	False	FALSE	GROUP STAGE	FALSE	1994	26-06-1994 (11:30 h)	11:30	Soldier Field (Chicago)	Ali Mohammed Bujsaim (UAE)	1994_USA_FS.htm
+334	83769	Switzerland	Colombia	0-2	False	FALSE	GROUP STAGE	FALSE	1994	26-06-1994 (13:00 h)	13:00	Stanford Stadium (Palo Alto, San Francisco)	Peter Mikkelsen (DEN)	1994_USA_FS.htm
+335	93869	USA	Romania	0-1	False	FALSE	GROUP STAGE	FALSE	1994	26-06-1994 (13:00 h)	13:00	Rose Bowl (Pasadena, Los Angeles)	Mario van der Ende (NED)	1994_USA_FS.htm
+336	63089	Bolivia	Spain	3-1	False	FALSE	GROUP STAGE	FALSE	1994	27-06-1994 (15:00 h)	15:00	Soldier Field (Chicago)	Rodrigo Badilla (CRC)	1994_USA_FS.htm
+337	63998	Germany	South Korea	2-3	False	FALSE	GROUP STAGE	FALSE	1994	27-06-1994 (15:00 h)	15:00	Cotton Bowl (Dallas)	Joí€Œ‚l Quiniou (FRA)	1994_USA_FS.htm
+338	53186	Italy	Mexico	1-1	False	FALSE	GROUP STAGE	FALSE	1994	28-06-1994 (12:30 h)	12:30	RFK Memorial Stadium (Washington D.C.)	Francisco í€Œñscar Lamolina (ARG)	1994_USA_FS.htm
+339	76322	Ireland	Norway	-	False	FALSE	GROUP STAGE	FALSE	1994	28-06-1994 (12:30 h)	12:30	Giants Stadium (New Jersey, New York)	Josí€Œ© Joaquí€Œ_n Torres (COL)	1994_USA_FS.htm
+340	74914	Russia	Cameroon	1-6	False	FALSE	GROUP STAGE	FALSE	1994	28-06-1994 (13:00 h)	13:00	Stanford Stadium (Palo Alto, San Francisco)	Jamal al-Sharif (SYR)	1994_USA_FS.htm
+341	77217	Brazil	Sweden	1-1	False	FALSE	GROUP STAGE	FALSE	1994	28-06-1994 (16:00 h)	16:00	Pontiac Silverdome (Detroit)	Sí€Œçndor Puhl (HUN)	1994_USA_FS.htm
+342	52959	Belgium	Saudi Arabia	0-1	False	FALSE	GROUP STAGE	FALSE	1994	29-06-1994 (12:30 h)	12:30	RFK Memorial Stadium (Washington D.C.)	Hellmut Krug (GER)	1994_USA_FS.htm
+343	60578	Morocco	Netherlands	2-1	False	FALSE	GROUP STAGE	FALSE	1994	29-06-1994 (12:30 h)	12:30	Citrus Bowl (Orlando)	Alberto Tejada (PER)	1994_USA_FS.htm
+344	63998	Argentina	Bulgaria	0-2	False	FALSE	GROUP STAGE	FALSE	1994	30-06-1994 (18:30 h)	18:30	Cotton Bowl (Dallas)	Neji Jouini (TUN)	1994_USA_FS.htm
+345	53001	Greece	Nigeria	0-2	False	FALSE	GROUP STAGE	FALSE	1994	30-06-1994 (19:30 h)	19:30	Foxboro Stadium (Foxboro, Boston)	Leslie Mottram (SCO)	1994_USA_FS.htm
+346	60246	Germany	Belgium	2-3	False	FALSE	1/8 FINAL	FALSE	1994	2-07-1994 (12:00 h)	12:00	Soldier Field (Chicago)	Kurt Rí€Œ_thlisberger (SWI)	1994_USA_FS.htm
+347	53121	Spain	Switzerland	3-0	False	FALSE	1/8 FINAL	FALSE	1994	2-07-1994 (16:30 h)	16:30	RFK Memorial Stadium (Washington D.C.)	Mario van der Ende (NED)	1994_USA_FS.htm
+348	60277	Saudi Arabia	Sweden	3-1	False	FALSE	1/8 FINAL	FALSE	1994	3-07-1994 (12:00 h)	12:00	Cotton Bowl (Dallas)	Renato Marsiglia (BRA)	1994_USA_FS.htm
+349	90469	Romania	Argentina	2-3	False	FALSE	1/8 FINAL	FALSE	1994	3-07-1994 (13:30 h)	13:30	Rose Bowl (Pasadena, Los Angeles)	Pierluigi Pairetto (ITA)	1994_USA_FS.htm
+350	61355	Netherlands	Ireland	2-0	False	FALSE	1/8 FINAL	FALSE	1994	4-07-1994 (12:00 h)	12:00	Citrus Bowl (Orlando)	Peter Mikkelsen (DEN)	1994_USA_FS.htm
+351	84147	Brazil	USA	1-0	False	FALSE	1/8 FINAL	FALSE	1994	4-07-1994 (12:30 h)	12:30	Stanford Stadium (Palo Alto, San Francisco)	Joí€Œ‚l Quiniou (FRA)	1994_USA_FS.htm
+352	54367	Nigeria	Italy	2-1	False	FALSE	1/8 FINAL	FALSE	1994	5-07-1994 (12:00 h)	12:00	Foxboro Stadium (Foxboro, Boston)	Arturo Brizio Carter (MEX)	1994_USA_FS.htm
+353	71030	Mexico	Bulgaria	1-1	False	0-0 (Garcí€Œ_a Aspe [out]); 0-0 (Balí‹Œ€kov [saved]) / 0-0 (Bernal [saved]); 0-1 (Genchev) / 0-1 (Rodrí€Œ_guez [saved]); 0-2 (Borimirov) / 1-2 (Suí€Œçrez); 1-3 (Lechkov)	1/8 FINAL	FALSE	1994	5-07-1994 (16:30 h)	16:30	Giants Stadium (New Jersey, New York)	Jamal al-Sharif (SYR)	1994_USA_FS.htm
+354	54605	Italy	Spain	1-2	False	FALSE	1/4 FINAL	FALSE	1994	9-07-1994 (12:00 h)	12:00	Foxboro Stadium (Foxboro, Boston)	Sí€Œçndor Puhl (HUN)	1994_USA_FS.htm
+355	63998	Netherlands	Brazil	3-2	False	FALSE	1/4 FINAL	FALSE	1994	9-07-1994 (14:30 h)	14:30	Cotton Bowl (Dallas)	Rodrigo Badilla (CRC)	1994_USA_FS.htm
+356	72416	Bulgaria	Germany	1-2	False	FALSE	1/4 FINAL	FALSE	1994	10-07-1994 (12:00 h)	12:00	Giants Stadium (New Jersey, New York)	Josí€Œ© Joaquí€Œ_n Torres (COL)	1994_USA_FS.htm
+357	81715	Romania	Sweden	2-2	False	0-0 (Mild [out]); 1-0 (Rí‹Œ€ducioiu) / 1-1 (K. Andersson); 2-1 (Hagi) / 2-2 (Brolin); 3-2 (Lupescu) / 3-3 (Ingesson); 3-3 (Petrescu [saved]) / 3-4 (R. Nilsson); 4-4 (Dumitrescu) // [decisive shots] 4-5 (Larsson); 4-5 (Belodedici [saved])	1/4 FINAL	FALSE	1994	10-07-1994 (12:30 h)	12:30	Stanford Stadium (Palo Alto, San Francisco)	Philip Don (ENG)	1994_USA_FS.htm
+358	77094	Bulgaria	Italy	2-1	False	FALSE	1/2 FINAL	FALSE	1994	13-07-1994 (16:00 h)	16:00	Giants Stadium (New Jersey, New York)	Joí€Œ‚l Quiniou (FRA)	1994_USA_FS.htm
+359	84569	Sweden	Brazil	0-1	False	FALSE	1/2 FINAL	FALSE	1994	13-07-1994 (16:30 h)	16:30	Rose Bowl (Pasadena, Los Angeles)	Josí€Œ© Joaquí€Œ_n Torres (COL)	1994_USA_FS.htm
+360	83716	Sweden	Bulgaria	4-0	False	FALSE	PLACES 3-4	FALSE	1994	16-07-1994 (12:30 h)	12:30	Rose Bowl (Pasadena, Los Angeles)	Ali Mohammed Bujsaim (UAE)	1994_USA_FS.htm
+361	94194	Brazil	Italy	-	False	0-0 (Baresi [out]); 0-0 (Mí€Œçrcio Santos [saved]) / 0-1 (Albertini); 1-1 (Romí€Œçrio) / 1-2 (Evani); 2-2 (Branco) / 2-2 (Massaro [saved]); 3-2 (Dunga) / 3-2 (R. Baggio [out])	FINAL ROUND	FALSE	1994	17-07-1994 (12:30 h)	12:30	Rose Bowl (Pasadena, Los Angeles)	Sí€Œçndor Puhl (HUN)	1994_USA_FS.htm
+362	80000	Brazil	Scotland	1-2	False	FALSE	GROUP STAGE	FALSE	1998	10-06-1998 (17:30 h)	17:30	Stade de France (Saint-Denis , Paris)	Josí€Œ© Marí€Œ_a Garcí€Œ_a-Aranda (SPA)	1998_FRANCE_FS.htm
+363	28750	Morocco	Norway	2-2	False	FALSE	GROUP STAGE	FALSE	1998	10-06-1998 (21:00 h)	21:00	Stade de la Mosson (Montpellier)	Pirom Un-Prasert (THA)	1998_FRANCE_FS.htm
+364	31800	Italy	Chile	2-2	False	FALSE	GROUP STAGE	FALSE	1998	11-06-1998 (17:30 h)	17:30	Parc Lescure (Bordeaux)	Lucien Bouchardeau (NGR)	1998_FRANCE_FS.htm
+365	37500	Cameroon	Austria	1-1	False	FALSE	GROUP STAGE	FALSE	1998	11-06-1998 (21:00 h)	21:00	Stade Municipal (Toulouse)	Epifanio Gonzí€Œçlez Chí€Œçvez (PAR)	1998_FRANCE_FS.htm
+366	27650	Paraguay	Bulgaria	-	False	FALSE	GROUP STAGE	FALSE	1998	12-06-1998 (14:30 h)	14:30	Stade de la Mosson (Montpellier)	Abdulrahman al-Zeid (KSA)	1998_FRANCE_FS.htm
+367	38140	Saudi Arabia	Denmark	0-1	False	FALSE	GROUP STAGE	FALSE	1998	12-06-1998 (17:30 h)	17:30	Fí€Œ©lix Bollaert (Lens)	Javier Alberto Castrilli (ARG)	1998_FRANCE_FS.htm
+368	55077	France	South Africa	3-0	False	FALSE	GROUP STAGE	FALSE	1998	12-06-1998 (21:00 h)	21:00	Ví€Œ©lodrome (Marseille)	Mí€Œçrcio Rezende de Freitas (BRA)	1998_FRANCE_FS.htm
+369	33257	Spain	Nigeria	3-2	False	FALSE	GROUP STAGE	FALSE	1998	13-06-1998 (14:30 h)	14:30	La Beaujoire (Nantes)	Esfandiar Baharmast (USA)	1998_FRANCE_FS.htm
+370	37588	South Korea	Mexico	3-1	False	FALSE	GROUP STAGE	FALSE	1998	13-06-1998 (17:30 h)	17:30	Stade de Gerland (Lyon)	Gí€Œ_nter Benkí€Œ_ (AUT)	1998_FRANCE_FS.htm
+371	75000	Netherlands	Belgium	-	False	FALSE	GROUP STAGE	FALSE	1998	13-06-1998 (21:00 h)	21:00	Stade de France (Saint-Denis , Paris)	Pierluigi Collina (ITA)	1998_FRANCE_FS.htm
+372	33400	Argentina	Japan	1-0	False	FALSE	GROUP STAGE	FALSE	1998	14-06-1998 (14:30 h)	14:30	Stade Municipal (Toulouse)	Mario van der Ende (NED)	1998_FRANCE_FS.htm
+373	30392	Yugoslavia	Iran	1-0	False	FALSE	GROUP STAGE	FALSE	1998	14-06-1998 (17:30 h)	17:30	Geoffroy Guichard (Saint-í€ŒŠtienne)	Alberto Tejada (PER)	1998_FRANCE_FS.htm
+374	38058	Jamaica	Croatia	3-1	False	FALSE	GROUP STAGE	FALSE	1998	14-06-1998 (21:00 h)	21:00	Fí€Œ©lix Bollaert (Lens)	Ví€Œ_tor Manuel Melo Pereira (POR)	1998_FRANCE_FS.htm
+375	54587	England	Tunisia	2-0	False	FALSE	GROUP STAGE	FALSE	1998	15-06-1998 (14:30 h)	14:30	Ví€Œ©lodrome (Marseille)	Masayoshi Okada (JAP)	1998_FRANCE_FS.htm
+376	37572	Romania	Colombia	1-0	False	FALSE	GROUP STAGE	FALSE	1998	15-06-1998 (17:30 h)	17:30	Stade de Gerland (Lyon)	An-Yan Lim Kee Chong (MAU)	1998_FRANCE_FS.htm
+377	43815	Germany	USA	2-0	False	FALSE	GROUP STAGE	FALSE	1998	15-06-1998 (21:00 h)	21:00	Parc des Princes (Paris)	Saí€Œ¿d Belqola (MOR)	1998_FRANCE_FS.htm
+378	30236	Scotland	Norway	1-1	False	FALSE	GROUP STAGE	FALSE	1998	16-06-1998 (17:30 h)	17:30	Parc Lescure (Bordeaux)	Lí€Œçszlí€Œ_ Ví€Œçgner (HUN)	1998_FRANCE_FS.htm
+379	33266	Brazil	Morocco	3-0	False	FALSE	GROUP STAGE	FALSE	1998	16-06-1998 (21:00 h)	21:00	La Beaujoire (Nantes)	Nikolaj Levnikov (RUS)	1998_FRANCE_FS.htm
+380	30392	Chile	Austria	1-1	False	FALSE	GROUP STAGE	FALSE	1998	17-06-1998 (17:30 h)	17:30	Geoffroy Guichard (Saint-í€ŒŠtienne)	Gamal el-Ghandour (EGY)	1998_FRANCE_FS.htm
+381	35000	Italy	Cameroon	3-0	False	FALSE	GROUP STAGE	FALSE	1998	17-06-1998 (21:00 h)	21:00	Stade de la Mosson (Montpellier)	Edward Lennie (AUS)	1998_FRANCE_FS.htm
+382	36500	South Africa	Denmark	1-1	False	FALSE	GROUP STAGE	FALSE	1998	18-06-1998 (17:30 h)	17:30	Stade Municipal (Toulouse)	John Jairo Toro (COL)	1998_FRANCE_FS.htm
+383	75000	France	Saudi Arabia	4-0	False	FALSE	GROUP STAGE	FALSE	1998	18-06-1998 (21:00 h)	21:00	Stade de France (Saint-Denis , Paris)	Arturo Brizio Carter (MEX)	1998_FRANCE_FS.htm
+384	48500	Nigeria	Bulgaria	1-0	False	FALSE	GROUP STAGE	FALSE	1998	19-06-1998 (17:30 h)	17:30	Parc des Princes (Paris)	Mario Sí€Œçnchez Yantí€Œ©n (CHI)	1998_FRANCE_FS.htm
+385	35300	Spain	Paraguay	-	False	FALSE	GROUP STAGE	FALSE	1998	19-06-1998 (21:00 h)	21:00	Geoffroy Guichard (Saint-í€ŒŠtienne)	Ian McLeod (SAF)	1998_FRANCE_FS.htm
+386	39000	Japan	Croatia	0-1	False	FALSE	GROUP STAGE	FALSE	1998	20-06-1998 (14:30 h)	14:30	La Beaujoire (Nantes)	Ramesh Ramdhan (TRI)	1998_FRANCE_FS.htm
+387	34750	Belgium	Mexico	2-2	False	FALSE	GROUP STAGE	FALSE	1998	20-06-1998 (17:30 h)	17:30	Parc Lescure (Bordeaux)	Hugh Dallas (SCO)	1998_FRANCE_FS.htm
+388	55000	Netherlands	South Korea	5-0	False	FALSE	GROUP STAGE	FALSE	1998	20-06-1998 (21:00 h)	21:00	Ví€Œ©lodrome (Marseille)	Ryszard Wí€Œ_jcik (POL)	1998_FRANCE_FS.htm
+389	41275	Germany	Yugoslavia	2-2	False	FALSE	GROUP STAGE	FALSE	1998	21-06-1998 (14:30 h)	14:30	Fí€Œ©lix Bollaert (Lens)	Kim Milton Nielsen (DEN)	1998_FRANCE_FS.htm
+390	48500	Argentina	Jamaica	5-0	False	FALSE	GROUP STAGE	FALSE	1998	21-06-1998 (17:30 h)	17:30	Parc des Princes (Paris)	Rune Pedersen (NOR)	1998_FRANCE_FS.htm
+391	44000	USA	Iran	2-1	False	FALSE	GROUP STAGE	FALSE	1998	21-06-1998 (21:00 h)	21:00	Stade de Gerland (Lyon)	Urs Meier (SWI)	1998_FRANCE_FS.htm
+392	35500	Colombia	Tunisia	1-0	False	FALSE	GROUP STAGE	FALSE	1998	22-06-1998 (17:30 h)	17:30	Stade de la Mosson (Montpellier)	Bernd Heynemann (GER)	1998_FRANCE_FS.htm
+393	37500	Romania	England	1-2	False	FALSE	GROUP STAGE	FALSE	1998	22-06-1998 (21:00 h)	21:00	Stade Municipal (Toulouse)	Marc Batta (FRA)	1998_FRANCE_FS.htm
+394	39000	Chile	Cameroon	1-1	False	FALSE	GROUP STAGE	FALSE	1998	23-06-1998 (16:00 h)	16:00	La Beaujoire (Nantes)	Lí€Œçszlí€Œ_ Ví€Œçgner (HUN)	1998_FRANCE_FS.htm
+395	75000	Italy	Austria	1-2	False	FALSE	GROUP STAGE	FALSE	1998	23-06-1998 (16:00 h)	16:00	Stade de France (Saint-Denis , Paris)	Paul Durkin (ENG)	1998_FRANCE_FS.htm
+396	60000	Brazil	Norway	2-1	False	FALSE	GROUP STAGE	FALSE	1998	23-06-1998 (21:00 h)	21:00	Ví€Œ©lodrome (Marseille)	Esfandiar Baharmast (USA)	1998_FRANCE_FS.htm
+397	35500	Scotland	Morocco	0-3	False	FALSE	GROUP STAGE	FALSE	1998	23-06-1998 (21:00 h)	21:00	Geoffroy Guichard (Saint-í€ŒŠtienne)	Ali Mohammed Bujsaim (UAE)	1998_FRANCE_FS.htm
+398	43500	France	Denmark	1-2	False	FALSE	GROUP STAGE	FALSE	1998	24-06-1998 (16:00 h)	16:00	Stade de Gerland (Lyon)	Pierluigi Collina (ITA)	1998_FRANCE_FS.htm
+399	34500	South Africa	Saudi Arabia	2-2	False	FALSE	GROUP STAGE	FALSE	1998	24-06-1998 (16:00 h)	16:00	Parc Lescure (Bordeaux)	Mario Sí€Œçnchez Yantí€Œ©n (CHI)	1998_FRANCE_FS.htm
+400	37500	Nigeria	Paraguay	3-1	False	FALSE	GROUP STAGE	FALSE	1998	24-06-1998 (21:00 h)	21:00	Stade Municipal (Toulouse)	Pirom Un-Prasert (THA)	1998_FRANCE_FS.htm
+401	41275	Spain	Bulgaria	1-6	False	FALSE	GROUP STAGE	FALSE	1998	24-06-1998 (21:00 h)	21:00	Fí€Œ©lix Bollaert (Lens)	Mario van der Ende (NED)	1998_FRANCE_FS.htm
+402	35500	Netherlands	Mexico	2-2	False	FALSE	GROUP STAGE	FALSE	1998	25-06-1998 (16:00 h)	16:00	Geoffroy Guichard (Saint-í€ŒŠtienne)	Abdulrahman al-Zeid (KSA)	1998_FRANCE_FS.htm
+403	48500	Belgium	South Korea	1-1	False	FALSE	GROUP STAGE	FALSE	1998	25-06-1998 (16:00 h)	16:00	Parc des Princes (Paris)	Mí€Œçrcio Rezende de Freitas (BRA)	1998_FRANCE_FS.htm
+404	39000	USA	Yugoslavia	0-1	False	FALSE	GROUP STAGE	FALSE	1998	25-06-1998 (21:00 h)	21:00	La Beaujoire (Nantes)	Gamal el-Ghandour (EGY)	1998_FRANCE_FS.htm
+405	35500	Germany	Iran	2-0	False	FALSE	GROUP STAGE	FALSE	1998	25-06-1998 (21:00 h)	21:00	Stade de la Mosson (Montpellier)	Epifanio Gonzí€Œçlez Chí€Œçvez (PAR)	1998_FRANCE_FS.htm
+406	36500	Argentina	Croatia	1-0	False	FALSE	GROUP STAGE	FALSE	1998	26-06-1998 (16:00 h)	16:00	Parc Lescure (Bordeaux)	Saí€Œ¿d Belqola (MOR)	1998_FRANCE_FS.htm
+407	43500	Japan	Jamaica	2-1	False	FALSE	GROUP STAGE	FALSE	1998	26-06-1998 (16:00 h)	16:00	Stade de Gerland (Lyon)	Gí€Œ_nter Benkí€Œ_ (AUT)	1998_FRANCE_FS.htm
+408	41275	Colombia	England	0-2	False	FALSE	GROUP STAGE	FALSE	1998	26-06-1998 (21:00 h)	21:00	Fí€Œ©lix Bollaert (Lens)	Arturo Brizio Carter (MEX)	1998_FRANCE_FS.htm
+409	80000	Romania	Tunisia	1-1	False	FALSE	GROUP STAGE	FALSE	1998	26-06-1998 (21:00 h)	21:00	Stade de France (Saint-Denis , Paris)	Edward Lennie (AUS)	1998_FRANCE_FS.htm
+410	60000	Italy	Norway	1-0	False	FALSE	1/8 FINAL	FALSE	1998	27-06-1998 (16:30 h)	16:30	Ví€Œ©lodrome (Marseille)	Bernd Heynemann (GER)	1998_FRANCE_FS.htm
+411	48500	Brazil	Chile	1-4	False	FALSE	1/8 FINAL	FALSE	1998	27-06-1998 (21:00 h)	21:00	Parc des Princes (Paris)	Marc Batta (FRA)	1998_FRANCE_FS.htm
+412	41275	France	Paraguay	1-0	False	FALSE	1/8 FINAL	FALSE	1998	28-06-1998 (16:30 h)	16:30	Fí€Œ©lix Bollaert (Lens)	Ali Mohammed Bujsaim (UAE)	1998_FRANCE_FS.htm
+413	79500	Nigeria	Denmark	4-1	False	FALSE	1/8 FINAL	FALSE	1998	28-06-1998 (21:00 h)	21:00	Stade de France (Saint-Denis , Paris)	Urs Meier (SWI)	1998_FRANCE_FS.htm
+414	35000	Germany	Mexico	1-2	False	FALSE	1/8 FINAL	FALSE	1998	29-06-1998 (16:30 h)	16:30	Stade de la Mosson (Montpellier)	Ví€Œ_tor Manuel Melo Pereira (POR)	1998_FRANCE_FS.htm
+415	37500	Netherlands	Yugoslavia	1-2	False	FALSE	1/8 FINAL	FALSE	1998	29-06-1998 (21:00 h)	21:00	Stade Municipal (Toulouse)	Josí€Œ© Marí€Œ_a Garcí€Œ_a-Aranda (SPA)	1998_FRANCE_FS.htm
+416	34700	Romania	Croatia	0-1	False	FALSE	1/8 FINAL	FALSE	1998	30-06-1998 (16:30 h)	16:30	Parc Lescure (Bordeaux)	Javier Alberto Castrilli (ARG)	1998_FRANCE_FS.htm
+417	35500	Argentina	England	2-2	False	1-0 (Berti); 1-1 (Shearer) / 1-1 (Crespo [saved]); 1-1 (Ince [saved]) / 2-1 (Verí€Œ_n); 2-2 (Merson) / 3-2 (Gallardo); 3-3 (Owen) / 4-3 (Ayala); 4-3 (Batty [saved])	1/8 FINAL	FALSE	1998	30-06-1998 (21:00 h)	21:00	Geoffroy Guichard (Saint-í€ŒŠtienne)	Kim Milton Nielsen (DEN)	1998_FRANCE_FS.htm
+418	77000	Italy	France	-	False	0-1 (Zidane); 1-1 (R. Baggio) / 1-1 (Lizarazu [saved]); 1-1 (Albertini [saved]) / 1-2 (Trí€Œ©zí€Œ©guet); 2-2 (Costacurta) / 2-3 (Henry); 3-3 (Vieri) / 3-4 (Blanc); 3-4 (Di Biagio [out])	1/4 FINAL	FALSE	1998	3-07-1998 (16:30 h)	16:30	Stade de France (Saint-Denis , Paris)	Hugh Dallas (SCO)	1998_FRANCE_FS.htm
+419	35500	Brazil	Denmark	2-3	False	FALSE	1/4 FINAL	FALSE	1998	3-07-1998 (21:00 h)	21:00	La Beaujoire (Nantes)	Gamal el-Ghandour (EGY)	1998_FRANCE_FS.htm
+420	55000	Netherlands	Argentina	1-2	False	FALSE	1/4 FINAL	FALSE	1998	4-07-1998 (16:30 h)	16:30	Ví€Œ©lodrome (Marseille)	Arturo Brizio Carter (MEX)	1998_FRANCE_FS.htm
+421	39100	Germany	Croatia	0-3	False	FALSE	1/4 FINAL	FALSE	1998	4-07-1998 (21:00 h)	21:00	Stade de Gerland (Lyon)	Rune Pedersen (NOR)	1998_FRANCE_FS.htm
+422	54000	Brazil	Netherlands	1-1	False	1-0 (Ronaldo); 1-1 (F. de Boer) / 2-1 (Rivaldo); 2-2 (Bergkamp) / 3-2 (í€ŒŠmerson); 3-2 (Cocu [saved]) / 4-2 (Dunga); 4-2 (R. de Boer [saved])	1/2 FINAL	FALSE	1998	7-07-1998 (21:00 h)	21:00	Ví€Œ©lodrome (Marseille)	Ali Mohammed Bujsaim (UAE)	1998_FRANCE_FS.htm
+423	76000	France	Croatia	1-2	False	FALSE	1/2 FINAL	FALSE	1998	8-07-1998 (21:00 h)	21:00	Stade de France (Saint-Denis , Paris)	Josí€Œ© Marí€Œ_a Garcí€Œ_a-Aranda (SPA)	1998_FRANCE_FS.htm
+424	45500	Croatia	Netherlands	1-2	False	FALSE	PLACES 3-4	FALSE	1998	11-07-1998 (21:00 h)	21:00	Parc des Princes (Paris)	Epifanio Gonzí€Œçlez Chí€Œçvez (PAR)	1998_FRANCE_FS.htm
+425	75000	France	Brazil	3-0	False	FALSE	FINAL ROUND	FALSE	1998	12-07-1998 (21:00 h)	21:00	Stade de France (Saint-Denis, Paris)	Saí€Œ¿d Belqola (MOR)	1998_FRANCE_FS.htm
+426	73780	Argentina	Cameroon	0-1	False	FALSE	GROUP STAGE	FALSE	1990	8-06-1990 (18:00 h)	18:00	Giuseppe Meazza (Milano)	Michel Vautrot (FRA)	1990_ITALY_FS.htm
+427	42907	Soviet Union	Romania	0-2	False	FALSE	GROUP STAGE	FALSE	1990	9-06-1990 (17:00 h)	17:00	San Nicola (Bari)	Juan Daniel Cardellino (URU)	1990_ITALY_FS.htm
+428	30791	United Arab Emirates	Colombia	0-2	False	FALSE	GROUP STAGE	FALSE	1990	9-06-1990 (17:00 h)	17:00	Renato dall'Ara (Bologna)	George Courtney (ENG)	1990_ITALY_FS.htm
+429	72303	Italy	Austria	1-0	False	FALSE	GROUP STAGE	FALSE	1990	9-06-1990 (21:00 h)	21:00	Stadio Olimpico (Roma)	Josí€Œ© Roberto Wright (BRA)	1990_ITALY_FS.htm
+430	33266	USA	Czechoslovakia	5-1	False	FALSE	GROUP STAGE	FALSE	1990	10-06-1990 (17:00 h)	17:00	Stadio Comunale (Firenze)	Kurt Rí€Œ_thlisberger (SWI)	1990_ITALY_FS.htm
+431	62628	Brazil	Sweden	1-2	False	FALSE	GROUP STAGE	FALSE	1990	10-06-1990 (21:00 h)	21:00	Stadio delle Alpi (Torino)	Tullio Lanese (ITA)	1990_ITALY_FS.htm
+432	74765	FRG	Yugoslavia	1-4	False	FALSE	GROUP STAGE	FALSE	1990	10-06-1990 (21:00 h)	21:00	Giuseppe Meazza (Milano)	Peter Mikkelsen (DEN)	1990_ITALY_FS.htm
+433	30867	Costa Rica	Scotland	1-0	False	FALSE	GROUP STAGE	FALSE	1990	11-06-1990 (17:00 h)	17:00	Luigi Ferraris (Genova)	Juan Carlos Loustau (ARG)	1990_ITALY_FS.htm
+434	35238	England	Ireland	1-1	False	FALSE	GROUP STAGE	FALSE	1990	11-06-1990 (21:00 h)	21:00	Sant'Elia (Cagliari)	Aron Schmidhuber (FRG)	1990_ITALY_FS.htm
+435	32790	Belgium	South Korea	2-0	False	FALSE	GROUP STAGE	FALSE	1990	12-06-1990 (17:00 h)	17:00	Marc'Antonio Bentegodi (Verona)	Vincent Mauro (USA)	1990_ITALY_FS.htm
+436	33288	Netherlands	Egypt	1-1	False	FALSE	GROUP STAGE	FALSE	1990	12-06-1990 (21:00 h)	21:00	La Favorita (Palermo)	Emilio Soriano Aladrí€Œ©n (SPA)	1990_ITALY_FS.htm
+437	35713	Uruguay	Spain	-	False	FALSE	GROUP STAGE	FALSE	1990	13-06-1990 (17:00 h)	17:00	Stadio Friuli (Udine)	Helmut Kohl (AUT)	1990_ITALY_FS.htm
+438	55759	Argentina	Soviet Union	2-0	False	FALSE	GROUP STAGE	FALSE	1990	13-06-1990 (21:00 h)	21:00	San Paolo (Napoli)	Erik Fredriksson (SWE)	1990_ITALY_FS.htm
+439	38687	Cameroon	Romania	1-2	False	FALSE	GROUP STAGE	FALSE	1990	14-06-1990 (17:00 h)	17:00	San Nicola (Bari)	Herní€Œçn Martí€Œ_n Silva Arce (CHI)	1990_ITALY_FS.htm
+440	32257	Yugoslavia	Colombia	1-0	False	FALSE	GROUP STAGE	FALSE	1990	14-06-1990 (17:00 h)	17:00	Renato dall'Ara (Bologna)	Luigi Agnolin (ITA)	1990_ITALY_FS.htm
+441	73423	Italy	USA	1-0	False	FALSE	GROUP STAGE	FALSE	1990	14-06-1990 (21:00 h)	21:00	Stadio Olimpico (Roma)	Edgardo Codesal (MEX)	1990_ITALY_FS.htm
+442	38962	Austria	Czechoslovakia	0-1	False	FALSE	GROUP STAGE	FALSE	1990	15-06-1990 (17:00 h)	17:00	Stadio Comunale (Firenze)	George Smith (SCO)	1990_ITALY_FS.htm
+443	71167	FRG	United Arab Emirates	1-5	False	FALSE	GROUP STAGE	FALSE	1990	15-06-1990 (21:00 h)	21:00	Giuseppe Meazza (Milano)	Aleksej Spirin (USSR)	1990_ITALY_FS.htm
+444	58007	Brazil	Costa Rica	1-0	False	FALSE	GROUP STAGE	FALSE	1990	16-06-1990 (17:00 h)	17:00	Stadio delle Alpi (Torino)	Neji Jouini (TUN)	1990_ITALY_FS.htm
+445	35267	England	Netherlands	-	False	FALSE	GROUP STAGE	FALSE	1990	16-06-1990 (17:00 h)	17:00	Sant'Elia (Cagliari)	Zoran Petrovií‹Œˆ (YUG)	1990_ITALY_FS.htm
+446	31823	Sweden	Scotland	2-1	False	FALSE	GROUP STAGE	FALSE	1990	16-06-1990 (21:00 h)	21:00	Luigi Ferraris (Genova)	Carlos Antonio Maciel (PAR)	1990_ITALY_FS.htm
+447	32733	South Korea	Spain	3-1	False	FALSE	GROUP STAGE	FALSE	1990	17-06-1990 (21:00 h)	21:00	Stadio Friuli (Udine)	Elí€Œ_as Jí€Œçcome (ECU)	1990_ITALY_FS.htm
+448	33759	Belgium	Uruguay	1-3	False	FALSE	GROUP STAGE	FALSE	1990	17-06-1990 (21:00 h)	21:00	Marc'Antonio Bentegodi (Verona)	Siegfried Kirschen (GDR)	1990_ITALY_FS.htm
+449	33288	Ireland	Egypt	-	False	FALSE	GROUP STAGE	FALSE	1990	17-06-1990 (21:00 h)	21:00	La Favorita (Palermo)	Marcel van Langenhove (BEL)	1990_ITALY_FS.htm
+450	37307	Cameroon	Soviet Union	0-4	False	FALSE	GROUP STAGE	FALSE	1990	18-06-1990 (21:00 h)	21:00	San Nicola (Bari)	Josí€Œ© Roberto Wright (BRA)	1990_ITALY_FS.htm
+451	52733	Argentina	Romania	1-1	False	FALSE	GROUP STAGE	FALSE	1990	18-06-1990 (21:00 h)	21:00	San Paolo (Napoli)	Carlos Alberto da Silva Valente (POR)	1990_ITALY_FS.htm
+452	72510	FRG	Colombia	1-1	False	FALSE	GROUP STAGE	FALSE	1990	19-06-1990 (17:00 h)	17:00	Giuseppe Meazza (Milano)	Alan Snoddy (NIR)	1990_ITALY_FS.htm
+453	27833	Yugoslavia	United Arab Emirates	1-4	False	FALSE	GROUP STAGE	FALSE	1990	19-06-1990 (17:00 h)	17:00	Renato dall'Ara (Bologna)	Shizuo Takada (JAP)	1990_ITALY_FS.htm
+454	34857	Austria	USA	1-2	False	FALSE	GROUP STAGE	FALSE	1990	19-06-1990 (21:00 h)	21:00	Stadio Comunale (Firenze)	Jamal al-Sharif (SYR)	1990_ITALY_FS.htm
+455	73303	Italy	Czechoslovakia	2-0	False	FALSE	GROUP STAGE	FALSE	1990	19-06-1990 (21:00 h)	21:00	Stadio Olimpico (Roma)	Joí€Œ‚l Quiniou (FRA)	1990_ITALY_FS.htm
+456	62502	Brazil	Scotland	1-0	False	FALSE	GROUP STAGE	FALSE	1990	20-06-1990 (21:00 h)	21:00	Stadio delle Alpi (Torino)	Helmut Kohl (AUT)	1990_ITALY_FS.htm
+457	30223	Sweden	Costa Rica	2-1	False	FALSE	GROUP STAGE	FALSE	1990	20-06-1990 (21:00 h)	21:00	Luigi Ferraris (Genova)	Zoran Petrovií‹Œˆ (YUG)	1990_ITALY_FS.htm
+458	29039	South Korea	Uruguay	0-1	False	FALSE	GROUP STAGE	FALSE	1990	21-06-1990 (17:00 h)	17:00	Stadio Friuli (Udine)	Tullio Lanese (ITA)	1990_ITALY_FS.htm
+459	35950	Belgium	Spain	2-1	False	FALSE	GROUP STAGE	FALSE	1990	21-06-1990 (17:00 h)	17:00	Marc'Antonio Bentegodi (Verona)	Juan Carlos Loustau (ARG)	1990_ITALY_FS.htm
+460	34959	England	Egypt	1-0	False	FALSE	GROUP STAGE	FALSE	1990	21-06-1990 (21:00 h)	21:00	Sant'Elia (Cagliari)	Kurt Rí€Œ_thlisberger (SWI)	1990_ITALY_FS.htm
+461	33288	Ireland	Netherlands	1-1	False	FALSE	GROUP STAGE	FALSE	1990	21-06-1990 (21:00 h)	21:00	La Favorita (Palermo)	Michel Vautrot (FRA)	1990_ITALY_FS.htm
+462	50026	Cameroon	Colombia	1-2	False	FALSE	1/8 FINAL	FALSE	1990	23-06-1990 (17:00 h)	17:00	San Paolo (Napoli)	Tullio Lanese (ITA)	1990_ITALY_FS.htm
+463	47673	Czechoslovakia	Costa Rica	1-4	False	FALSE	1/8 FINAL	FALSE	1990	23-06-1990 (21:00 h)	21:00	San Nicola (Bari)	Siegfried Kirschen (GDR)	1990_ITALY_FS.htm
+464	61381	Brazil	Argentina	0-1	False	FALSE	1/8 FINAL	FALSE	1990	24-06-1990 (17:00 h)	17:00	Stadio delle Alpi (Torino)	Joí€Œ‚l Quiniou (FRA)	1990_ITALY_FS.htm
+465	74559	FRG	Netherlands	1-2	False	FALSE	1/8 FINAL	FALSE	1990	24-06-1990 (21:00 h)	21:00	Giuseppe Meazza (Milano)	Juan Carlos Loustau (ARG)	1990_ITALY_FS.htm
+466	31818	Ireland	Romania	-	False	0-1 (Hagi); 1-1 (Sheedy) / 1-2 (Lupu); 2-2 (Houghton) / 2-3 (Rotariu); 3-3 (Townsend) / 3-4 (Lupescu); 4-4 (Cascarino) / 4-4 (Timofte [saved]); 5-4 (Oí¢ŒóŒ»Leary)	1/8 FINAL	FALSE	1990	25-06-1990 (17:00 h)	17:00	Luigi Ferraris (Genova)	Josí€Œ© Roberto Wright (BRA)	1990_ITALY_FS.htm
+467	73303	Italy	Uruguay	2-0	False	FALSE	1/8 FINAL	FALSE	1990	25-06-1990 (21:00 h)	21:00	Stadio Olimpico (Roma)	George Courtney (ENG)	1990_ITALY_FS.htm
+468	34822	Spain	Yugoslavia	2-1	False	FALSE	1/8 FINAL	FALSE	1990	26-06-1990 (17:00 h)	17:00	Marc'Antonio Bentegodi (Verona)	Aron Schmidhuber (FRG)	1990_ITALY_FS.htm
+469	34520	England	Belgium	1-0	False	FALSE	1/8 FINAL	FALSE	1990	26-06-1990 (21:00 h)	21:00	Renato dall'Ara (Bologna)	Peter Mikkelsen (DEN)	1990_ITALY_FS.htm
+470	38971	Yugoslavia	Argentina	-	False	0-1 (Serrizuela); 0-1 (Stojkovií‹Œˆ [out]) / 0-2 (Burruchaga); 1-2 (Prosineí‹Œki) / 1-2 (Maradona [saved]); 2-2 (Savií‹Œˆevií‹Œˆ) / 2-2 (Troglio [out]); 2-2 (Brnovií‹Œˆ [saved]) / 2-3 (Dezotti); 2-3 (HadíƒŒ_ibegií‹Œˆ [saved])	1/4 FINAL	FALSE	1990	30-06-1990 (17:00 h)	17:00	Stadio Comunale (Firenze)	Kurt Rí€Œ_thlisberger (SWI)	1990_ITALY_FS.htm
+471	73303	Italy	Ireland	1-0	False	FALSE	1/4 FINAL	FALSE	1990	30-06-1990 (21:00 h)	21:00	Stadio Olimpico (Roma)	Carlos Alberto da Silva Valente (POR)	1990_ITALY_FS.htm
+472	73347	FRG	Czechoslovakia	1-0	False	FALSE	1/4 FINAL	FALSE	1990	1-07-1990 (17:00 h)	17:00	Giuseppe Meazza (Milano)	Helmut Kohl (AUT)	1990_ITALY_FS.htm
+473	55205	England	Cameroon	2-3	False	FALSE	1/4 FINAL	FALSE	1990	1-07-1990 (21:00 h)	21:00	San Paolo (Napoli)	Edgardo Codesal (MEX)	1990_ITALY_FS.htm
+474	59978	Italy	Argentina	1-1	False	1-0 (Baresi); 1-1 (Serrizuela) / 2-1 (Baggio); 2-2 (Burruchaga) / 3-2 (De Agostini); 3-3 (Olarticoechea) / 3-3 (Donadoni [saved]); 3-4 (Maradona) / 3-4 (Serena [saved])	1/2 FINAL	FALSE	1990	3-07-1990 (20:00 h)	20:00	San Paolo (Napoli)	Michel Vautrot (FRA)	1990_ITALY_FS.htm
+475	62628	FRG	England	1-1	False	0-1 (Lineker); 1-1 (Brehme) / 1-2 (Beardsley); 2-2 (Matthí€Œ_us) / 2-3 (Platt); 3-3 (Riedle) / 3-3 (Pearce [saved]); 4-3 (Thon) / 4-3 (Waddle [out])	1/2 FINAL	FALSE	1990	4-07-1990 (20:00 h)	20:00	Stadio delle Alpi (Torino)	Josí€Œ© Roberto Wright (BRA)	1990_ITALY_FS.htm
+476	51426	Italy	England	1-2	False	FALSE	PLACES 3-4	FALSE	1990	7-07-1990 (20:00 h)	20:00	San Nicola (Bari)	Joí€Œ‚l Quiniou (FRA)	1990_ITALY_FS.htm
+477	73603	FRG	Argentina	1-0	False	FALSE	FINAL ROUND	FALSE	1990	8-07-1990 (20:00 h)	20:00	Stadio Olimpico (Roma)	Edgardo Codesal (MEX)	1990_ITALY_FS.htm
+478	67579	FRG	Poland	-	False	FALSE	GROUP STAGE	first	1978	1-06-1978 (15:00 h)	15:00	Estadio Monumental (Buenos Aires)	í€Œngel Norberto Coerezza (ARG)	1978_ARGENTINA_FS.htm
+479	42653	Italy	France	1-2	False	FALSE	GROUP STAGE	first	1978	2-06-1978 (13:45 h)	13:45	Josí€Œ© Marí€Œ_a Minella (Mar del Plata)	Nicolae Rainea (ROM)	1978_ARGENTINA_FS.htm
+480	17396	Tunisia	Mexico	1-3	False	FALSE	GROUP STAGE	first	1978	2-06-1978 (16:45 h)	16:45	El Gigante de Arroyito (Rosario)	John Gordon (SCO)	1978_ARGENTINA_FS.htm
+481	71615	Argentina	Hungary	1-2	False	FALSE	GROUP STAGE	first	1978	2-06-1978 (19:15 h)	19:15	Estadio Monumental (Buenos Aires)	Antí€Œ_nio Josí€Œ© da Silva Garrido (POR)	1978_ARGENTINA_FS.htm
+482	40841	Austria	Spain	1-2	False	FALSE	GROUP STAGE	first	1978	3-06-1978 (13:45 h)	13:45	Josí€Œ© Amalfitani (Buenos Aires)	Kí€Œçroly Palotai (HUN)	1978_ARGENTINA_FS.htm
+483	38618	Sweden	Brazil	1-1	False	FALSE	GROUP STAGE	first	1978	3-06-1978 (13:45 h)	13:45	Josí€Œ© Marí€Œ_a Minella (Mar del Plata)	Clive Thomas (WAL)	1978_ARGENTINA_FS.htm
+484	37927	Peru	Scotland	1-3	False	FALSE	GROUP STAGE	first	1978	3-06-1978 (16:45 h)	16:45	Estadio Olí€Œ_mpico í¢ŒóŒìChateau Carrerasí¢ŒóŒ (Cí€Œ_rdoba)	Ulf Eriksson (SWE)	1978_ARGENTINA_FS.htm
+485	33431	Netherlands	Iran	3-0	False	FALSE	GROUP STAGE	first	1978	3-06-1978 (16:45 h)	16:45	Malvinas Argentinas (Mendoza)	Alfonso Gonzí€Œçlez Archundia (MEX)	1978_ARGENTINA_FS.htm
+486	26533	Italy	Hungary	1-3	False	FALSE	GROUP STAGE	first	1978	6-06-1978 (13:45 h)	13:45	Josí€Œ© Marí€Œ_a Minella (Mar del Plata)	Ramí€Œ_n Barreto (URU)	1978_ARGENTINA_FS.htm
+487	35258	FRG	Mexico	6-0	False	FALSE	GROUP STAGE	first	1978	6-06-1978 (16:45 h)	16:45	Estadio Olí€Œ_mpico í¢ŒóŒìChateau Carrerasí¢ŒóŒ (Cí€Œ_rdoba)	Farouk Bouzo (SYR)	1978_ARGENTINA_FS.htm
+488	9624	Poland	Tunisia	1-0	False	FALSE	GROUP STAGE	first	1978	6-06-1978 (16:45 h)	16:45	El Gigante de Arroyito (Rosario)	í€Œngel Franco Martí€Œ_nez (SPA)	1978_ARGENTINA_FS.htm
+489	71666	Argentina	France	1-2	False	FALSE	GROUP STAGE	first	1978	6-06-1978 (19:15 h)	19:15	Estadio Monumental (Buenos Aires)	Jean Dubach (SWI)	1978_ARGENTINA_FS.htm
+490	41424	Austria	Sweden	1-0	False	FALSE	GROUP STAGE	first	1978	7-06-1978 (13:45 h)	13:45	Josí€Œ© Amalfitani (Buenos Aires)	Charles Corver (NED)	1978_ARGENTINA_FS.htm
+491	34771	Brazil	Spain	-	False	FALSE	GROUP STAGE	first	1978	7-06-1978 (13:45 h)	13:45	Josí€Œ© Marí€Œ_a Minella (Mar del Plata)	Sergio Gonella (ITA)	1978_ARGENTINA_FS.htm
+492	7938	Scotland	Iran	1-1	False	FALSE	GROUP STAGE	first	1978	7-06-1978 (16:45 h)	16:45	Estadio Olí€Œ_mpico í¢ŒóŒìChateau Carrerasí¢ŒóŒ (Cí€Œ_rdoba)	Youssou Ní¢ŒóŒ»Diaye (SEN)	1978_ARGENTINA_FS.htm
+493	28125	Netherlands	Peru	-	False	FALSE	GROUP STAGE	first	1978	7-06-1978 (16:45 h)	16:45	Malvinas Argentinas (Mendoza)	Adolf Prokop (GDR)	1978_ARGENTINA_FS.htm
+494	23127	France	Hungary	1-3	False	FALSE	GROUP STAGE	first	1978	10-06-1978 (13:45 h)	13:45	Josí€Œ© Marí€Œ_a Minella (Mar del Plata)	Arnaldo Cí€Œ©sar Coelho (BRA)	1978_ARGENTINA_FS.htm
+495	30667	FRG	Tunisia	-	False	FALSE	GROUP STAGE	first	1978	10-06-1978 (16:45 h)	16:45	Estadio Olí€Œ_mpico í¢ŒóŒìChateau Carrerasí¢ŒóŒ (Cí€Œ_rdoba)	Cí€Œ©sar Augusto Orosco (PER)	1978_ARGENTINA_FS.htm
+496	22651	Poland	Mexico	1-3	False	FALSE	GROUP STAGE	first	1978	10-06-1978 (16:45 h)	16:45	El Gigante de Arroyito (Rosario)	Jaffar Namdar (IRN)	1978_ARGENTINA_FS.htm
+497	71772	Italy	Argentina	1-0	False	FALSE	GROUP STAGE	first	1978	10-06-1978 (19:15 h)	19:15	Estadio Monumental (Buenos Aires)	Abraham Klein (ISR)	1978_ARGENTINA_FS.htm
+498	42132	Spain	Sweden	1-0	False	FALSE	GROUP STAGE	first	1978	11-06-1978 (13:45 h)	13:45	Josí€Œ© Amalfitani (Buenos Aires)	Ferdinand Biwersi (FRG)	1978_ARGENTINA_FS.htm
+499	35221	Brazil	Austria	1-0	False	FALSE	GROUP STAGE	first	1978	11-06-1978 (13:45 h)	13:45	Josí€Œ© Marí€Œ_a Minella (Mar del Plata)	Robert Wurtz (FRA)	1978_ARGENTINA_FS.htm
+500	21262	Peru	Iran	1-4	False	FALSE	GROUP STAGE	first	1978	11-06-1978 (16:45 h)	16:45	Estadio Olí€Œ_mpico í¢ŒóŒìChateau Carrerasí¢ŒóŒ (Cí€Œ_rdoba)	Alojzy Jarguz (POL)	1978_ARGENTINA_FS.htm
+501	35130	Scotland	Netherlands	2-3	False	FALSE	GROUP STAGE	first	1978	11-06-1978 (16:45 h)	16:45	Malvinas Argentinas (Mendoza)	Erich Linemayr (AUT)	1978_ARGENTINA_FS.htm
+502	25050	Netherlands	Austria	1-5	False	FALSE	GROUP STAGE	second	1978	14-06-1978 (13:45 h)	13:45	Estadio Olí€Œ_mpico í¢ŒóŒìChateau Carrerasí¢ŒóŒ (Cí€Œ_rdoba)	John Gordon (SCO)	1978_ARGENTINA_FS.htm
+503	67547	FRG	Italy	-	False	FALSE	GROUP STAGE	second	1978	14-06-1978 (13:45 h)	13:45	Estadio Monumental (Buenos Aires)	DuíƒŒçan Maksimovií‹Œˆ (YUG)	1978_ARGENTINA_FS.htm
+504	31278	Brazil	Peru	3-0	False	FALSE	GROUP STAGE	second	1978	14-06-1978 (16:45 h)	16:45	Malvinas Argentinas (Mendoza)	Nicolae Rainea (ROM)	1978_ARGENTINA_FS.htm
+505	37091	Argentina	Poland	2-0	False	FALSE	GROUP STAGE	second	1978	14-06-1978 (19:15 h)	19:15	El Gigante de Arroyito (Rosario)	Ulf Eriksson (SWE)	1978_ARGENTINA_FS.htm
+506	35288	Poland	Peru	1-0	False	FALSE	GROUP STAGE	second	1978	18-06-1978 (13:45 h)	13:45	Malvinas Argentinas (Mendoza)	Patrick Partridge (ENG)	1978_ARGENTINA_FS.htm
+507	40750	FRG	Netherlands	2-2	False	FALSE	GROUP STAGE	second	1978	18-06-1978 (16:45 h)	16:45	Estadio Olí€Œ_mpico í¢ŒóŒìChateau Carrerasí¢ŒóŒ (Cí€Œ_rdoba)	Ramí€Œ_n Barreto (URU)	1978_ARGENTINA_FS.htm
+508	66695	Italy	Austria	1-0	False	FALSE	GROUP STAGE	second	1978	18-06-1978 (16:45 h)	16:45	Estadio Monumental (Buenos Aires)	Francis Rion (BEL)	1978_ARGENTINA_FS.htm
+509	37326	Argentina	Brazil	-	False	FALSE	GROUP STAGE	second	1978	18-06-1978 (19:45 h)	19:45	El Gigante de Arroyito (Rosario)	Kí€Œçroly Palotai (HUN)	1978_ARGENTINA_FS.htm
+510	38318	Austria	FRG	2-3	False	FALSE	GROUP STAGE	second	1978	21-06-1978 (13:45 h)	13:45	Estadio Olí€Œ_mpico í¢ŒóŒìChateau Carrerasí¢ŒóŒ (Cí€Œ_rdoba)	Abraham Klein (ISR)	1978_ARGENTINA_FS.htm
+511	67433	Netherlands	Italy	1-2	False	FALSE	GROUP STAGE	second	1978	21-06-1978 (13:45 h)	13:45	Estadio Monumental (Buenos Aires)	í€Œngel Franco Martí€Œ_nez (SPA)	1978_ARGENTINA_FS.htm
+512	39586	Brazil	Poland	1-3	False	FALSE	GROUP STAGE	second	1978	21-06-1978 (16:45 h)	16:45	Malvinas Argentinas (Mendoza)	Juan Silvagno (CHI)	1978_ARGENTINA_FS.htm
+513	37326	Argentina	Peru	6-0	False	FALSE	GROUP STAGE	second	1978	21-06-1978 (19:15 h)	19:15	El Gigante de Arroyito (Rosario)	Robert Wurtz (FRA)	1978_ARGENTINA_FS.htm
+514	69659	Brazil	Italy	1-2	False	FALSE	PLACES 3-4	FALSE	1978	24-06-1978 (15:00 h)	15:00	Estadio Monumental (Buenos Aires)	Abraham Klein (ISR)	1978_ARGENTINA_FS.htm
+515	71483	Argentina	Netherlands	1-3	False	FALSE	FINAL ROUND	FALSE	1978	25-06-1978 (15:00 h)	15:00	Estadio Monumental (Buenos Aires)	Sergio Gonella (ITA)	1978_ARGENTINA_FS.htm
+516	64950	Germany	Costa Rica	2-4	False	FALSE	GROUP STAGE	FALSE	2006	9-06-2006 (18:00 h)	18:00	Allianz Arena (Mí€Œ_nchen)	Horacio Marcelo Elizondo (ARG)	2006_GERMANY_FS.htm
+517	52000	Poland	Ecuador	0-2	False	FALSE	GROUP STAGE	FALSE	2006	9-06-2006 (21:00 h)	21:00	Arena AufSchalke (Gelsenkirchen)	Toru Kamikawa (JAP)	2006_GERMANY_FS.htm
+518	48000	England	Paraguay	1-0	False	FALSE	GROUP STAGE	FALSE	2006	10-06-2006 (15:00 h)	15:00	Waldstadion (Frankfurt am Main)	Marco Antonio Rodrí€Œ_guez (MEX)	2006_GERMANY_FS.htm
+519	62959	Trinidad and Tobago	Sweden	-	False	FALSE	GROUP STAGE	FALSE	2006	10-06-2006 (18:00 h)	18:00	Signal Iduna Park (Dortmund)	Shamsul Maidin (SIN)	2006_GERMANY_FS.htm
+520	49480	Argentina	Ivory Coast	1-2	False	FALSE	GROUP STAGE	FALSE	2006	10-06-2006 (21:00 h)	21:00	AOL Arena (Hamburg)	Frank de Bleeckere (BEL)	2006_GERMANY_FS.htm
+521	37216	Serbia-Montenegro	Netherlands	0-1	False	FALSE	GROUP STAGE	FALSE	2006	11-06-2006 (15:00 h)	15:00	Zentralstadion (Leipzig)	Markus Merk (GER)	2006_GERMANY_FS.htm
+522	41000	Mexico	Iran	1-3	False	FALSE	GROUP STAGE	FALSE	2006	11-06-2006 (18:00 h)	18:00	Frankenstadion (Ní€Œ_rnberg)	Roberto Rosetti (ITA)	2006_GERMANY_FS.htm
+523	45000	Angola	Portugal	0-1	False	FALSE	GROUP STAGE	FALSE	2006	11-06-2006 (21:00 h)	21:00	RheinEnergieStadion (Kí€Œ_ln)	Jorge Luis Larrionda (URU)	2006_GERMANY_FS.htm
+524	46000	Australia	Japan	1-3	False	FALSE	GROUP STAGE	FALSE	2006	12-06-2006 (15:00 h)	15:00	Fritz-Walter-Stadion (Kaiserslautern)	Essam Abdel-Fattah (EGY)	2006_GERMANY_FS.htm
+525	52000	USA	Czech Republic	0-3	False	FALSE	GROUP STAGE	FALSE	2006	12-06-2006 (18:00 h)	18:00	Arena AufSchalke (Gelsenkirchen)	Carlos Arecio Amarilla (PAR)	2006_GERMANY_FS.htm
+526	43000	Italy	Ghana	2-0	False	FALSE	GROUP STAGE	FALSE	2006	12-06-2006 (21:00 h)	21:00	AWD-Arena (Hannover)	Carlos Eugí€ŒÈnio Simon (BRA)	2006_GERMANY_FS.htm
+527	48000	South Korea	Togo	1-2	False	FALSE	GROUP STAGE	FALSE	2006	13-06-2006 (15:00 h)	15:00	Waldstadion (Frankfurt am Main)	Graham Poll (ENG)	2006_GERMANY_FS.htm
+528	52000	France	Switzerland	-	False	FALSE	GROUP STAGE	FALSE	2006	13-06-2006 (18:00 h)	18:00	Gottlieb-Daimler-Stadion (Stuttgart)	Valentin Ivanov (RUS)	2006_GERMANY_FS.htm
+529	72000	Brazil	Croatia	1-0	False	FALSE	GROUP STAGE	FALSE	2006	13-06-2006 (21:00 h)	21:00	Olympiastadion (Berlin)	Benito Armando Archundia (MEX)	2006_GERMANY_FS.htm
+530	43000	Spain	Ukraine	4-0	False	FALSE	GROUP STAGE	FALSE	2006	14-06-2006 (15:00 h)	15:00	Zentralstadion (Leipzig)	Massimo Busacca (SWI)	2006_GERMANY_FS.htm
+531	66000	Tunisia	Saudi Arabia	2-2	False	FALSE	GROUP STAGE	FALSE	2006	14-06-2006 (18:00 h)	18:00	Allianz Arena (Mí€Œ_nchen)	Mark Shield (AUS)	2006_GERMANY_FS.htm
+532	65000	Germany	Poland	1-0	False	FALSE	GROUP STAGE	FALSE	2006	14-06-2006 (21:00 h)	21:00	Signal Iduna Park (Dortmund)	Luis Medina Cantalejo (SPA)	2006_GERMANY_FS.htm
+533	50000	Ecuador	Costa Rica	3-0	False	FALSE	GROUP STAGE	FALSE	2006	15-06-2006 (15:00 h)	15:00	AOL Arena (Hamburg)	Coffi Codjia (BEN)	2006_GERMANY_FS.htm
+534	41000	England	Trinidad and Tobago	2-0	False	FALSE	GROUP STAGE	FALSE	2006	15-06-2006 (18:00 h)	18:00	Frankenstadion (Ní€Œ_rnberg)	Toru Kamikawa (JAP)	2006_GERMANY_FS.htm
+535	72000	Sweden	Paraguay	1-0	False	FALSE	GROUP STAGE	FALSE	2006	15-06-2006 (21:00 h)	21:00	Olympiastadion (Berlin)	í‹Œ_uboíƒŒç Micheí‹Œ_ (SVK)	2006_GERMANY_FS.htm
+536	52000	Argentina	Serbia-Montenegro	6-0	False	FALSE	GROUP STAGE	FALSE	2006	16-06-2006 (15:00 h)	15:00	Arena AufSchalke (Gelsenkirchen)	Roberto Rosetti (ITA)	2006_GERMANY_FS.htm
+537	52000	Netherlands	Ivory Coast	1-2	False	FALSE	GROUP STAGE	FALSE	2006	16-06-2006 (18:00 h)	18:00	Gottlieb-Daimler-Stadion (Stuttgart)	í€Œñscar Julií€Œçn Ruiz (COL)	2006_GERMANY_FS.htm
+538	43000	Mexico	Angola	-	False	FALSE	GROUP STAGE	FALSE	2006	16-06-2006 (21:00 h)	21:00	AWD-Arena (Hannover)	Shamsul Maidin (SIN)	2006_GERMANY_FS.htm
+539	48000	Portugal	Iran	2-0	False	FALSE	GROUP STAGE	FALSE	2006	17-06-2006 (15:00 h)	15:00	Waldstadion (Frankfurt am Main)	í€ŒŠric Poulat (FRA)	2006_GERMANY_FS.htm
+540	45000	Czech Republic	Ghana	0-2	False	FALSE	GROUP STAGE	FALSE	2006	17-06-2006 (18:00 h)	18:00	RheinEnergieStadion (Kí€Œ_ln)	Horacio Marcelo Elizondo (ARG)	2006_GERMANY_FS.htm
+541	46000	Italy	USA	1-1	False	FALSE	GROUP STAGE	FALSE	2006	17-06-2006 (21:00 h)	21:00	Fritz-Walter-Stadion (Kaiserslautern)	Jorge Luis Larrionda (URU)	2006_GERMANY_FS.htm
+542	41000	Japan	Croatia	-	False	FALSE	GROUP STAGE	FALSE	2006	18-06-2006 (15:00 h)	15:00	Frankenstadion (Ní€Œ_rnberg)	Frank de Bleeckere (BEL)	2006_GERMANY_FS.htm
+543	66000	Brazil	Australia	2-0	False	FALSE	GROUP STAGE	FALSE	2006	18-06-2006 (18:00 h)	18:00	Allianz Arena (Mí€Œ_nchen)	Markus Merk (GER)	2006_GERMANY_FS.htm
+544	43000	France	South Korea	1-1	False	FALSE	GROUP STAGE	FALSE	2006	18-06-2006 (21:00 h)	21:00	Zentralstadion (Leipzig)	Benito Armando Archundia (MEX)	2006_GERMANY_FS.htm
+545	65000	Togo	Switzerland	0-2	False	FALSE	GROUP STAGE	FALSE	2006	19-06-2006 (15:00 h)	15:00	Signal Iduna Park (Dortmund)	Carlos Arecio Amarilla (PAR)	2006_GERMANY_FS.htm
+546	50000	Saudi Arabia	Ukraine	0-4	False	FALSE	GROUP STAGE	FALSE	2006	19-06-2006 (18:00 h)	18:00	AOL Arena (Hamburg)	Graham Poll (ENG)	2006_GERMANY_FS.htm
+547	52000	Spain	Tunisia	1-3	False	FALSE	GROUP STAGE	FALSE	2006	19-06-2006 (21:00 h)	21:00	Gottlieb-Daimler-Stadion (Stuttgart)	Carlos Eugí€ŒÈnio Simon (BRA)	2006_GERMANY_FS.htm
+548	72000	Ecuador	Germany	0-3	False	FALSE	GROUP STAGE	FALSE	2006	20-06-2006 (16:00 h)	16:00	Olympiastadion (Berlin)	Valentin Ivanov (RUS)	2006_GERMANY_FS.htm
+549	43000	Costa Rica	Poland	2-1	False	FALSE	GROUP STAGE	FALSE	2006	20-06-2006 (16:00 h)	16:00	AWD-Arena (Hannover)	Shamsul Maidin (SIN)	2006_GERMANY_FS.htm
+550	45000	Sweden	England	2-2	False	FALSE	GROUP STAGE	FALSE	2006	20-06-2006 (21:00 h)	21:00	RheinEnergieStadion (Kí€Œ_ln)	Massimo Busacca (SWI)	2006_GERMANY_FS.htm
+551	46000	Paraguay	Trinidad and Tobago	2-0	False	FALSE	GROUP STAGE	FALSE	2006	20-06-2006 (21:00 h)	21:00	Fritz-Walter-Stadion (Kaiserslautern)	Roberto Rosetti (ITA)	2006_GERMANY_FS.htm
+552	52000	Portugal	Mexico	1-2	False	FALSE	GROUP STAGE	FALSE	2006	21-06-2006 (16:00 h)	16:00	Arena AufSchalke (Gelsenkirchen)	í‹Œ_uboíƒŒç Micheí‹Œ_ (SVK)	2006_GERMANY_FS.htm
+553	38000	Iran	Angola	1-1	False	FALSE	GROUP STAGE	FALSE	2006	21-06-2006 (16:00 h)	16:00	Zentralstadion (Leipzig)	Mark Shield (AUS)	2006_GERMANY_FS.htm
+554	48000	Netherlands	Argentina	-	False	FALSE	GROUP STAGE	FALSE	2006	21-06-2006 (21:00 h)	21:00	Waldstadion (Frankfurt am Main)	Luis Medina Cantalejo (SPA)	2006_GERMANY_FS.htm
+555	66000	Ivory Coast	Serbia-Montenegro	2-3	False	FALSE	GROUP STAGE	FALSE	2006	21-06-2006 (21:00 h)	21:00	Allianz Arena (Mí€Œ_nchen)	Marco Antonio Rodrí€Œ_guez (MEX)	2006_GERMANY_FS.htm
+556	50000	Czech Republic	Italy	0-2	False	FALSE	GROUP STAGE	FALSE	2006	22-06-2006 (16:00 h)	16:00	AOL Arena (Hamburg)	Benito Armando Archundia (MEX)	2006_GERMANY_FS.htm
+557	41000	Ghana	USA	1-2	False	FALSE	GROUP STAGE	FALSE	2006	22-06-2006 (16:00 h)	16:00	Frankenstadion (Ní€Œ_rnberg)	Markus Merk (GER)	2006_GERMANY_FS.htm
+558	65000	Japan	Brazil	4-1	False	FALSE	GROUP STAGE	FALSE	2006	22-06-2006 (21:00 h)	21:00	Signal Iduna Park (Dortmund)	í€ŒŠric Poulat (FRA)	2006_GERMANY_FS.htm
+559	52000	Croatia	Australia	2-2	False	FALSE	GROUP STAGE	FALSE	2006	22-06-2006 (21:00 h)	21:00	Gottlieb-Daimler-Stadion (Stuttgart)	Graham Poll (ENG)	2006_GERMANY_FS.htm
+560	46000	Saudi Arabia	Spain	0-1	False	FALSE	GROUP STAGE	FALSE	2006	23-06-2006 (16:00 h)	16:00	Fritz-Walter-Stadion (Kaiserslautern)	Coffi Codjia (BEN)	2006_GERMANY_FS.htm
+561	72000	Ukraine	Tunisia	1-0	False	FALSE	GROUP STAGE	FALSE	2006	23-06-2006 (16:00 h)	16:00	Olympiastadion (Berlin)	Carlos Arecio Amarilla (PAR)	2006_GERMANY_FS.htm
+562	45000	Togo	France	0-2	False	FALSE	GROUP STAGE	FALSE	2006	23-06-2006 (21:00 h)	21:00	RheinEnergieStadion (Kí€Œ_ln)	Jorge Luis Larrionda (URU)	2006_GERMANY_FS.htm
+563	43000	Switzerland	South Korea	2-0	False	FALSE	GROUP STAGE	FALSE	2006	23-06-2006 (21:00 h)	21:00	AWD-Arena (Hannover)	Horacio Marcelo Elizondo (ARG)	2006_GERMANY_FS.htm
+564	66000	Germany	Sweden	2-0	False	FALSE	1/8 FINAL	FALSE	2006	24-06-2006 (17:00 h)	17:00	Allianz Arena (Mí€Œ_nchen)	Carlos Eugí€ŒÈnio Simon (BRA)	2006_GERMANY_FS.htm
+565	43000	Argentina	Mexico	1-2	False	FALSE	1/8 FINAL	FALSE	2006	24-06-2006 (21:00 h)	21:00	Zentralstadion (Leipzig)	Massimo Busacca (SWI)	2006_GERMANY_FS.htm
+566	52000	England	Ecuador	1-0	False	FALSE	1/8 FINAL	FALSE	2006	25-06-2006 (17:00 h)	17:00	Gottlieb-Daimler-Stadion (Stuttgart)	Frank de Bleeckere (BEL)	2006_GERMANY_FS.htm
+567	41000	Portugal	Netherlands	1-0	False	FALSE	1/8 FINAL	FALSE	2006	25-06-2006 (21:00 h)	21:00	Frankenstadion (Ní€Œ_rnberg)	Valentin Ivanov (RUS)	2006_GERMANY_FS.htm
+568	46000	Italy	Australia	1-0	False	FALSE	1/8 FINAL	FALSE	2006	26-06-2006 (17:00 h)	17:00	Fritz-Walter-Stadion (Kaiserslautern)	Luis Medina Cantalejo (SPA)	2006_GERMANY_FS.htm
+569	45000	Switzerland	Ukraine	-	False	0-0 (Shevchenko [saved]); 0-0 (Streller [saved]) / 0-1 (Milevsí¢ŒóŒ»kyj); 0-1 (Barnetta [out]) / 0-2 (Rebrov); 0-2 (Cabanas [saved]) / 0-3 (Gusev)	1/8 FINAL	FALSE	2006	26-06-2006 (21:00 h)	21:00	RheinEnergieStadion (Kí€Œ_ln)	Benito Armando Archundia (MEX)	2006_GERMANY_FS.htm
+570	65000	Brazil	Ghana	3-0	False	FALSE	1/8 FINAL	FALSE	2006	27-06-2006 (17:00 h)	17:00	Signal Iduna Park (Dortmund)	í‹Œ_uboíƒŒç Micheí‹Œ_ (SVK)	2006_GERMANY_FS.htm
+571	43000	Spain	France	3-1	False	FALSE	1/8 FINAL	FALSE	2006	27-06-2006 (21:00 h)	21:00	AWD-Arena (Hannover)	Roberto Rosetti (ITA)	2006_GERMANY_FS.htm
+572	72000	Germany	Argentina	1-1	False	1-0 (Neuville); 1-1 (Julio Cruz) / 2-1 (Ballack); 2-1 (Ayala [saved]) / 3-1 (Podolski); 3-2 (Maxi Rodrí€Œ_guez) / 4-2 (Borowski); 4-2 (Cambiasso [saved])	1/4 FINAL	FALSE	2006	30-06-2006 (17:00 h)	17:00	Olympiastadion (Berlin)	í‹Œ_uboíƒŒç Micheí‹Œ_ (SVK)	2006_GERMANY_FS.htm
+573	50000	Italy	Ukraine	3-0	False	FALSE	1/4 FINAL	FALSE	2006	30-06-2006 (21:00 h)	21:00	AOL Arena (Hamburg)	Frank de Bleeckere (BEL)	2006_GERMANY_FS.htm
+574	52000	England	Portugal	-	False	0-1 (Simí€Œ£o); 0-1 (Lampard [saved]) / 0-1 (Hugo Viana [out]); 1-1 (Hargreaves) / 1-1 (Petit [out]); 1-1 (Gerrard [saved]) / 1-2 (Hí€Œ©lder Postiga); 1-2 (Carragher [saved]) / 1-3 (Cristiano Ronaldo)	1/4 FINAL	FALSE	2006	1-07-2006 (17:00 h)	17:00	Arena AufSchalke (Gelsenkirchen)	Horacio Marcelo Elizondo (ARG)	2006_GERMANY_FS.htm
+575	48000	Brazil	France	0-1	False	FALSE	1/4 FINAL	FALSE	2006	1-07-2006 (21:00 h)	21:00	Waldstadion (Frankfurt am Main)	Luis Medina Cantalejo (SPA)	2006_GERMANY_FS.htm
+576	65000	Germany	Italy	0-2	False	FALSE	1/2 FINAL	FALSE	2006	4-07-2006 (21:00 h)	21:00	Signal Iduna Park (Dortmund)	Benito Armando Archundia (MEX)	2006_GERMANY_FS.htm
+577	66000	Portugal	France	0-1	False	FALSE	1/2 FINAL	FALSE	2006	5-07-2006 (21:00 h)	21:00	Allianz Arena (Mí€Œ_nchen)	Jorge Luis Larrionda (URU)	2006_GERMANY_FS.htm
+578	52000	Germany	Portugal	1-3	False	FALSE	PLACES 3-4	FALSE	2006	8-07-2006 (21:00 h)	21:00	Gottlieb-Daimler-Stadion (Stuttgart)	Toru Kamikawa (JAP)	2006_GERMANY_FS.htm
+579	69000	Italy	France	1-1	False	1-0 (Pirlo); 1-1 (Wiltord) / 2-1 (Materazzi); 2-1 (Trí€Œ©zí€Œ©guet [out]) / 3-1 (De Rossi); 3-2 (Abidal) / 4-2 (Del Piero); 4-3 (Sagnol) / 5-3 (Grosso)	FINAL ROUND	FALSE	2006	9-07-2006 (20:00 h)	20:00	Olympiastadion (Berlin)	Horacio Marcelo Elizondo (ARG)	2006_GERMANY_FS.htm
+580	107160	Soviet Union	Mexico	-	False	FALSE	GROUP STAGE	FALSE	1970	31-05-1970 (12:00 h)	12:00	Estadio Azteca (Mí€Œ©xico D.F.)	Kurt Tschenscher (FRG)	1970_MEXICO_FS.htm
+581	20654	Uruguay	Israel	2-0	False	FALSE	GROUP STAGE	FALSE	1970	2-06-1970 (16:00 h)	16:00	Cuauhtí€Œ©moc (Puebla)	Robert Davidson (SCO)	1970_MEXICO_FS.htm
+582	50560	England	Romania	1-0	False	FALSE	GROUP STAGE	FALSE	1970	2-06-1970 (16:00 h)	16:00	Estadio Jalisco (Guadalajara)	Vital Loraux (BEL)	1970_MEXICO_FS.htm
+583	13765	Peru	Bulgaria	2-3	False	FALSE	GROUP STAGE	FALSE	1970	2-06-1970 (16:00 h)	16:00	Estadio Guanajuato (Leí€Œ_n)	Antonio Sbardella (ITA)	1970_MEXICO_FS.htm
+584	92205	Belgium	El Salvador	3-0	False	FALSE	GROUP STAGE	FALSE	1970	3-06-1970 (16:00 h)	16:00	Estadio Azteca (Mí€Œ©xico D.F.)	Andrei Rí‹Œ€dulescu (ROM)	1970_MEXICO_FS.htm
+585	13433	Italy	Sweden	1-0	False	FALSE	GROUP STAGE	FALSE	1970	3-06-1970 (16:00 h)	16:00	Luis Gutií€Œ©rrez Dosal (Toluca)	John Taylor (ENG)	1970_MEXICO_FS.htm
+586	52897	Brazil	Czechoslovakia	1-4	False	FALSE	GROUP STAGE	FALSE	1970	3-06-1970 (16:00 h)	16:00	Estadio Jalisco (Guadalajara)	Ramí€Œ_n Barreto (URU)	1970_MEXICO_FS.htm
+587	12942	FRG	Morocco	1-2	False	FALSE	GROUP STAGE	FALSE	1970	3-06-1970 (16:00 h)	16:00	Estadio Guanajuato (Leí€Œ_n)	Laurens van Ravens (NED)	1970_MEXICO_FS.htm
+588	95261	Soviet Union	Belgium	1-4	False	FALSE	GROUP STAGE	FALSE	1970	6-06-1970 (16:00 h)	16:00	Estadio Azteca (Mí€Œ©xico D.F.)	Rudolf Scheurer (SWI)	1970_MEXICO_FS.htm
+589	29968	Italy	Uruguay	-	False	FALSE	GROUP STAGE	FALSE	1970	6-06-1970 (16:00 h)	16:00	Cuauhtí€Œ©moc (Puebla)	Rudolf Glí€Œ_ckner (GDR)	1970_MEXICO_FS.htm
+590	56818	Romania	Czechoslovakia	1-2	False	FALSE	GROUP STAGE	FALSE	1970	6-06-1970 (16:00 h)	16:00	Estadio Jalisco (Guadalajara)	Diego de Leo (MEX)	1970_MEXICO_FS.htm
+591	13537	Peru	Morocco	3-0	False	FALSE	GROUP STAGE	FALSE	1970	6-06-1970 (16:00 h)	16:00	Estadio Guanajuato (Leí€Œ_n)	Tofik Bakhramov(USSR)	1970_MEXICO_FS.htm
+592	103058	Mexico	El Salvador	4-0	False	FALSE	GROUP STAGE	FALSE	1970	7-06-1970 (12:00 h)	12:00	Estadio Azteca (Mí€Œ©xico D.F.)	Ali Hussein Kandil (UAR)	1970_MEXICO_FS.htm
+593	9624	Sweden	Israel	1-1	False	FALSE	GROUP STAGE	FALSE	1970	7-06-1970 (12:00 h)	12:00	Luis Gutií€Œ©rrez Dosal (Toluca)	Seyoum Tarekegn (ETH)	1970_MEXICO_FS.htm
+594	70950	Brazil	England	1-0	False	FALSE	GROUP STAGE	FALSE	1970	7-06-1970 (12:00 h)	12:00	Estadio Jalisco (Guadalajara)	Abraham Klein (ISR)	1970_MEXICO_FS.htm
+595	12710	FRG	Bulgaria	2-5	False	FALSE	GROUP STAGE	FALSE	1970	7-06-1970 (12:00 h)	12:00	Estadio Guanajuato (Leí€Œ_n)	Josí€Œ© Marí€Œ_a Ortiz de Mendí€Œ_bil (SPA)	1970_MEXICO_FS.htm
+596	89979	Soviet Union	El Salvador	2-0	False	FALSE	GROUP STAGE	FALSE	1970	10-06-1970 (16:00 h)	16:00	Estadio Azteca (Mí€Œ©xico D.F.)	Rafael Hormazí€Œçbal (CHI)	1970_MEXICO_FS.htm
+597	18163	Sweden	Uruguay	1-0	False	FALSE	GROUP STAGE	FALSE	1970	10-06-1970 (16:00 h)	16:00	Cuauhtí€Œ©moc (Puebla)	Henry Landauer (USA)	1970_MEXICO_FS.htm
+598	50804	Brazil	Romania	2-3	False	FALSE	GROUP STAGE	FALSE	1970	10-06-1970 (16:00 h)	16:00	Estadio Jalisco (Guadalajara)	Ferdinand Marschall (AUT)	1970_MEXICO_FS.htm
+599	17875	FRG	Peru	1-3	False	FALSE	GROUP STAGE	FALSE	1970	10-06-1970 (16:00 h)	16:00	Estadio Guanajuato (Leí€Œ_n)	Abel Aguilar (MEX)	1970_MEXICO_FS.htm
+600	108192	Mexico	Belgium	1-0	False	FALSE	GROUP STAGE	FALSE	1970	11-06-1970 (16:00 h)	16:00	Estadio Azteca (Mí€Œ©xico D.F.)	í€Œngel Norberto Coerezza (ARG)	1970_MEXICO_FS.htm
+601	9890	Italy	Israel	-	False	FALSE	GROUP STAGE	FALSE	1970	11-06-1970 (16:00 h)	16:00	Luis Gutií€Œ©rrez Dosal (Toluca)	Aí€Œ_rton Vieira de Moraes (BRA)	1970_MEXICO_FS.htm
+602	49292	England	Czechoslovakia	1-0	False	FALSE	GROUP STAGE	FALSE	1970	11-06-1970 (16:00 h)	16:00	Estadio Jalisco (Guadalajara)	Roger Machin (FRA)	1970_MEXICO_FS.htm
+603	12299	Bulgaria	Morocco	1-1	False	FALSE	GROUP STAGE	FALSE	1970	11-06-1970 (16:00 h)	16:00	Estadio Guanajuato (Leí€Œ_n)	Antí€Œ_nio Ribeiro Saldanha (POR)	1970_MEXICO_FS.htm
+604	96085	Uruguay	Soviet Union	1-0	False	FALSE	1/4 FINAL	FALSE	1970	14-06-1970 (12:00 h)	12:00	Estadio Azteca (Mí€Œ©xico D.F.)	Laurens van Ravens (NED)	1970_MEXICO_FS.htm
+605	26851	Italy	Mexico	1-4	False	FALSE	1/4 FINAL	FALSE	1970	14-06-1970 (12:00 h)	12:00	Luis Gutií€Œ©rrez Dosal (Toluca)	Rudolf Scheurer (SWI)	1970_MEXICO_FS.htm
+606	54233	Brazil	Peru	2-4	False	FALSE	1/4 FINAL	FALSE	1970	14-06-1970 (12:00 h)	12:00	Estadio Jalisco (Guadalajara)	Vital Loraux (BEL)	1970_MEXICO_FS.htm
+607	23357	FRG	England	2-3	False	FALSE	1/4 FINAL	FALSE	1970	14-06-1970 (12:00 h)	12:00	Estadio Guanajuato (Leí€Œ_n)	í€Œngel Norberto Coerezza (ARG)	1970_MEXICO_FS.htm
+608	51261	Brazil	Uruguay	1-3	False	FALSE	1/2 FINAL	FALSE	1970	17-06-1970 (16:00 h)	16:00	Estadio Jalisco (Guadalajara)	Josí€Œ© Marí€Œ_a Ortiz de Mendí€Œ_bil (SPA)	1970_MEXICO_FS.htm
+609	102444	Italy	FRG	3-4	False	FALSE	1/2 FINAL	FALSE	1970	17-06-1970 (16:00 h)	16:00	Estadio Azteca (Mí€Œ©xico D.F.)	Arturo Yamasaki (MEX)	1970_MEXICO_FS.htm
+610	104403	FRG	Uruguay	1-0	False	FALSE	PLACES 3-4	FALSE	1970	20-06-1970 (16:00 h)	16:00	Estadio Azteca (Mí€Œ©xico D.F.)	Antonio Sbardella (ITA)	1970_MEXICO_FS.htm
+611	107412	Brazil	Italy	1-4	False	FALSE	FINAL ROUND	FALSE	1970	21-06-1970 (12:00 h)	12:00	Estadio Azteca (Mí€Œ©xico D.F.)	Rudolf Glí€Œ_ckner (GDR)	1970_MEXICO_FS.htm
+612	84490	South Africa	Mexico	1-1	False	FALSE	GROUP STAGE	FALSE	2010	11-06-2010 (16:00 h)	16:00	Soccer City (Johannesburg)	Ravshan Irmatov (UZB)	2010_SA_FS.htm
+613	64100	Uruguay	France	-	False	FALSE	GROUP STAGE	FALSE	2010	11-06-2010 (20:30 h)	20:30	Cape Town Stadium (Cape Town)	Yuichi Nishimura (JAP)	2010_SA_FS.htm
+614	31513	South Korea	Greece	2-0	False	FALSE	GROUP STAGE	FALSE	2010	12-06-2010 (13:30 h)	13:30	Nelson Mandela Bay Stadium (Port Elizabeth)	Michael Hester (NZL)	2010_SA_FS.htm
+615	55686	Argentina	Nigeria	1-0	False	FALSE	GROUP STAGE	FALSE	2010	12-06-2010 (16:00 h)	16:00	Ellis Park Stadium (Johannesburg)	Wolfgang Stark (GER)	2010_SA_FS.htm
+616	38646	England	USA	1-1	False	FALSE	GROUP STAGE	FALSE	2010	12-06-2010 (20:30 h)	20:30	Royal Bafokeng Stadium (Rustenburg)	Carlos Eugí€ŒÈnio Simon (BRA)	2010_SA_FS.htm
+617	30325	Algeria	Slovenia	0-1	False	FALSE	GROUP STAGE	FALSE	2010	13-06-2010 (13:30 h)	13:30	Peter Mokaba Stadium (Polokwane)	Carlos Alberto Batres (GUA)	2010_SA_FS.htm
+618	38833	Serbia	Ghana	0-1	False	FALSE	GROUP STAGE	FALSE	2010	13-06-2010 (16:00 h)	16:00	Loftus Versfeld Stadium (Pretoria)	Hí€Œ©ctor Walter Baldassi (ARG)	2010_SA_FS.htm
+619	62660	Germany	Australia	4-0	False	FALSE	GROUP STAGE	FALSE	2010	13-06-2010 (20:30 h)	20:30	Moses Mabhida Stadium (Durban)	Marco Antonio Rodrí€Œ_guez (MEX)	2010_SA_FS.htm
+620	83465	Netherlands	Denmark	2-0	False	FALSE	GROUP STAGE	FALSE	2010	14-06-2010 (13:30 h)	13:30	Soccer City (Johannesburg)	Stí€Œ©phane Lannoy (FRA)	2010_SA_FS.htm
+621	30620	Japan	Cameroon	1-0	False	FALSE	GROUP STAGE	FALSE	2010	14-06-2010 (16:00 h)	16:00	Free State Stadium (Bloemfontein)	Olegí€Œçrio Benquerení€Œ_a (POR)	2010_SA_FS.htm
+622	62869	Italy	Paraguay	1-1	False	FALSE	GROUP STAGE	FALSE	2010	14-06-2010 (20:30 h)	20:30	Cape Town Stadium (Cape Town)	Benito Armando Archundia (MEX)	2010_SA_FS.htm
+623	23871	New Zealand	Slovakia	1-1	False	FALSE	GROUP STAGE	FALSE	2010	15-06-2010 (13:30 h)	13:30	Royal Bafokeng Stadium (Rustenburg)	Jerome Damon (SAF)	2010_SA_FS.htm
+624	37034	Ivory Coast	Portugal	-	False	FALSE	GROUP STAGE	FALSE	2010	15-06-2010 (16:00 h)	16:00	Nelson Mandela Bay Stadium (Port Elizabeth)	Jorge Luis Larrionda (URU)	2010_SA_FS.htm
+625	54331	Brazil	North Korea	1-2	False	FALSE	GROUP STAGE	FALSE	2010	15-06-2010 (20:30 h)	20:30	Ellis Park Stadium (Johannesburg)	Viktor Kassai (HUN)	2010_SA_FS.htm
+626	32664	Honduras	Chile	0-1	False	FALSE	GROUP STAGE	FALSE	2010	16-06-2010 (13:30 h)	13:30	Mbombela Stadium (Nelspruit)	Eddy Maillet (SEY)	2010_SA_FS.htm
+627	62453	Spain	Switzerland	0-1	False	FALSE	GROUP STAGE	FALSE	2010	16-06-2010 (16:00 h)	16:00	Moses Mabhida Stadium (Durban)	Howard Webb (ENG)	2010_SA_FS.htm
+628	42658	South Africa	Uruguay	0-3	False	FALSE	GROUP STAGE	FALSE	2010	16-06-2010 (20:30 h)	20:30	Loftus Versfeld Stadium (Pretoria)	Massimo Busacca (SWI)	2010_SA_FS.htm
+629	82174	Argentina	South Korea	1-4	False	FALSE	GROUP STAGE	FALSE	2010	17-06-2010 (13:30 h)	13:30	Soccer City (Johannesburg)	Frank de Bleeckere (BEL)	2010_SA_FS.htm
+630	31593	Greece	Nigeria	1-2	False	FALSE	GROUP STAGE	FALSE	2010	17-06-2010 (16:00 h)	16:00	Free State Stadium (Bloemfontein)	í€Œñscar Julií€Œçn Ruiz (COL)	2010_SA_FS.htm
+631	35370	France	Mexico	0-2	False	FALSE	GROUP STAGE	FALSE	2010	17-06-2010 (20:30 h)	20:30	Peter Mokaba Stadium (Polokwane)	Khalil al-Ghamdi (KSA)	2010_SA_FS.htm
+632	38294	Germany	Serbia	0-1	False	FALSE	GROUP STAGE	FALSE	2010	18-06-2010 (13:30 h)	13:30	Nelson Mandela Bay Stadium (Port Elizabeth)	Alberto Undiano Mallenco (SPA)	2010_SA_FS.htm
+633	45573	Slovenia	USA	2-2	False	FALSE	GROUP STAGE	FALSE	2010	18-06-2010 (16:00 h)	16:00	Ellis Park Stadium (Johannesburg)	Koman Coulibaly (MLI)	2010_SA_FS.htm
+634	64100	England	Algeria	-	False	FALSE	GROUP STAGE	FALSE	2010	18-06-2010 (20:30 h)	20:30	Cape Town Stadium (Cape Town)	Ravshan Irmatov (UZB)	2010_SA_FS.htm
+635	62010	Netherlands	Japan	1-0	False	FALSE	GROUP STAGE	FALSE	2010	19-06-2010 (13:30 h)	13:30	Moses Mabhida Stadium (Durban)	Hí€Œ©ctor Walter Baldassi (ARG)	2010_SA_FS.htm
+636	34812	Ghana	Australia	1-1	False	FALSE	GROUP STAGE	FALSE	2010	19-06-2010 (16:00 h)	16:00	Royal Bafokeng Stadium (Rustenburg)	Roberto Rosetti (ITA)	2010_SA_FS.htm
+637	38074	Cameroon	Denmark	2-1	False	FALSE	GROUP STAGE	FALSE	2010	19-06-2010 (20:30 h)	20:30	Loftus Versfeld Stadium (Pretoria)	Jorge Luis Larrionda (URU)	2010_SA_FS.htm
+638	26643	Slovakia	Paraguay	0-2	False	FALSE	GROUP STAGE	FALSE	2010	20-06-2010 (13:30 h)	13:30	Free State Stadium (Bloemfontein)	Eddy Maillet (SEY)	2010_SA_FS.htm
+639	38229	Italy	New Zealand	1-1	False	FALSE	GROUP STAGE	FALSE	2010	20-06-2010 (16:00 h)	16:00	Mbombela Stadium (Nelspruit)	Carlos Alberto Batres (GUA)	2010_SA_FS.htm
+640	84455	Brazil	Ivory Coast	1-3	False	FALSE	GROUP STAGE	FALSE	2010	20-06-2010 (20:30 h)	20:30	Soccer City (Johannesburg)	Stí€Œ©phane Lannoy (FRA)	2010_SA_FS.htm
+641	63644	Portugal	North Korea	7-0	False	FALSE	GROUP STAGE	FALSE	2010	21-06-2010 (13:30 h)	13:30	Cape Town Stadium (Cape Town)	Pablo Pozo (CHI)	2010_SA_FS.htm
+642	34872	Chile	Switzerland	1-0	False	FALSE	GROUP STAGE	FALSE	2010	21-06-2010 (16:00 h)	16:00	Nelson Mandela Bay Stadium (Port Elizabeth)	Khalil al-Ghamdi (KSA)	2010_SA_FS.htm
+643	54386	Spain	Honduras	2-0	False	FALSE	GROUP STAGE	FALSE	2010	21-06-2010 (20:30 h)	20:30	Ellis Park Stadium (Johannesburg)	Yuichi Nishimura (JAP)	2010_SA_FS.htm
+644	33425	Mexico	Uruguay	0-1	False	FALSE	GROUP STAGE	FALSE	2010	22-06-2010 (16:00 h)	16:00	Royal Bafokeng Stadium (Rustenburg)	Viktor Kassai (HUN)	2010_SA_FS.htm
+645	39415	France	South Africa	2-1	False	FALSE	GROUP STAGE	FALSE	2010	22-06-2010 (16:00 h)	16:00	Free State Stadium (Bloemfontein)	í€Œñscar Julií€Œçn Ruiz (COL)	2010_SA_FS.htm
+646	61874	Nigeria	South Korea	2-2	False	FALSE	GROUP STAGE	FALSE	2010	22-06-2010 (20:30 h)	20:30	Moses Mabhida Stadium (Durban)	Olegí€Œçrio Benquerení€Œ_a (POR)	2010_SA_FS.htm
+647	38891	Greece	Argentina	0-2	False	FALSE	GROUP STAGE	FALSE	2010	22-06-2010 (20:30 h)	20:30	Peter Mokaba Stadium (Polokwane)	Ravshan Irmatov (UZB)	2010_SA_FS.htm
+648	36893	Slovenia	England	0-1	False	FALSE	GROUP STAGE	FALSE	2010	23-06-2010 (16:00 h)	16:00	Nelson Mandela Bay Stadium (Port Elizabeth)	Wolfgang Stark (GER)	2010_SA_FS.htm
+649	35827	USA	Algeria	1-0	False	FALSE	GROUP STAGE	FALSE	2010	23-06-2010 (16:00 h)	16:00	Loftus Versfeld Stadium (Pretoria)	Frank de Bleeckere (BEL)	2010_SA_FS.htm
+650	83391	Ghana	Germany	0-1	False	FALSE	GROUP STAGE	FALSE	2010	23-06-2010 (20:30 h)	20:30	Soccer City (Johannesburg)	Carlos Eugí€ŒÈnio Simon (BRA)	2010_SA_FS.htm
+651	37836	Australia	Serbia	1-2	False	FALSE	GROUP STAGE	FALSE	2010	23-06-2010 (20:30 h)	20:30	Mbombela Stadium (Nelspruit)	Jorge Luis Larrionda (URU)	2010_SA_FS.htm
+652	53412	Slovakia	Italy	2-3	False	FALSE	GROUP STAGE	FALSE	2010	24-06-2010 (16:00 h)	16:00	Ellis Park Stadium (Johannesburg)	Howard Webb (ENG)	2010_SA_FS.htm
+653	34850	Paraguay	New Zealand	-	False	FALSE	GROUP STAGE	FALSE	2010	24-06-2010 (16:00 h)	16:00	Peter Mokaba Stadium (Polokwane)	Yuichi Nishimura (JAP)	2010_SA_FS.htm
+654	27967	Denmark	Japan	3-1	False	FALSE	GROUP STAGE	FALSE	2010	24-06-2010 (20:30 h)	20:30	Royal Bafokeng Stadium (Rustenburg)	Jerome Damon (SAF)	2010_SA_FS.htm
+655	63093	Cameroon	Netherlands	2-1	False	FALSE	GROUP STAGE	FALSE	2010	24-06-2010 (20:30 h)	20:30	Cape Town Stadium (Cape Town)	Pablo Pozo (CHI)	2010_SA_FS.htm
+656	62712	Portugal	Brazil	-	False	FALSE	GROUP STAGE	FALSE	2010	25-06-2010 (16:00 h)	16:00	Moses Mabhida Stadium (Durban)	Benito Armando Archundia (MEX)	2010_SA_FS.htm
+657	34763	North Korea	Ivory Coast	0-3	False	FALSE	GROUP STAGE	FALSE	2010	25-06-2010 (16:00 h)	16:00	Mbombela Stadium (Nelspruit)	Alberto Undiano Mallenco (SPA)	2010_SA_FS.htm
+658	41958	Chile	Spain	2-1	False	FALSE	GROUP STAGE	FALSE	2010	25-06-2010 (20:30 h)	20:30	Loftus Versfeld Stadium (Pretoria)	Marco Antonio Rodrí€Œ_guez (MEX)	2010_SA_FS.htm
+659	28042	Switzerland	Honduras	-	False	FALSE	GROUP STAGE	FALSE	2010	25-06-2010 (20:30 h)	20:30	Free State Stadium (Bloemfontein)	Hí€Œ©ctor Walter Baldassi (ARG)	2010_SA_FS.htm
+660	30597	Uruguay	South Korea	1-2	False	FALSE	1/8 FINAL	FALSE	2010	26-06-2010 (16:00 h)	16:00	Nelson Mandela Bay Stadium (Port Elizabeth)	Wolfgang Stark (GER)	2010_SA_FS.htm
+661	34976	USA	Ghana	2-1	False	FALSE	1/8 FINAL	FALSE	2010	26-06-2010 (20:30 h)	20:30	Royal Bafokeng Stadium (Rustenburg)	Viktor Kassai (HUN)	2010_SA_FS.htm
+662	40510	Germany	England	1-4	False	FALSE	1/8 FINAL	FALSE	2010	27-06-2010 (16:00 h)	16:00	Free State Stadium (Bloemfontein)	Jorge Luis Larrionda (URU)	2010_SA_FS.htm
+663	84377	Argentina	Mexico	1-3	False	FALSE	1/8 FINAL	FALSE	2010	27-06-2010 (20:30 h)	20:30	Soccer City (Johannesburg)	Roberto Rosetti (ITA)	2010_SA_FS.htm
+664	61962	Netherlands	Slovakia	1-2	False	FALSE	1/8 FINAL	FALSE	2010	28-06-2010 (16:00 h)	16:00	Moses Mabhida Stadium (Durban)	Alberto Undiano Mallenco (SPA)	2010_SA_FS.htm
+665	54096	Brazil	Chile	3-0	False	FALSE	1/8 FINAL	FALSE	2010	28-06-2010 (20:30 h)	20:30	Ellis Park Stadium (Johannesburg)	Howard Webb (ENG)	2010_SA_FS.htm
+666	36742	Paraguay	Japan	-	False	1-0 (í€ŒŠ. Barreto); 1-1 (Endo) / 2-1 (Barrios); 2-2 (Hasebe) / 3-2 (Riveros); 3-2 (Komano [out]) / 4-2 (Valdez); 4-3 (Honda) / 5-3 (Cardozo)	1/8 FINAL	FALSE	2010	29-06-2010 (16:00 h)	16:00	Loftus Versfeld Stadium (Pretoria)	Frank de Bleeckere (BEL)	2010_SA_FS.htm
+667	62955	Spain	Portugal	1-0	False	FALSE	1/8 FINAL	FALSE	2010	29-06-2010 (20:30 h)	20:30	Cape Town Stadium (Cape Town)	Hí€Œ©ctor Walter Baldassi (ARG)	2010_SA_FS.htm
+668	40186	Netherlands	Brazil	1-2	False	FALSE	1/4 FINAL	FALSE	2010	2-07-2010 (16:00 h)	16:00	Nelson Mandela Bay Stadium (Port Elizabeth)	Yuichi Nishimura (JAP)	2010_SA_FS.htm
+669	84017	Uruguay	Ghana	1-1	False	1-0 (Forlí€Œçn); 1-1 (Gyan) / 2-1 (Victorino); 2-2 (Appiah) / 3-2 (Scotti); 3-2 (John Mensah [saved]) / 3-2 (M. Pereira [out]); 3-2 (Adiyiah [saved]) / 4-2 (Abreu)	1/4 FINAL	FALSE	2010	2-07-2010 (20:30 h)	20:30	Soccer City (Johannesburg)	Olegí€Œçrio Benquerení€Œ_a (POR)	2010_SA_FS.htm
+670	64100	Argentina	Germany	0-4	False	FALSE	1/4 FINAL	FALSE	2010	3-07-2010 (16:00 h)	16:00	Cape Town Stadium (Cape Town)	Ravshan Irmatov (UZB)	2010_SA_FS.htm
+671	55359	Paraguay	Spain	0-1	False	FALSE	1/4 FINAL	FALSE	2010	3-07-2010 (20:30 h)	20:30	Ellis Park Stadium (Johannesburg)	Carlos Alberto Batres (GUA)	2010_SA_FS.htm
+672	62479	Uruguay	Netherlands	3-2	False	FALSE	1/2 FINAL	FALSE	2010	6-07-2010 (20:30 h)	20:30	Cape Town Stadium (Cape Town)	Ravshan Irmatov (UZB)	2010_SA_FS.htm
+673	60960	Germany	Spain	0-1	False	FALSE	1/2 FINAL	FALSE	2010	7-07-2010 (20:30 h)	20:30	Moses Mabhida Stadium (Durban)	Viktor Kassai (HUN)	2010_SA_FS.htm
+674	36254	Uruguay	Germany	3-2	False	FALSE	PLACES 3-4	FALSE	2010	10-07-2010 (20:30 h)	20:30	Nelson Mandela Bay Stadium (Port Elizabeth)	Benito Armando Archundia (MEX)	2010_SA_FS.htm
+675	84490	Netherlands	Spain	1-0	False	FALSE	FINAL ROUND	FALSE	2010	11-07-2010 (20:30 h)	20:30	Soccer City (Johannesburg)	Howard Webb (ENG)	2010_SA_FS.htm
+676	7908	Uruguay	Colombia	1-2	False	FALSE	GROUP STAGE	FALSE	1962	30-05-1962 (15:00 h)	15:00	Carlos Dittborn (Arica)	Andor Dorogi (HUN)	1962_CHILE_FS.htm
+677	65006	Chile	Switzerland	1-3	False	FALSE	GROUP STAGE	FALSE	1962	30-05-1962 (15:00 h)	15:00	Estadio Nacional (Santiago de Chile)	Kenneth Aston (ENG)	1962_CHILE_FS.htm
+678	10484	Brazil	Mexico	2-0	False	FALSE	GROUP STAGE	FALSE	1962	30-05-1962 (15:00 h)	15:00	Sausalito (Vií€Œ±a del Mar)	Gottfried Dienst (SWI)	1962_CHILE_FS.htm
+679	7134	Argentina	Bulgaria	1-0	False	FALSE	GROUP STAGE	FALSE	1962	30-05-1962 (15:00 h)	15:00	Braden Copper (Rancagua)	Juan Gardeazí€Œçbal (SPA)	1962_CHILE_FS.htm
+680	9622	Soviet Union	Yugoslavia	2-0	False	FALSE	GROUP STAGE	FALSE	1962	31-05-1962 (15:00 h)	15:00	Carlos Dittborn (Arica)	Albert Dusch (FRG)	1962_CHILE_FS.htm
+681	65440	FRG	Italy	-	False	FALSE	GROUP STAGE	FALSE	1962	31-05-1962 (15:00 h)	15:00	Estadio Nacional (Santiago de Chile)	Robert Davidson (SCO)	1962_CHILE_FS.htm
+682	12700	Czechoslovakia	Spain	1-0	False	FALSE	GROUP STAGE	FALSE	1962	31-05-1962 (15:00 h)	15:00	Sausalito (Vií€Œ±a del Mar)	Carl Erich Steiner (AUT)	1962_CHILE_FS.htm
+683	7938	Hungary	England	1-2	False	FALSE	GROUP STAGE	FALSE	1962	31-05-1962 (15:00 h)	15:00	Braden Copper (Rancagua)	Leo Horn (NED)	1962_CHILE_FS.htm
+684	8824	Yugoslavia	Uruguay	1-3	False	FALSE	GROUP STAGE	FALSE	1962	2-06-1962 (15:00 h)	15:00	Carlos Dittborn (Arica)	Karol Galba (CZE)	1962_CHILE_FS.htm
+685	66057	Chile	Italy	2-0	False	FALSE	GROUP STAGE	FALSE	1962	2-06-1962 (15:00 h)	15:00	Estadio Nacional (Santiago de Chile)	Kenneth Aston (ENG)	1962_CHILE_FS.htm
+686	14903	Brazil	Czechoslovakia	-	False	FALSE	GROUP STAGE	FALSE	1962	2-06-1962 (15:00 h)	15:00	Sausalito (Vií€Œ±a del Mar)	Pierre Schwinte (FRA)	1962_CHILE_FS.htm
+687	7794	England	Argentina	1-3	False	FALSE	GROUP STAGE	FALSE	1962	2-06-1962 (15:00 h)	15:00	Braden Copper (Rancagua)	Nikolaj Latishev (USSR)	1962_CHILE_FS.htm
+688	8040	Soviet Union	Colombia	4-4	False	FALSE	GROUP STAGE	FALSE	1962	3-06-1962 (15:00 h)	15:00	Carlos Dittborn (Arica)	Joí€Œ£o Etzel Filho (BRA)	1962_CHILE_FS.htm
+689	64922	FRG	Switzerland	1-2	False	FALSE	GROUP STAGE	FALSE	1962	3-06-1962 (15:00 h)	15:00	Estadio Nacional (Santiago de Chile)	Leo Horn (NED)	1962_CHILE_FS.htm
+690	11875	Spain	Mexico	1-0	False	FALSE	GROUP STAGE	FALSE	1962	3-06-1962 (15:00 h)	15:00	Sausalito (Vií€Œ±a del Mar)	Branko TeíƒŒçanií‹Œˆ (YUG)	1962_CHILE_FS.htm
+691	7442	Hungary	Bulgaria	1-6	False	FALSE	GROUP STAGE	FALSE	1962	3-06-1962 (15:00 h)	15:00	Braden Copper (Rancagua)	Juan Gardeazí€Œçbal (SPA)	1962_CHILE_FS.htm
+692	9973	Soviet Union	Uruguay	1-2	False	FALSE	GROUP STAGE	FALSE	1962	6-06-1962 (15:00 h)	15:00	Carlos Dittborn (Arica)	Cesare Jonni (ITA)	1962_CHILE_FS.htm
+693	67224	FRG	Chile	2-0	False	FALSE	GROUP STAGE	FALSE	1962	6-06-1962 (15:00 h)	15:00	Estadio Nacional (Santiago de Chile)	Robert Davidson (SCO)	1962_CHILE_FS.htm
+694	18715	Brazil	Spain	1-2	False	FALSE	GROUP STAGE	FALSE	1962	6-06-1962 (15:00 h)	15:00	Sausalito (Vií€Œ±a del Mar)	Sergio Bustamante (CHI)	1962_CHILE_FS.htm
+695	7945	Hungary	Argentina	-	False	FALSE	GROUP STAGE	FALSE	1962	6-06-1962 (15:00 h)	15:00	Braden Copper (Rancagua)	Arturo Yamasaki (PER)	1962_CHILE_FS.htm
+696	7167	Yugoslavia	Colombia	5-0	False	FALSE	GROUP STAGE	FALSE	1962	7-06-1962 (15:00 h)	15:00	Carlos Dittborn (Arica)	Juan Carlos Robles (CHI)	1962_CHILE_FS.htm
+697	59828	Italy	Switzerland	3-0	False	FALSE	GROUP STAGE	FALSE	1962	7-06-1962 (15:00 h)	15:00	Estadio Nacional (Santiago de Chile)	Nikolaj Latishev (USSR)	1962_CHILE_FS.htm
+698	10648	Mexico	Czechoslovakia	1-3	False	FALSE	GROUP STAGE	FALSE	1962	7-06-1962 (15:00 h)	15:00	Sausalito (Vií€Œ±a del Mar)	Gottfried Dienst (SWI)	1962_CHILE_FS.htm
+699	5700	England	Bulgaria	-	False	FALSE	GROUP STAGE	FALSE	1962	7-06-1962 (15:00 h)	15:00	Braden Copper (Rancagua)	Arthur Blavier (BEL)	1962_CHILE_FS.htm
+700	17268	Chile	Soviet Union	1-2	False	FALSE	1/4 FINAL	FALSE	1962	10-06-1962 (14:30 h)	14:30	Carlos Dittborn (Arica)	Leo Horn (NED)	1962_CHILE_FS.htm
+701	63324	Yugoslavia	FRG	1-0	False	FALSE	1/4 FINAL	FALSE	1962	10-06-1962 (14:30 h)	14:30	Estadio Nacional (Santiago de Chile)	Arturo Yamasaki (PER)	1962_CHILE_FS.htm
+702	17736	Brazil	England	1-3	False	FALSE	1/4 FINAL	FALSE	1962	10-06-1962 (14:30 h)	14:30	Sausalito (Vií€Œ±a del Mar)	Pierre Schwinte (FRA)	1962_CHILE_FS.htm
+703	11690	Czechoslovakia	Hungary	1-0	False	FALSE	1/4 FINAL	FALSE	1962	10-06-1962 (14:30 h)	14:30	Braden Copper (Rancagua)	Nikolaj Latishev (USSR)	1962_CHILE_FS.htm
+704	76594	Brazil	Chile	2-4	False	FALSE	1/2 FINAL	FALSE	1962	13-06-1962 (14:30 h)	14:30	Estadio Nacional (Santiago de Chile)	Arturo Yamasaki (PER)	1962_CHILE_FS.htm
+705	5890	Czechoslovakia	Yugoslavia	1-3	False	FALSE	1/2 FINAL	FALSE	1962	13-06-1962 (14:30 h)	14:30	Sausalito (Vií€Œ±a del Mar)	Gottfried Dienst (SWI)	1962_CHILE_FS.htm
+706	66697	Chile	Yugoslavia	1-0	False	FALSE	PLACES 3-4	FALSE	1962	16-06-1962 (14:30 h)	14:30	Estadio Nacional (Santiago de Chile)	Juan Gardeazí€Œçbal (SPA)	1962_CHILE_FS.htm
+707	68679	Brazil	Czechoslovakia	1-3	False	FALSE	FINAL ROUND	FALSE	1962	17-06-1962 (14:30 h)	14:30	Estadio Nacional (Santiago de Chile)	Nikolaj Latishev (USSR)	1962_CHILE_FS.htm
+708	61500	Brazil	Yugoslavia	-	False	FALSE	GROUP STAGE	first	1974	13-06-1974 (17:00 h)	17:00	Waldstadion (Frankfurt am Main)	Rudolf Scheurer (SWI)	1974_FRG_FS.htm
+709	83168	FRG	Chile	1-0	False	FALSE	GROUP STAGE	first	1974	14-06-1974 (16:30 h)	16:30	Olympiastadion (West-Berlin)	Doí‹Œôan Babacan (TUR)	1974_FRG_FS.htm
+710	18180	GDR	Australia	2-0	False	FALSE	GROUP STAGE	first	1974	14-06-1974 (19:30 h)	19:30	Volksparkstadion (Hamburg)	Youssou Ní¢ŒóŒ»Diaye (SEN)	1974_FRG_FS.htm
+711	25800	Zaire	Scotland	0-2	False	FALSE	GROUP STAGE	first	1974	14-06-1974 (19:30 h)	19:30	Westfalenstadion (Dortmund)	Gerhard Schulenburg (FRG)	1974_FRG_FS.htm
+712	23800	Sweden	Bulgaria	-	False	FALSE	GROUP STAGE	first	1974	15-06-1974 (16:00 h)	16:00	Rheinstadion (Dí€Œ_sseldorf)	í€ŒŠdison Pí€Œ©rez Ní€Œ_í€Œ±ez (PER)	1974_FRG_FS.htm
+713	53700	Uruguay	Netherlands	0-2	False	FALSE	GROUP STAGE	first	1974	15-06-1974 (16:00 h)	16:00	Niedersachsenstadion (Hannover)	Kí€Œçroly Palotai (HUN)	1974_FRG_FS.htm
+714	51100	Italy	Haiti	1-3	False	FALSE	GROUP STAGE	first	1974	15-06-1974 (18:00 h)	18:00	Olympiastadion (Mí€Œ_nchen)	Vicente Llobregat (VEN)	1974_FRG_FS.htm
+715	31500	Poland	Argentina	2-3	False	FALSE	GROUP STAGE	first	1974	15-06-1974 (18:00 h)	18:00	Neckarstadion (Stuttgart)	Clive Thomas (WAL)	1974_FRG_FS.htm
+716	53300	Australia	FRG	0-3	False	FALSE	GROUP STAGE	first	1974	18-06-1974 (16:00 h)	16:00	Volksparkstadion (Hamburg)	Mustafa Kamel (EGY)	1974_FRG_FS.htm
+717	27300	Chile	GDR	1-1	False	FALSE	GROUP STAGE	first	1974	18-06-1974 (19:30 h)	19:30	Olympiastadion (West-Berlin)	Aurelio Angonese (ITA)	1974_FRG_FS.htm
+718	31700	Yugoslavia	Zaire	9-0	False	FALSE	GROUP STAGE	first	1974	18-06-1974 (19:30 h)	19:30	Parkstadion (Gelsenkirchen)	Omar Delgado (COL)	1974_FRG_FS.htm
+719	62000	Scotland	Brazil	-	False	FALSE	GROUP STAGE	first	1974	18-06-1974 (19:30 h)	19:30	Waldstadion (Frankfurt am Main)	Arie van Gemert (NED)	1974_FRG_FS.htm
+720	53700	Netherlands	Sweden	-	False	FALSE	GROUP STAGE	first	1974	19-06-1974 (19:30 h)	19:30	Westfalenstadion (Dortmund)	Werner Winsemann (CAN)	1974_FRG_FS.htm
+721	13400	Bulgaria	Uruguay	1-1	False	FALSE	GROUP STAGE	first	1974	19-06-1974 (19:30 h)	19:30	Niedersachsenstadion (Hannover)	Jack Taylor (ENG)	1974_FRG_FS.htm
+722	25400	Haiti	Poland	0-7	False	FALSE	GROUP STAGE	first	1974	19-06-1974 (19:30 h)	19:30	Olympiastadion (Mí€Œ_nchen)	Govindasamy Suppiah (SIN)	1974_FRG_FS.htm
+723	68900	Argentina	Italy	1-1	False	FALSE	GROUP STAGE	first	1974	19-06-1974 (19:30 h)	19:30	Neckarstadion (Stuttgart)	Pavel Kazakov (USSR)	1974_FRG_FS.htm
+724	14681	Australia	Chile	-	False	FALSE	GROUP STAGE	first	1974	22-06-1974 (16:00 h)	16:00	Olympiastadion (West-Berlin)	Jaffar Namdar (IRN)	1974_FRG_FS.htm
+725	36200	Zaire	Brazil	0-3	False	FALSE	GROUP STAGE	first	1974	22-06-1974 (18:00 h)	18:00	Parkstadion (Gelsenkirchen)	Nicolae Rainea (ROM)	1974_FRG_FS.htm
+726	56000	Scotland	Yugoslavia	1-1	False	FALSE	GROUP STAGE	first	1974	22-06-1974 (18:00 h)	18:00	Waldstadion (Frankfurt am Main)	Alfonso Gonzí€Œçlez Archundia (MEX)	1974_FRG_FS.htm
+727	60350	GDR	FRG	1-0	False	FALSE	GROUP STAGE	first	1974	22-06-1974 (19:30 h)	19:30	Volksparkstadion (Hamburg)	Ramí€Œ_n Barreto (URU)	1974_FRG_FS.htm
+728	53300	Bulgaria	Netherlands	4-1	False	FALSE	GROUP STAGE	first	1974	23-06-1974 (16:00 h)	16:00	Westfalenstadion (Dortmund)	Tony BoíƒŒçkovií‹Œˆ (AUS)	1974_FRG_FS.htm
+729	28300	Sweden	Uruguay	3-0	False	FALSE	GROUP STAGE	first	1974	23-06-1974 (16:00 h)	16:00	Rheinstadion (Dí€Œ_sseldorf)	Erich Linemayr (AUT)	1974_FRG_FS.htm
+730	25900	Argentina	Haiti	1-4	False	FALSE	GROUP STAGE	first	1974	23-06-1974 (16:00 h)	16:00	Olympiastadion (Mí€Œ_nchen)	Pablo Sí€Œçnchez Ibí€Œçí€Œ±ez (SPA)	1974_FRG_FS.htm
+731	68900	Poland	Italy	1-2	False	FALSE	GROUP STAGE	first	1974	23-06-1974 (16:00 h)	16:00	Neckarstadion (Stuttgart)	Hans-Joachim Weyland (FRG)	1974_FRG_FS.htm
+732	66085	Yugoslavia	FRG	0-2	False	FALSE	GROUP STAGE	second	1974	26-06-1974 (16:00 h)	16:00	Rheinstadion (Dí€Œ_sseldorf)	Armando Marques (BRA)	1974_FRG_FS.htm
+733	55348	Netherlands	Argentina	4-0	False	FALSE	GROUP STAGE	second	1974	26-06-1974 (19:30 h)	19:30	Parkstadion (Gelsenkirchen)	Robert Davidson (SCO)	1974_FRG_FS.htm
+734	58463	Brazil	GDR	1-0	False	FALSE	GROUP STAGE	second	1974	26-06-1974 (19:30 h)	19:30	Niedersachsenstadion (Hannover)	Clive Thomas (WAL)	1974_FRG_FS.htm
+735	43755	Sweden	Poland	0-1	False	FALSE	GROUP STAGE	second	1974	26-06-1974 (19:30 h)	19:30	Neckarstadion (Stuttgart)	Ramí€Œ_n Barreto (URU)	1974_FRG_FS.htm
+736	67148	GDR	Netherlands	0-2	False	FALSE	GROUP STAGE	second	1974	30-06-1974 (16:00 h)	16:00	Parkstadion (Gelsenkirchen)	Rudolf Scheurer (SWI)	1974_FRG_FS.htm
+737	39400	Argentina	Brazil	2-1	False	FALSE	GROUP STAGE	second	1974	30-06-1974 (16:00 h)	16:00	Niedersachsenstadion (Hannover)	Vital Loraux (BEL)	1974_FRG_FS.htm
+738	53200	Poland	Yugoslavia	1-2	False	FALSE	GROUP STAGE	second	1974	30-06-1974 (16:00 h)	16:00	Waldstadion (Frankfurt am Main)	Rudolf Glí€Œ_ckner (GDR)	1974_FRG_FS.htm
+739	67861	FRG	Sweden	2-4	False	FALSE	GROUP STAGE	second	1974	30-06-1974 (19:30 h)	19:30	Rheinstadion (Dí€Œ_sseldorf)	Pavel Kazakov (USSR)	1974_FRG_FS.htm
+740	61249	Poland	FRG	0-1	False	FALSE	GROUP STAGE	second	1974	3-07-1974 (16:00 h)	16:00	Waldstadion (Frankfurt am Main)	Erich Linemayr (AUT)	1974_FRG_FS.htm
+741	52500	Netherlands	Brazil	2-0	False	FALSE	GROUP STAGE	second	1974	3-07-1974 (19:30 h)	19:30	Westfalenstadion (Dortmund)	Kurt Tschenscher (FRG)	1974_FRG_FS.htm
+742	53054	Argentina	GDR	1-1	False	FALSE	GROUP STAGE	second	1974	3-07-1974 (19:30 h)	19:30	Parkstadion (Gelsenkirchen)	Jack Taylor (ENG)	1974_FRG_FS.htm
+743	37700	Sweden	Yugoslavia	1-2	False	FALSE	GROUP STAGE	second	1974	3-07-1974 (19:30 h)	19:30	Rheinstadion (Dí€Œ_sseldorf)	Luis Pestarino (ARG)	1974_FRG_FS.htm
+744	74100	Poland	Brazil	1-0	False	FALSE	PLACES 3-4	FALSE	1974	6-07-1974 (16:00 h)	16:00	Olympiastadion (Mí€Œ_nchen)	Aurelio Angonese (ITA)	1974_FRG_FS.htm
+745	77833	FRG	Netherlands	1-2	False	FALSE	FINAL ROUND	FALSE	1974	7-07-1974 (16:00 h)	16:00	Olympiastadion (Mí€Œ_nchen)	Jack Taylor (ENG)	1974_FRG_FS.htm
+746	62561	France	Senegal	0-1	False	FALSE	GROUP STAGE	FALSE	2002	31-05-2002 (20:30 h)	20:30	Seoul World Cup Gyeonggijang í¢ŒóŒî Seoul World Cup Stadium (Seoul)	Ali Mohammed Bujsaim (UAE)	2002_KJ_FS.htm
+747	33679	Ireland	Cameroon	1-1	False	FALSE	GROUP STAGE	FALSE	2002	1-06-2002 (15:30 h)	15í‰Œ_:30 	Niigata Sutajiamu í¢ŒóŒìBiggu Suwaní¢ŒóŒ í¢ŒóŒî Niigata Stadium í¢ŒóŒìBig Swaní¢ŒóŒ (Niigata)	Toru Kamikawa (JAP)	2002_KJ_FS.htm
+748	30157	Uruguay	Denmark	2-1	False	FALSE	GROUP STAGE	FALSE	2002	1-06-2002 (18:00 h)	18:00	Munsu Chukku Gyeonggijang í¢ŒóŒî Munsu Football Stadium (Ulsan)	Saad Kamel Mane (KUW)	2002_KJ_FS.htm
+749	32218	Germany	Saudi Arabia	8-0	False	FALSE	GROUP STAGE	FALSE	2002	1-06-2002 (20:30 h)	20:30	Sapporo Domu í¢ŒóŒìHirobaí¢ŒóŒ í¢ŒóŒî Sapporo Dome í¢ŒóŒìSquareí¢ŒóŒ (Sapporo)	Ubaldo Aquino (PAR)	2002_KJ_FS.htm
+750	34050	Argentina	Nigeria	1-0	False	FALSE	GROUP STAGE	FALSE	2002	2-06-2002 (14:30 h)	14:30	Kashima Sutajiamu í¢ŒóŒî Kashima Stadium (Ibaraki)	Gilles Veissií€ŒÂre (FRA)	2002_KJ_FS.htm
+751	25186	Paraguay	South Africa	2-2	False	FALSE	GROUP STAGE	FALSE	2002	2-06-2002 (16:30 h)	16:30	Asiad Ju Gyeonggijang í¢ŒóŒî Asiad Main Stadium (Busan)	í‹Œ_uboíƒŒç Micheí‹Œ_ (SVK)	2002_KJ_FS.htm
+752	52721	England	Sweden	1-1	False	FALSE	GROUP STAGE	FALSE	2002	2-06-2002 (18:30 h)	18:30	Saitama Sutajiamu 2002 í¢ŒóŒî Saitama Stadium 2002 (Saitama)	Carlos Eugí€ŒÈnio Simon (BRA)	2002_KJ_FS.htm
+753	28598	Spain	Slovenia	1-3	False	FALSE	GROUP STAGE	FALSE	2002	2-06-2002 (20:30 h)	20:30	Gwangju World Cup Gyeonggijang í¢ŒóŒî Gwangju World Cup Stadium (Gwangju)	Mohammed Guezzaz (MOR)	2002_KJ_FS.htm
+754	32239	Croatia	Mexico	0-1	False	FALSE	GROUP STAGE	FALSE	2002	3-06-2002 (15:30 h)	15:30	Niigata Sutajiamu í¢ŒóŒìBiggu Suwaní¢ŒóŒ í¢ŒóŒî Niigata Stadium í¢ŒóŒìBig Swaní¢ŒóŒ (Niigata)	Lí€Œ_ Jí€Œ_n (CHN)	2002_KJ_FS.htm
+755	33842	Brazil	Turkey	1-2	False	FALSE	GROUP STAGE	FALSE	2002	3-06-2002 (18:00 h)	18:00	Munsu Chukku Gyeonggijang í¢ŒóŒî Munsu Football Stadium (Ulsan)	Kim Young-joo (SKR)	2002_KJ_FS.htm
+756	31081	Italy	Ecuador	2-0	False	FALSE	GROUP STAGE	FALSE	2002	3-06-2002 (20:30 h)	20:30	Sapporo Domu í¢ŒóŒìHirobaí¢ŒóŒ í¢ŒóŒî Sapporo Dome í¢ŒóŒìSquareí¢ŒóŒ (Sapporo)	Brian Hall (USA)	2002_KJ_FS.htm
+757	27217	China	Costa Rica	0-2	False	FALSE	GROUP STAGE	FALSE	2002	4-06-2002 (15:30 h)	15:30	Gwangju World Cup Gyeonggijang í¢ŒóŒî Gwangju World Cup Stadium (Gwangju)	Kyros Vassaras (GRE)	2002_KJ_FS.htm
+758	55256	Japan	Belgium	2-2	False	FALSE	GROUP STAGE	FALSE	2002	4-06-2002 (18:00 h)	18:00	Saitama Sutajiamu 2002 í¢ŒóŒî Saitama Stadium 2002 (Saitama)	William Mattus (CRC)	2002_KJ_FS.htm
+759	48760	South Korea	Poland	2-0	False	FALSE	GROUP STAGE	FALSE	2002	4-06-2002 (20:30 h)	20:30	Asiad Ju Gyeonggijang í¢ŒóŒî Asiad Main Stadium (Busan)	í€Œñscar Julií€Œçn Ruiz (COL)	2002_KJ_FS.htm
+760	30957	Russia	Tunisia	2-0	False	FALSE	GROUP STAGE	FALSE	2002	5-06-2002 (15:30 h)	15:30	Uingu Sutajiamu í¢ŒóŒî Wing Stadium (Kobe)	Peter Prendergast (JAM)	2002_KJ_FS.htm
+761	37306	USA	Portugal	2-3	False	FALSE	GROUP STAGE	FALSE	2002	5-06-2002 (18:00 h)	18:00	Suwon World Cup Gyeonggijang í¢ŒóŒî Suwon World Cup Stadium (Suwon)	Byron Moreno (ECU)	2002_KJ_FS.htm
+762	35854	Germany	Ireland	1-1	False	FALSE	GROUP STAGE	FALSE	2002	5-06-2002 (20:30 h)	20:30	Kashima Sutajiamu í¢ŒóŒî Kashima Stadium (Ibaraki)	Kim Milton Nielsen (DEN)	2002_KJ_FS.htm
+763	43500	Denmark	Senegal	1-1	False	FALSE	GROUP STAGE	FALSE	2002	6-06-2002 (15:30 h)	15:30	Daegu World Cup Gyeonggijang í¢ŒóŒî Daegu World Cup Stadium (Daegu)	Carlos Batres (GUA)	2002_KJ_FS.htm
+764	52328	Cameroon	Saudi Arabia	1-0	False	FALSE	GROUP STAGE	FALSE	2002	6-06-2002 (18:00 h)	18:00	Saitama Sutajiamu 2002 í¢ŒóŒî Saitama Stadium 2002 (Saitama)	Terje Hauge (NOR)	2002_KJ_FS.htm
+765	38289	France	Uruguay	-	False	FALSE	GROUP STAGE	FALSE	2002	6-06-2002 (20:30 h)	20:30	Asiad Ju Gyeonggijang í¢ŒóŒî Asiad Main Stadium (Busan)	Felipe Ramos Rizo (MEX)	2002_KJ_FS.htm
+766	36194	Sweden	Nigeria	1-2	False	FALSE	GROUP STAGE	FALSE	2002	7-06-2002 (15:30 h)	15:30	Uingu Sutajiamu í¢ŒóŒî Wing Stadium (Kobe)	Rení€Œ© Ortube (BOL)	2002_KJ_FS.htm
+767	24000	Spain	Paraguay	1-3	False	FALSE	GROUP STAGE	FALSE	2002	7-06-2002 (18:00 h)	18:00	Jeonju World Cup Gyeonggijang í¢ŒóŒî Jeonju World Cup Stadium (Jeonju)	Gamal el-Ghandour (EGY)	2002_KJ_FS.htm
+768	35927	Argentina	England	0-1	False	FALSE	GROUP STAGE	FALSE	2002	7-06-2002 (20:30 h)	20:30	Sapporo Domu í¢ŒóŒìHirobaí¢ŒóŒ í¢ŒóŒî Sapporo Dome í¢ŒóŒìSquareí¢ŒóŒ (Sapporo)	Pierluigi Collina (ITA)	2002_KJ_FS.htm
+769	47226	South Africa	Slovenia	1-0	False	FALSE	GROUP STAGE	FALSE	2002	8-06-2002 (15:30 h)	15:30	Daegu World Cup Gyeonggijang í¢ŒóŒî Daegu World Cup Stadium (Daegu)	í€Œngel Osvaldo Sí€Œçnchez (ARG)	2002_KJ_FS.htm
+770	36472	Italy	Croatia	2-1	False	FALSE	GROUP STAGE	FALSE	2002	8-06-2002 (18:00 h)	18:00	Kashima Sutajiamu í¢ŒóŒî Kashima Stadium (Ibaraki)	Graham Poll (ENG)	2002_KJ_FS.htm
+771	36750	Brazil	China	4-0	False	FALSE	GROUP STAGE	FALSE	2002	8-06-2002 (20:30 h)	20:30	Jeju World Cup Gyeonggijang í¢ŒóŒî Jeju World Cup Stadium (Seogwipo)	Anders Frisk (SWE)	2002_KJ_FS.htm
+772	45610	Mexico	Ecuador	1-2	False	FALSE	GROUP STAGE	FALSE	2002	9-06-2002 (15:30 h)	15:30	Miyagi Sutajiamu í¢ŒóŒî Miyagi Stadium (Miyagi)	Mourad Daami (TUN)	2002_KJ_FS.htm
+773	42299	Costa Rica	Turkey	1-1	False	FALSE	GROUP STAGE	FALSE	2002	9-06-2002 (18:00 h)	18:00	Munhak Gyeonggijang í¢ŒóŒî Literary Stadium (Incheon)	Coffi Codjia (BEN)	2002_KJ_FS.htm
+774	66108	Japan	Russia	1-0	False	FALSE	GROUP STAGE	FALSE	2002	9-06-2002 (20:30 h)	20:30	Kokusai Sogo Kyogijo í¢ŒóŒî International Stadium (Yokohama)	Markus Merk (GER)	2002_KJ_FS.htm
+775	60778	South Korea	USA	1-1	False	FALSE	GROUP STAGE	FALSE	2002	10-06-2002 (15:30 h)	15:30	Daegu World Cup Gyeonggijang í¢ŒóŒî Daegu World Cup Stadium (Daegu)	Urs Meier (SWI)	2002_KJ_FS.htm
+776	39700	Tunisia	Belgium	1-1	False	FALSE	GROUP STAGE	FALSE	2002	10-06-2002 (18:00 h)	18:00	Oita Sutajiamu í¢ŒóŒìBiggu Aií¢ŒóŒ í¢ŒóŒî Oita Stadium í¢ŒóŒìBig Eyeí¢ŒóŒ (Oita)	Mark Shield (AUS)	2002_KJ_FS.htm
+777	31000	Portugal	Poland	4-0	False	FALSE	GROUP STAGE	FALSE	2002	10-06-2002 (20:30 h)	20:30	Jeonju World Cup Gyeonggijang í¢ŒóŒî Jeonju World Cup Stadium (Jeonju)	Hugh Dallas (SCO)	2002_KJ_FS.htm
+778	48100	Denmark	France	2-0	False	FALSE	GROUP STAGE	FALSE	2002	11-06-2002 (15:30 h)	15:30	Munhak Gyeonggijang í¢ŒóŒî Literary Stadium (Incheon)	Ví€Œ_tor Manuel Melo Pereira (POR)	2002_KJ_FS.htm
+779	33681	Senegal	Uruguay	3-3	False	FALSE	GROUP STAGE	FALSE	2002	11-06-2002 (15:30 h)	15:30	Suwon World Cup Gyeonggijang í¢ŒóŒî Suwon World Cup Stadium (Suwon)	Jan Wegereef (NED)	2002_KJ_FS.htm
+780	47085	Cameroon	Germany	0-2	False	FALSE	GROUP STAGE	FALSE	2002	11-06-2002 (20:30 h)	20:30	Sutajiamu í¢ŒóŒìEkopaí¢ŒóŒ í¢ŒóŒî Stadium í¢ŒóŒìEcopaí¢ŒóŒ (Shizuoka)	Antonio Jesí€Œ_s Lí€Œ_pez Nieto (SPA)	2002_KJ_FS.htm
+781	65320	Saudi Arabia	Ireland	0-3	False	FALSE	GROUP STAGE	FALSE	2002	11-06-2002 (20:30 h)	20:30	Kokusai Sogo Kyogijo í¢ŒóŒî International Stadium (Yokohama)	Falla Ní¢ŒóŒ»Doye (SEN)	2002_KJ_FS.htm
+782	45777	Sweden	Argentina	1-1	False	FALSE	GROUP STAGE	FALSE	2002	12-06-2002 (15:30 h)	15:30	Miyagi Sutajiamu í¢ŒóŒî Miyagi Stadium (Miyagi)	Ali Mohammed Bujsaim (UAE)	2002_KJ_FS.htm
+783	44864	Nigeria	England	-	False	FALSE	GROUP STAGE	FALSE	2002	12-06-2002 (15:30 h)	15:30	Nagai Rikujo Kyogijo í¢ŒóŒî Nagai Stadium (Osaka)	Brian Hall (USA)	2002_KJ_FS.htm
+784	31024	South Africa	Spain	3-2	False	FALSE	GROUP STAGE	FALSE	2002	12-06-2002 (20:30 h)	20:30	Daejeon World Cup Gyeonggijang í¢ŒóŒî Daejeon World Cup Stadium (Daejeon)	Saad Kamel Mane (KUW)	2002_KJ_FS.htm
+785	30176	Slovenia	Paraguay	3-1	False	FALSE	GROUP STAGE	FALSE	2002	12-06-2002 (20:30 h)	20:30	Jeju World Cup Gyeonggijang í¢ŒóŒî Jeju World Cup Stadium (Seogwipo)	Felipe Ramos Rizo (MEX)	2002_KJ_FS.htm
+786	38524	Costa Rica	Brazil	5-2	False	FALSE	GROUP STAGE	FALSE	2002	13-06-2002 (15:30 h)	15:30	Suwon World Cup Gyeonggijang í¢ŒóŒî Suwon World Cup Stadium (Suwon)	Gamal el-Ghandour (EGY)	2002_KJ_FS.htm
+787	43605	Turkey	China	3-0	False	FALSE	GROUP STAGE	FALSE	2002	13-06-2002 (15:30 h)	15:30	Seoul World Cup Gyeonggijang í¢ŒóŒî Seoul World Cup Stadium (Seoul)	í€Œñscar Julií€Œçn Ruiz (COL)	2002_KJ_FS.htm
+788	65862	Ecuador	Croatia	1-0	False	FALSE	GROUP STAGE	FALSE	2002	13-06-2002 (20:30 h)	20:30	Kokusai Sogo Kyogijo í¢ŒóŒî International Stadium (Yokohama)	William Mattus (CRC)	2002_KJ_FS.htm
+789	39291	Mexico	Italy	1-1	False	FALSE	GROUP STAGE	FALSE	2002	13-06-2002 (20:30 h)	20:30	Oita Sutajiamu í¢ŒóŒìBiggu Aií¢ŒóŒ í¢ŒóŒî Oita Stadium í¢ŒóŒìBig Eyeí¢ŒóŒ (Oita)	Carlos Eugí€ŒÈnio Simon (BRA)	2002_KJ_FS.htm
+790	46640	Belgium	Russia	2-3	False	FALSE	GROUP STAGE	FALSE	2002	14-06-2002 (15:30 h)	15:30	Sutajiamu í¢ŒóŒìEkopaí¢ŒóŒ í¢ŒóŒî Stadium í¢ŒóŒìEcopaí¢ŒóŒ (Shizuoka)	Kim Milton Nielsen (DEN)	2002_KJ_FS.htm
+791	45213	Tunisia	Japan	0-2	False	FALSE	GROUP STAGE	FALSE	2002	14-06-2002 (15:30 h)	15:30	Nagai Rikujo Kyogijo í¢ŒóŒî Nagai Stadium (Osaka)	Gilles Veissií€ŒÂre (FRA)	2002_KJ_FS.htm
+792	26482	Poland	USA	1-3	False	FALSE	GROUP STAGE	FALSE	2002	14-06-2002 (20:30 h)	20:30	Daejeon World Cup Gyeonggijang í¢ŒóŒî Daejeon World Cup Stadium (Daejeon)	Lí€Œ_ Jí€Œ_n (CHN)	2002_KJ_FS.htm
+793	50239	Portugal	South Korea	0-1	False	FALSE	GROUP STAGE	FALSE	2002	14-06-2002 (20:30 h)	20:30	Munhak Gyeonggijang í¢ŒóŒî Literary Stadium (Incheon)	í€Œngel Osvaldo Sí€Œçnchez (ARG)	2002_KJ_FS.htm
+794	25176	Germany	Paraguay	1-0	False	FALSE	1/8 FINAL	FALSE	2002	15-06-2002 (15:30 h)	15:30	Jeju World Cup Gyeonggijang í¢ŒóŒî Jeju World Cup Stadium (Seogwipo)	Carlos Batres (GUA)	2002_KJ_FS.htm
+795	40582	Denmark	England	0-3	False	FALSE	1/8 FINAL	FALSE	2002	15-06-2002 (20:30 h)	20:30	Niigata Sutajiamu í¢ŒóŒìBiggu Suwaní¢ŒóŒ í¢ŒóŒî Niigata Stadium í¢ŒóŒìBig Swaní¢ŒóŒ (Niigata)	Markus Merk (GER)	2002_KJ_FS.htm
+796	39747	Sweden	Senegal	2-1	False	FALSE	1/8 FINAL	FALSE	2002	16-06-2002 (15:30 h)	15:30	Oita Sutajiamu í¢ŒóŒìBiggu Aií¢ŒóŒ í¢ŒóŒî Oita Stadium í¢ŒóŒìBig Eyeí¢ŒóŒ (Oita)	Ubaldo Aquino (PAR)	2002_KJ_FS.htm
+797	38926	Spain	Ireland	1-1	False	0-1 (Robbie Keane); 1-1 (Hierro) / 1-1 (Holland [out]); 2-1 (Baraja) / 2-1 (Connolly [saved]); 2-1 (Juanfran [out]) / 2-1 (Kilbane [saved]); 2-1 (Valerí€Œ_n [out]) / 2-2 (Finnan); 3-2 (Mendieta)	1/8 FINAL	FALSE	2002	16-06-2002 (20:30 h)	20:30	Suwon World Cup Gyeonggijang í¢ŒóŒî Suwon World Cup Stadium (Suwon)	Anders Frisk (SWE)	2002_KJ_FS.htm
+798	36380	Mexico	USA	0-2	False	FALSE	1/8 FINAL	FALSE	2002	17-06-2002 (15:30 h)	15:30	Jeonju World Cup Gyeonggijang í¢ŒóŒî Jeonju World Cup Stadium (Jeonju)	Ví€Œ_tor Manuel Melo Pereira (POR)	2002_KJ_FS.htm
+799	40440	Brazil	Belgium	2-0	False	FALSE	1/8 FINAL	FALSE	2002	17-06-2002 (20:30 h)	20:30	Uingu Sutajiamu í¢ŒóŒî Wing Stadium (Kobe)	Peter Prendergast (JAM)	2002_KJ_FS.htm
+800	45666	Japan	Turkey	0-1	False	FALSE	1/8 FINAL	FALSE	2002	18-06-2002 (15:30 h)	15:30	Miyagi Sutajiamu í¢ŒóŒî Miyagi Stadium (Miyagi)	Pierluigi Collina (ITA)	2002_KJ_FS.htm
+801	38588	South Korea	Italy	1-2	False	FALSE	1/8 FINAL	FALSE	2002	18-06-2002 (20:30 h)	20:30	Daejeon World Cup Gyeonggijang í¢ŒóŒî Daejeon World Cup Stadium (Daejeon)	Byron Moreno (ECU)	2002_KJ_FS.htm
+802	47436	England	Brazil	1-2	False	FALSE	1/4 FINAL	FALSE	2002	21-06-2002 (15:30 h)	15:30	Sutajiamu í¢ŒóŒìEkopaí¢ŒóŒ í¢ŒóŒî Stadium í¢ŒóŒìEcopaí¢ŒóŒ (Shizuoka)	Felipe Ramos Rizo (MEX)	2002_KJ_FS.htm
+803	37337	Germany	USA	1-0	False	FALSE	1/4 FINAL	FALSE	2002	21-06-2002 (20:30 h)	20:30	Munsu Chukku Gyeonggijang í¢ŒóŒî Munsu Football Stadium (Ulsan)	Hugh Dallas (SCO)	2002_KJ_FS.htm
+804	42114	Spain	South Korea	-	False	0-1 (Hwang Sun-hong); 1-1 (Hierro) / 1-2 (Park Ji-sung); 2-2 (Baraja) / 2-3 (Sul Ki-hyun); 3-3 (Xavi) / 3-4 (Ahn Jung-hwan); 3-4 (Joaquí€Œ_n [saved]) / 3-5 (Hong Myung-bo)	1/4 FINAL	FALSE	2002	22-06-2002 (15:30 h)	15:30	Gwangju World Cup Gyeonggijang í¢ŒóŒî Gwangju World Cup Stadium (Gwangju)	Gamal el-Ghandour (EGY)	2002_KJ_FS.htm
+805	44233	Senegal	Turkey	0-1	False	FALSE	1/4 FINAL	FALSE	2002	22-06-2002 (20:30 h)	20:30	Nagai Rikujo Kyogijo í¢ŒóŒî Nagai Stadium (Osaka)	í€Œñscar Julií€Œçn Ruiz (COL)	2002_KJ_FS.htm
+806	65625	Germany	South Korea	1-0	False	FALSE	1/2 FINAL	FALSE	2002	25-06-2002 (20:30 h)	20:30	Seoul World Cup Gyeonggijang í¢ŒóŒî Seoul World Cup Stadium (Seoul)	Urs Meier (SWI)	2002_KJ_FS.htm
+807	61058	Brazil	Turkey	1-0	False	FALSE	1/2 FINAL	FALSE	2002	26-06-2002 (20:30 h)	20:30	Saitama Sutajiamu 2002 í¢ŒóŒî Saitama Stadium 2002 (Saitama)	Kim Milton Nielsen (DEN)	2002_KJ_FS.htm
+808	63483	Turkey	South Korea	2-3	False	FALSE	PLACES 3-4	FALSE	2002	29-06-2002 (20:00 h)	20:00	Daegu World Cup Gyeonggijang í¢ŒóŒî Daegu World Cup Stadium (Daegu)	Saad Kamel Mane (KUW)	2002_KJ_FS.htm
+809	69029	Brazil	Germany	2-0	False	FALSE	FINAL ROUND	FALSE	2002	30-06-2002 (20:00 h)	20:00	Kokusai Sogo Kyogijo í¢ŒóŒî International Stadium (Yokohama)	Pierluigi Collina (ITA)	2002_KJ_FS.htm
+810	16000	Yugoslavia	France	1-0	False	FALSE	GROUP STAGE	FALSE	1954	16-06-1954 (18:00 h)	18:00	Stade Olympique de la Pontaise (Lausanne)	Mervyn Griffiths (WAL)	1954_SWITZERLAND_FS.htm
+811	13000	Brazil	Mexico	5-0	False	FALSE	GROUP STAGE	FALSE	1954	16-06-1954 (18:00 h)	18:00	Les Charmilles (Gení€ŒÂve)	Paul Wyssling (SWI)	1954_SWITZERLAND_FS.htm
+812	25000	Austria	Scotland	1-0	False	FALSE	GROUP STAGE	FALSE	1954	16-06-1954 (18:00 h)	18:00	Hardturm (Zí€Œ_rich)	Laurent Franken (BEL)	1954_SWITZERLAND_FS.htm
+813	20000	Uruguay	Czechoslovakia	2-0	False	FALSE	GROUP STAGE	FALSE	1954	16-06-1954 (18:00 h)	18:00	Wankdorf (Bern)	Arthur Ellis (ENG)	1954_SWITZERLAND_FS.htm
+814	43000	Switzerland	Italy	1-2	False	FALSE	GROUP STAGE	FALSE	1954	17-06-1954 (17:50 h)	17:50	Stade Olympique de la Pontaise (Lausanne)	Mí€Œçrio Goní€Œ_alves Vianna (BRA)	1954_SWITZERLAND_FS.htm
+815	13000	Hungary	South Korea	9-0	False	FALSE	GROUP STAGE	FALSE	1954	17-06-1954 (18:00 h)	18:00	Hardturm (Zí€Œ_rich)	Raymond Vincenti (FRA)	1954_SWITZERLAND_FS.htm
+816	28000	FRG	Turkey	1-4	False	FALSE	GROUP STAGE	FALSE	1954	17-06-1954 (18:00 h)	18:00	Wankdorf (Bern)	Josí€Œ© da Costa (POR)	1954_SWITZERLAND_FS.htm
+817	14000	England	Belgium	4-4	False	FALSE	GROUP STAGE	FALSE	1954	17-06-1954 (18:10 h)	18:10	St. Jakob (Basel)	Emil Schmetzer (FRG)	1954_SWITZERLAND_FS.htm
+818	34000	Uruguay	Scotland	7-0	False	FALSE	GROUP STAGE	FALSE	1954	19-06-1954 (16:50 h)	16:50	St. Jakob (Basel)	Vincenzo Orlandini (ITA)	1954_SWITZERLAND_FS.htm
+819	25000	Brazil	Yugoslavia	1-1	False	FALSE	GROUP STAGE	FALSE	1954	19-06-1954 (17:00 h)	17:00	Stade Olympique de la Pontaise (Lausanne)	Charles Faultless (SCO)	1954_SWITZERLAND_FS.htm
+820	26000	Austria	Czechoslovakia	5-0	False	FALSE	GROUP STAGE	FALSE	1954	19-06-1954 (17:00 h)	17:00	Hardturm (Zí€Œ_rich)	Vasa Stefanovií‹Œˆ (YUG)	1954_SWITZERLAND_FS.htm
+821	19000	France	Mexico	2-3	False	FALSE	GROUP STAGE	FALSE	1954	19-06-1954 (17:10 h)	17:10	Les Charmilles (Gení€ŒÂve)	Manuel Asensi (SPA)	1954_SWITZERLAND_FS.htm
+822	53000	Hungary	FRG	3-8	False	FALSE	GROUP STAGE	FALSE	1954	20-06-1954 (16:50 h)	16:50	St. Jakob (Basel)	William Ling (ENG)	1954_SWITZERLAND_FS.htm
+823	2000	Turkey	South Korea	7-0	False	FALSE	GROUP STAGE	FALSE	1954	20-06-1954 (17:00 h)	17:00	Les Charmilles (Gení€ŒÂve)	Esteban Marino (URU)	1954_SWITZERLAND_FS.htm
+824	26000	Italy	Belgium	1-4	False	FALSE	GROUP STAGE	FALSE	1954	20-06-1954 (17:00 h)	17:00	Stadio Comunale di Cornaredo (Lugano)	Carl Erich Steiner (AUT)	1954_SWITZERLAND_FS.htm
+825	43500	England	Switzerland	2-0	False	FALSE	GROUP STAGE	FALSE	1954	20-06-1954 (17:10 h)	17:10	Wankdorf (Bern)	Iství€Œçn Zsolt (HUN)	1954_SWITZERLAND_FS.htm
+826	17000	FRG	Turkey	2-7	True	FALSE	GROUP STAGE	FALSE	1954	23-06-1954 (18:00 h)	18:00	Hardturm (Zí€Œ_rich)	Raymond Vincenti (FRA)	1954_SWITZERLAND_FS.htm
+827	30000	Switzerland	Italy	1-4	True	FALSE	GROUP STAGE	FALSE	1954	23-06-1954 (18:00 h)	18:00	St. Jakob (Basel)	Mervyn Griffiths (WAL)	1954_SWITZERLAND_FS.htm
+828	28000	Uruguay	England	2-4	False	FALSE	1/4 FINAL	FALSE	1954	26-06-1954 (17:00 h)	17:00	St. Jakob (Basel)	Carl Erich Steiner (AUT)	1954_SWITZERLAND_FS.htm
+829	32000	Austria	Switzerland	5-7	False	FALSE	1/4 FINAL	FALSE	1954	26-06-1954 (17:00 h)	17:00	Stade Olympique de la Pontaise (Lausanne)	Charles Faultless (SCO)	1954_SWITZERLAND_FS.htm
+830	40000	Hungary	Brazil	2-4	False	FALSE	1/4 FINAL	FALSE	1954	27-06-1954 (17:00 h)	17:00	Wankdorf (Bern)	Arthur Ellis (ENG)	1954_SWITZERLAND_FS.htm
+831	17000	FRG	Yugoslavia	2-0	False	FALSE	1/4 FINAL	FALSE	1954	27-06-1954 (17:00 h)	17:00	Les Charmilles (Gení€ŒÂve)	Iství€Œçn Zsolt (HUN)	1954_SWITZERLAND_FS.htm
+832	45000	Hungary	Uruguay	2-4	False	FALSE	1/2 FINAL	FALSE	1954	30-06-1954 (18:00 h)	18:00	Stade Olympique de la Pontaise (Lausanne)	Mervyn Griffiths (WAL)	1954_SWITZERLAND_FS.htm
+833	57000	FRG	Austria	1-6	False	FALSE	1/2 FINAL	FALSE	1954	30-06-1954 (18:00 h)	18:00	St. Jakob (Basel)	Vincenzo Orlandini (ITA)	1954_SWITZERLAND_FS.htm
+834	32000	Austria	Uruguay	1-3	False	FALSE	PLACES 3-4	FALSE	1954	3-07-1954 (17:00 h)	17:00	Hardturm (Zí€Œ_rich)	Paul Wyssling (SWI)	1954_SWITZERLAND_FS.htm
+835	62472	FRG	Hungary	2-3	False	FALSE	FINAL ROUND	FALSE	1954	4-07-1954 (17:00 h)	17:00	Wankdorf (Bern)	William Ling (ENG)	1954_SWITZERLAND_FS.htm
