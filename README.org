@@ -1,0 +1,4 @@
+This is a copy of parts of a probably outdated (end 2019) project using a react app and bundeling a d3-observable programs to be served with django.
+The important file is the `webpack.config.js` showing how to bundle the new (as of late 2019) file attachement d3-observable feature.
+
+Also this sandbox I was working on might help https://codesandbox.io/embed/twilight-rain-hjp3r
