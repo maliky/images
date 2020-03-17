@@ -6,7 +6,6 @@
     "disID": 46,
     "theID": 4,
     "ts": "2017-07-21T04:22:33.000Z",
-    "texte": "Salut \n Je suis Alexandra, du Roumanie \n Enchantée",
     "titre": "Salut!",
     "tokens": [
       "droit",
@@ -20,14 +19,89 @@
     "strength": [4.6, 2.5, 1.9, 1.8, 1.3, 1.3, 1.2]
   },
   {
-    "inCircuit": 0,
-    "msgID": 190,
-    "autID": 126,
-    "disID": 126,
+    "inCircuit": 1,
+    "msgID": 94,
+    "autID": 75,
+    "disID": 67,
     "theID": 4,
-    "ts": "2017-04-12T23:08:58.000Z",
-    "texte": "Slt moi c'est yankiné antoine suis burkinabè je travaille dans securité \n Puis-je te poser une question si tu me permet biensur \n Merci ",
-    "titre": "Présentation",
+    "ts": "2017-01-28T16:46:14.000Z",
+    "titre": "la légitime défense",
+    "tokens": [
+      "droit",
+      "droits",
+      "homme",
+      "peuple",
+      "pays",
+      "défense",
+      "constitution"
+    ],
+    "strength": [4.6, 2.5, 1.9, 1.8, 1.3, 1.3, 1.2]
+  },
+  {
+    "inCircuit": 1,
+    "msgID": 121,
+    "autID": 92,
+    "disID": 67,
+    "theID": 4,
+    "ts": "2017-01-30T18:47:25.000Z",
+    "titre": "la légitime défense",
+    "tokens": [
+      "droit",
+      "droits",
+      "homme",
+      "peuple",
+      "pays",
+      "défense",
+      "constitution"
+    ],
+    "strength": [4.6, 2.5, 1.9, 1.8, 1.3, 1.3, 1.2]
+  },
+  {
+    "inCircuit": 0,
+    "msgID": 214,
+    "autID": 75,
+    "disID": 67,
+    "theID": 4,
+    "ts": "2017-01-31T10:46:54.000Z",
+    "titre": "la légitime défense",
+    "tokens": [
+      "droit",
+      "droits",
+      "homme",
+      "peuple",
+      "pays",
+      "défense",
+      "constitution"
+    ],
+    "strength": [4.6, 2.5, 1.9, 1.8, 1.3, 1.3, 1.2]
+  },
+  {
+    "inCircuit": 0,
+    "msgID": 252,
+    "autID": 154,
+    "disID": 67,
+    "theID": 4,
+    "ts": "2017-02-06T00:03:28.000Z",
+    "titre": "la légitime défense",
+    "tokens": [
+      "droit",
+      "droits",
+      "homme",
+      "peuple",
+      "pays",
+      "défense",
+      "constitution"
+    ],
+    "strength": [4.6, 2.5, 1.9, 1.8, 1.3, 1.3, 1.2]
+  },
+  {
+    "inCircuit": 0,
+    "msgID": 367,
+    "autID": 75,
+    "disID": 67,
+    "theID": 4,
+    "ts": "2017-01-31T10:35:41.000Z",
+    "titre": "la légitime défense",
     "tokens": [
       "droit",
       "droits",
@@ -46,7 +120,6 @@
     "disID": 228,
     "theID": 4,
     "ts": "2017-07-21T06:22:06.000Z",
-    "texte": "Je m'appelle María Luisa, je suis étudiant de Droit",
     "titre": "Salut!",
     "tokens": [
       "droit",
@@ -66,7 +139,6 @@
     "disID": 278,
     "theID": 2,
     "ts": "2017-07-21T04:20:00.000Z",
-    "texte": "Bonjour les ami(e)s \n \\n Je suis très content d'être participant de ce cours \n Je m'appelle Fabián Villeda Corona, hondurien et avocat \n J'ai 25 ans. L'année dernière, j'ai eu l'opportunité de participer au forum de Droits de l'Homme et l'environnement \"LabCitoyen\" à Paris \n J'espère apprendre et partager avec vous tous",
     "titre": "Salut!",
     "tokens": [
       "_mathexp_",
@@ -81,13 +153,12 @@
   },
   {
     "inCircuit": 0,
-    "msgID": 517,
-    "autID": 252,
-    "disID": 126,
+    "msgID": 514,
+    "autID": 250,
+    "disID": 67,
     "theID": 2,
-    "ts": "2017-05-13T13:54:28.000Z",
-    "texte": "Je m'appelle Nadine Vincens, j'ai 62 ans. Je viens  connaitre, savoir, savoir,apprendre l'articulation, les dispositifs de cette appareil dit des Droits de l'Homme \n Je pars d'aucune connaissance, comme les interviewés de la 1ere séquence.J'envisage d'aider une association avec une exigence de ma part, de comprendre déjà les Droits de l'Homme, modestement, d'en avoir une petite introduction \n Des savoirs vous rendent moins stupide lors d'échanges et vous permettent d'accompagner plus intelligemment des personnes, à mon sens \n Avoir des références, c'est se repérer dans des domaines à traverser \n C'est évoluer aussi \n Je prends vraiment un grand intérêt et plaisir, aux cours d'une excellente qualité avec des intervenants, inutile de le dire, d'experts dans le domaine  \n    Merci pour l'effort de la construction de ce MOOC aussi",
-    "titre": "Présentation",
+    "ts": "2017-01-30T15:44:25.000Z",
+    "titre": "la légitime défense",
     "tokens": [
       "_mathexp_",
       "violations",
