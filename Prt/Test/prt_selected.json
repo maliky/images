@@ -6,6 +6,7 @@
     "disID": 46,
     "theID": 4,
     "ts": "2017-07-21T04:22:33.000Z",
+    "texte": "Some text content 1",
     "titre": "Salut!",
     "tokens": [
       "droit",
@@ -25,6 +26,7 @@
     "disID": 67,
     "theID": 4,
     "ts": "2017-01-28T16:46:14.000Z",
+    "texte": "Some text content 2",
     "titre": "la légitime défense",
     "tokens": [
       "droit",
@@ -44,6 +46,7 @@
     "disID": 67,
     "theID": 4,
     "ts": "2017-01-30T18:47:25.000Z",
+    "text": "Some text content 3",
     "titre": "la légitime défense",
     "tokens": [
       "droit",
@@ -63,6 +66,7 @@
     "disID": 67,
     "theID": 4,
     "ts": "2017-01-31T10:46:54.000Z",
+    "text": "Some text content 4",
     "titre": "la légitime défense",
     "tokens": [
       "droit",
@@ -82,6 +86,7 @@
     "disID": 67,
     "theID": 4,
     "ts": "2017-02-06T00:03:28.000Z",
+    "text": "Some text content 5",
     "titre": "la légitime défense",
     "tokens": [
       "droit",
@@ -101,6 +106,7 @@
     "disID": 67,
     "theID": 4,
     "ts": "2017-01-31T10:35:41.000Z",
+    "text": "Some text content 6",
     "titre": "la légitime défense",
     "tokens": [
       "droit",
@@ -120,6 +126,7 @@
     "disID": 228,
     "theID": 4,
     "ts": "2017-07-21T06:22:06.000Z",
+    "text": "Some text content 7",
     "titre": "Salut!",
     "tokens": [
       "droit",
@@ -139,6 +146,7 @@
     "disID": 278,
     "theID": 2,
     "ts": "2017-07-21T04:20:00.000Z",
+    "text": "Some text content 8",
     "titre": "Salut!",
     "tokens": [
       "_mathexp_",
@@ -158,6 +166,7 @@
     "disID": 67,
     "theID": 2,
     "ts": "2017-01-30T15:44:25.000Z",
+    "text": "Some text content 9",
     "titre": "la légitime défense",
     "tokens": [
       "_mathexp_",
