@@ -1,0 +1,82 @@
+{
+  "width": 600,
+  "height": 500,
+  // autosize: "fit",
+  "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/maliky/images/master/Prt/Test/prt_selected.json"
+  },
+  "transform": [
+    {
+      "timeUnit": "day",
+      "field": "ts",
+      "as": "date"
+    },
+    {
+      "groupby": ["tokens", "titre", "date"],
+      "joinaggregate": [
+        { "as": "nb_msgs", "field": "*", "op": "count" },
+        { "as": "nb_msgs_collectifs", "field": "inCircuit", "op": "sum" }
+      ]
+    }
+  ],
+  "facet": {
+    "column": { "field": "date", "type": "temporal" },
+    "row": {
+      "field": "titre",
+      "type": "nominal",
+      "header": { "title": "Discussions" }
+    }
+  },
+  "spec": {
+    "layer": [
+      {
+        "height": 120,
+        "width": 60,
+        "encoding": {
+          "color": { "field": "tokens", "type": "nominal" },
+          "x": {
+            "field": "tokens",
+            "type": "nominal",
+            "axis": { "labels": false }
+          },
+          "y": {
+            "field": "nb_msgs",
+            "type": "quantitative",
+            "axis": { "title": "# messages" }
+          },
+          "tooltip": [
+            { "field": "titre", "type": "ordinal" },
+            { "field": "nb_msgs", "type": "quantitative" },
+            { "field": "nb_msgs_collectifs", "type": "quantitative" },
+            { "field": "ts", "type": "nominal" },
+            { "field": "texte", "type": "nominal" }
+          ]
+        },
+        "mark": { "opacity": 0.7, "type": "bar" },
+        "transform": [{ "filter": "datum.nb_msgs_collectifs > 0" }],
+        "selection": {
+          "pts": { "type": "interval" }
+        }
+      },
+      {
+        "encoding": {
+          "x": {
+            "field": "tokens",
+            "type": "nominal",
+            "axis": { "labels": false }
+          },
+          "y": { "field": "nb_msgs_collectifs", "type": "quantitative" },
+          "tooltip": [
+            { "field": "titre", "type": "ordinal" },
+            { "field": "nb_msgs", "type": "quantitative" },
+            { "field": "nb_msgs_collectifs", "type": "quantitative" },
+            { "field": "ts", "type": "nominal" },
+            { "field": "texte", "type": "nominal" }
+          ]
+        },
+        "mark": { "fill": "red", "size": 5, "type": "bar", "opacity": 0.8 }
+      }
+    ]
+  }
+}

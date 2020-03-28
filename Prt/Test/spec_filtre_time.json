@@ -1,0 +1,49 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v3.4.0.json",
+  "config": {
+    "mark": { "tooltip": None },
+    "view": { "height": 300, "width": 400 }
+  },
+  "layer": [
+    {
+      "encoding": {
+        "x": {
+          "field": "msgMREd",
+          "timeUnit": "yearmonthdate",
+          "title": "Temps d'édition des messages",
+          "type": "temporal"
+        },
+        "y": {
+          "aggregate": "count",
+          "title": "# de messages",
+          "type": "quantitative"
+        }
+      },
+      "mark": { "fill": "grey", "type": "bar" }
+    },
+    {
+      "encoding": {
+        "color": {
+          "field": "inCircuit",
+          "legend": { "orient": "left" },
+          "scale": { "scheme": "set1" },
+          "title": "collectif ?",
+          "type": "nominal"
+        },
+        "x": {
+          "field": "msgMREd",
+          "timeUnit": "yearmonthdate",
+          "title": "Temps d'édition des messages",
+          "type": "temporal"
+        },
+        "y": {
+          "aggregate": "count",
+          "title": "# de messages",
+          "type": "quantitative"
+        }
+      },
+      "mark": { "fill": "red", "opacity": 0.3, "size": 9, "type": "bar" },
+      "transform": [{ "filter": "datum.inCircuit == 1" }]
+    }
+  ]
+}

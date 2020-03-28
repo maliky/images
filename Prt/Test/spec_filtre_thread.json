@@ -1,0 +1,46 @@
+{
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/maliky/images/master/Prt/Test/thread.json"
+  },
+  "encoding": {
+    "x": {
+      "aggregate": "count",
+      "axis": { "orient": "top" },
+      "title": "# de messages",
+      "type": "quantitative"
+    },
+    "y": {
+      "axis": { "labelLimit": 100 },
+      "field": "tTitle",
+      "sort": { "field": "nb_msg_collectifs", "order": "descending" },
+      "title": "Discussions",
+      "type": "nominal"
+    },
+    "color": { "field": "hasCollectiveMsg", "type": "nominal" },
+    "tooltip": [
+      { "field": "tTitle", "type": "ordinal" },
+      { "field": "debut", "type": "temporal" },
+      { "field": "fin", "type": "temporal" },
+      { "field": "duree", "type": "ordinal" },
+      { "field": "nb_msg_collectifs", "type": "quantitative" }
+    ]
+  },
+  "transform": [
+    { "filter": { "field": "inCircuit", "gte": 0 } },
+    {
+      "joinaggregate": [
+        { "as": "nb_msg_collectifs", "field": "inCircuit", "op": "count" },
+        { "as": "hasCollectiveMsg", "field": "inCircuit", "op": "max" },
+        { "as": "debut", "field": "msgMREd", "op": "min" },
+        { "as": "fin", "field": "msgMREd", "op": "max" }
+      ],
+      "groupby": ["tTitle"]
+    },
+    {
+      "calculate": "round((datum.fin - datum.debut)/(60*60*2400)) /10",
+      "as": "duree"
+    }
+  ],
+  "mark": { "size": 5, "type": "bar" }
+}

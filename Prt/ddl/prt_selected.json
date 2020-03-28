@@ -1,0 +1,182 @@
+[
+  {
+    "inCircuit": 1,
+    "msgID": 50,
+    "autID": 43,
+    "disID": 46,
+    "theID": 4,
+    "ts": "2017-07-21T04:22:33.000Z",
+    "texte": "Some text content 1",
+    "titre": "Salut!",
+    "tokens": [
+      "droit",
+      "droits",
+      "homme",
+      "peuple",
+      "pays",
+      "défense",
+      "constitution"
+    ],
+    "strength": [4.6, 2.5, 1.9, 1.8, 1.3, 1.3, 1.2]
+  },
+  {
+    "inCircuit": 1,
+    "msgID": 94,
+    "autID": 75,
+    "disID": 67,
+    "theID": 4,
+    "ts": "2017-01-28T16:46:14.000Z",
+    "texte": "Some text content 2",
+    "titre": "la légitime défense",
+    "tokens": [
+      "droit",
+      "droits",
+      "homme",
+      "peuple",
+      "pays",
+      "défense",
+      "constitution"
+    ],
+    "strength": [4.6, 2.5, 1.9, 1.8, 1.3, 1.3, 1.2]
+  },
+  {
+    "inCircuit": 1,
+    "msgID": 121,
+    "autID": 92,
+    "disID": 67,
+    "theID": 4,
+    "ts": "2017-01-30T18:47:25.000Z",
+    "text": "Some text content 3",
+    "titre": "la légitime défense",
+    "tokens": [
+      "droit",
+      "droits",
+      "homme",
+      "peuple",
+      "pays",
+      "défense",
+      "constitution"
+    ],
+    "strength": [4.6, 2.5, 1.9, 1.8, 1.3, 1.3, 1.2]
+  },
+  {
+    "inCircuit": 0,
+    "msgID": 214,
+    "autID": 75,
+    "disID": 67,
+    "theID": 4,
+    "ts": "2017-01-31T10:46:54.000Z",
+    "text": "Some text content 4",
+    "titre": "la légitime défense",
+    "tokens": [
+      "droit",
+      "droits",
+      "homme",
+      "peuple",
+      "pays",
+      "défense",
+      "constitution"
+    ],
+    "strength": [4.6, 2.5, 1.9, 1.8, 1.3, 1.3, 1.2]
+  },
+  {
+    "inCircuit": 0,
+    "msgID": 252,
+    "autID": 154,
+    "disID": 67,
+    "theID": 4,
+    "ts": "2017-02-06T00:03:28.000Z",
+    "text": "Some text content 5",
+    "titre": "la légitime défense",
+    "tokens": [
+      "droit",
+      "droits",
+      "homme",
+      "peuple",
+      "pays",
+      "défense",
+      "constitution"
+    ],
+    "strength": [4.6, 2.5, 1.9, 1.8, 1.3, 1.3, 1.2]
+  },
+  {
+    "inCircuit": 0,
+    "msgID": 367,
+    "autID": 75,
+    "disID": 67,
+    "theID": 4,
+    "ts": "2017-01-31T10:35:41.000Z",
+    "text": "Some text content 6",
+    "titre": "la légitime défense",
+    "tokens": [
+      "droit",
+      "droits",
+      "homme",
+      "peuple",
+      "pays",
+      "défense",
+      "constitution"
+    ],
+    "strength": [4.6, 2.5, 1.9, 1.8, 1.3, 1.3, 1.2]
+  },
+  {
+    "inCircuit": 1,
+    "msgID": 398,
+    "autID": 205,
+    "disID": 228,
+    "theID": 4,
+    "ts": "2017-07-21T06:22:06.000Z",
+    "text": "Some text content 7",
+    "titre": "Salut!",
+    "tokens": [
+      "droit",
+      "droits",
+      "homme",
+      "peuple",
+      "pays",
+      "défense",
+      "constitution"
+    ],
+    "strength": [4.6, 2.5, 1.9, 1.8, 1.3, 1.3, 1.2]
+  },
+  {
+    "inCircuit": 1,
+    "msgID": 512,
+    "autID": 248,
+    "disID": 278,
+    "theID": 2,
+    "ts": "2017-07-21T04:20:00.000Z",
+    "text": "Some text content 8",
+    "titre": "Salut!",
+    "tokens": [
+      "_mathexp_",
+      "violations",
+      "rdc",
+      "quelle",
+      "droits",
+      "vision",
+      "ème"
+    ],
+    "strength": [23.1, 3.9, 1.1, 1, 1, 0.8, 0.7]
+  },
+  {
+    "inCircuit": 0,
+    "msgID": 514,
+    "autID": 250,
+    "disID": 67,
+    "theID": 2,
+    "ts": "2017-01-30T15:44:25.000Z",
+    "text": "Some text content 9",
+    "titre": "la légitime défense",
+    "tokens": [
+      "_mathexp_",
+      "violations",
+      "rdc",
+      "quelle",
+      "droits",
+      "vision",
+      "ème"
+    ],
+    "strength": [23.1, 3.9, 1.1, 1, 1, 0.8, 0.7]
+  }
+]

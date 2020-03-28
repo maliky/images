@@ -1,0 +1,59 @@
+{
+  "width": 300,
+  "height": 800,
+  "$schema": "https://vega.github.io/schema/vega-lite/v4.json",
+  "data": {
+    "url": "https://raw.githubusercontent.com/maliky/images/master/Prt/Test/thread.json"
+  },
+  "mark": { "type": "bar" },
+  "transform": [
+    {
+      "joinaggregate": [
+        { "as": "nb_msg_collectifs", "field": "inCircuit", "op": "sum" },
+        { "as": "nb_msgs", "field": "msgMREd", "op": "count" },
+        { "as": "hasCollectiveMsg", "field": "inCircuit", "op": "max" },
+        { "as": "debut", "field": "msgMREd", "op": "min" },
+        { "as": "fin", "field": "msgMREd", "op": "max" }
+      ],
+      "groupby": ["tTitle"]
+    },
+    {
+      "calculate": "round((datum.fin - datum.debut)/(60*60*2400)) /10",
+      "as": "duree"
+    },
+    { "filter": "datum.nb_msg_collectifs > 0" }
+  ],
+  "encoding": {
+    "x": {
+      "field": "debut",
+      "axis": { "orient": "top" },
+      "title": "Temps, durée et # de messages dans les discussions",
+      "type": "temporal"
+    },
+    "x2": { "field": "fin" },
+    "y": {
+      "axis": { "labelLimit": 100 },
+      "field": "tTitle",
+      "sort": {
+        "field": "nb_msg_collectifs",
+        "op": "mean",
+        "order": "descending"
+      },
+      "title": "Discussions",
+      "type": "nominal"
+    },
+    "color": { "field": "inCircuit", "type": "nominal", "sort": "ascending" },
+    "size": { "field": "nb_msg_collectifs", "type": "ordinal", "legend": null },
+    "tooltip": [
+      { "field": "tTitle", "type": "ordinal" },
+      { "field": "debut", "type": "temporal" },
+      { "field": "fin", "type": "temporal" },
+      { "field": "duree", "type": "ordinal" },
+      { "field": "nb_msg_collectifs", "type": "quantitative" },
+      { "field": "nb_msgs", "type": "quantitative" }
+    ]
+  },
+  "selection": {
+    "brush": { "type": "interval", "encodings": ["y"], "empty": "none" }
+  }
+}

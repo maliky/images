@@ -1,0 +1,629 @@
+https://vega.github.io/editor/#/url/vega-lite/N4KABGBEDuCWAmAXAFpAXGAbABmwGnCmQFNYBzZRdMAVlwIkgBIBnAYxIFsBDaySxAAcWaAPSiAbsTLcAdGVgoArgCNZsAPaj2XbpOncAtABtFxSQGZZAFlnZZAKxYaAdpAZR43RLwygIjEoATsZ8AsJiokHc0PKKyKpKLMRBbK6IxC6IsmmcojymANYAnqKwPGTELPncLBlBogAKQYiiACpVrYItAPrJxsRsGfCOzm6EAL4ekIjRLiwAZhpBnNQA2oQQ-gGMiOXEAKouinxexe6bAZALsMTG8HyILBc7jLWn3sSQl1OX2zuQMhBDRKQQqc4YNYzDSFTLPPBQPazL4IyBeDKQAC6HgBDg0sBc3DIQIMGMhlx2wCg7wwkBcKh6nBYZHhUBudwetIAVO4oBpBHw0kospAwL9XgEqZAaVB6YzmSwemljAMhrAFqzrrd7nwCQBhWCpJQnVH8vgsJSrMUUsCYn6EbGEa7cNjEKh+S6QZWWtx+NnazmeT68mbFQRfWkZTiCZbcUJinFQYHQaj-K7snWRxRBFE20PhvguDScAlxl6vfjEbjwFKpxGKAZ8AAisHYSRYmnmoom9og4qgLHDbFTnuM3GKtfJErTAJI5Eo1AAjAAmfA2xhwJCoDA4RMAzJpeAEsgjiUA5XLOtajmPGFwkOIMMR2XF0vx-tnqAAD1Pn-TAdvWEuz3M982fOlX0JUIQIlaUv1bK8xxUO5ngwBY42Sa0-wTdcrghMAZ1AjNAzpBkmRZctsLAvgAEclG4LJFG8WApEov84IQv0ZgbcCAGIwE4KoWCJKpu1wvsYKuRANA0Yw9gFKdsII-0byzZEHyfPhliPKDu0kykVMzWUyIVDSC1pOiGKRZjWJwpTlOvIzSPlFklVk1U9g1MzwMsxifD2WyPz-KViMeTVH3Ml8S10uylJCgDI2IL8MVRCLwKLaKyywv87U-IKAR4IJCivfkXUUfD7AAdlSzTaRUbggj03CZjmRZllWSF4rkycg0QS1ZDlcjFWVDz1RYMAAD4wGwbtHU-SB+kGPZXF-ebBCeK80t1LIUgkLKezym18oI5qDw0HSTw9KifyupTHJI6SgPhcSpNqqK3zY+buHg1CHKQlDqHQ4xMIOv9joBfD4tU4yXOG9ylrG7zaPovybK+WL5uk2T5PWF6tkMh7sxRRE3sgbSPox4KCcLEyKJqyLIF86yAvR8HXihpzBoVNyVQRrz6Z8lHmZY1n9MlanI3C0mMoptmDPux4kpSkmGZlmLQc-XKzzZyBCuKribhVPgcweVEOwAL2fGgBb4erGtNQQysfah7AADmynYNdtSYQB7IA
+
+and
+https://vega.github.io/editor/#/url/vega/N4KABGBEAkDODGALApgWwIaQFxUQFzwAdYsB6UgN2QHN0A6agSz0QFcAjOxge1IRQyUa6SgFY6AK1jcAdpAA04KABNkCAE6NCeHnJyQAgmESNYebtXXpUYbgDMwdxgBsbVnTOqx5YVN2WMTsjKYOZgjDLwzqyqYDKszs5gFOjRanQKSpAA7ozKLNhgACwADCWKEJAojNT4hQBMZRVQhOjKAZ6Fos2Q6KzmsIwAXsiFwJB4AJ6Eo-pOeApQ6mrDs6HqrMgAvj2D1DKpsIUA2koQ4weoa5DsEQDC3KwyCz6QrITK6HjXABS3MrA6GZuIQwABaMD-QFmdDqPAASjApEhEWh30IkB2ZzAF2s13YsIAyujFm8Pl9frl8ogwIjkT8AIxgADUKJkDyeCMxzQgvL5OOxlUu13M3GcOgxPN5kBSaTGWP5UFkJ0FvPGyCozyO+mW8DwWD8rFgyG4VHUpPen2+hUgsGcjHgyB+VtYqDoyntZnk5Xq8O5qvOkA1yC1Nt1+sNxseL0qlopNuAW0xqoAutitkoUz0rZgcKc+aBFZBhTa8Oh2M5RlLKrLNtqwPnFTji3ibalCIhMK8czaGfUAMz+pvNkv6dud0k9-QAdgAHABOIdN3FXG3sZBlydfXNQIqiABsS8VK-xG67Km3Nrni4Vy5bq-0tFQGC3m5nC6P-JPa7Pr53kH7Mpk0VLNVQmKwATsbh1FQFVh3GKYZhtZAAA9vmeUkgmcZQbR7V49gOZxkLQkMFlvY8A2lRD8QiTJh0qAjUjXVE6PoyAsJw-Q8MoypUPQhYcHGRiiP0PjSM-IsMBQqFCiKSiMxA9NqwFItRygdBqEsYQXjA6RWHUR1S3LStWL5cD0Eg6DYLzSjCzY6i2005ZaGtZSzMsR5CHYSYThuCISlJf4GUgUD6KVYhfNrNQQrc6UOPrY43hkVQnBkYIYp49SEplVI6xC+TKNTJTsTssy1MgeBHlDZTbUeAyRWMqswLwCDYCgmCTgQ6Zrg0rSXKrKAPPebzfP+ALXiCkLyILTKJm6m1nG4bgAGt3lMpt2PUbhrPUpztPWotluQHz9DGg7+XYxhkGw7KztCtiouyx6MrC3pso9UwFjTYctm+3kFLAe7bXgVJopsmbVNbfRJgQUHzrmpD9HtNLYXhiDqGuapah0ostqeTj1k2GqZAdNYWqJsDlG29BaMEy7ruUBLxinKBKs5I5Xg4m02Yw36AYgabSulcqUNhkyaocpGImQVGavRtZjiEmpCLXIl0SgHZm2Em0qQKX65aqgnyeQGqqYwWmteVpj9GOKEgTLOEfDt4FCBTCSoBkuntdOlj+bAAGgfQFCwYbErIGgq6MNO7gCG20kxeuUWQfFqAdHgZaAFkImJZAMRwEo6FEQXw80cSkeQOwY2BuHoYT0k0+Wjko7AbolTsOxjQEluA56DB1GWhKSua+adWQPV4bsLaduZy99B5vAjmm3jIn8NYhbMuNrUEzLXtFcUtEgMBBKgb3U6W-eMSXi6ULGauTP0JO4c5q7sOYmRxrbjuN0KBkr7MlD6i3zrg-Ouz8GZv2Cn-aUJ0tbJ2uDDOBmEX4EwqlVMisVKiTEAV7RBtdEGvCioUEoUDKhOESLfQh+gzDIGuhWTYwEmxQKqKaZA5o6ZkJEs2ShUAnDLHYJodOmI-YC3TJmEAWwgA
+{
+    "$schema": "https://vega.github.io/schema/vega/v5.json",
+    "background": "white",
+    "padding": 5,
+    "data": [
+	{"name": "pts_store"},
+	{
+	    "name": "source_0",
+	    "url": "https://raw.githubusercontent.com/maliky/images/master/Prt/Test/prt_selected.json",
+	    "format": {"type": "json", "parse": {"ts": "date"}},
+	    "transform": [
+		{
+		    "field": "ts",
+		    "type": "timeunit",
+		    "units": ["day"],
+		    "as": ["date", "date_end"]
+		},
+		{
+		    "type": "joinaggregate",
+		    "as": ["nb_msgs", "nb_msgs_collectifs"],
+		    "ops": ["count", "sum"],
+		    "fields": ["*", "inCircuit"],
+		    "groupby": ["tokens", "titre", "date"]
+		}
+	    ]
+	},
+	{
+	    "name": "column_domain",
+	    "source": "source_0",
+	    "transform": [{"type": "aggregate", "groupby": ["date"]}]
+	},
+	{
+	    "name": "row_domain",
+	    "source": "source_0",
+	    "transform": [{"type": "aggregate", "groupby": ["titre"]}]
+	},
+	{
+	    "name": "data_1",
+	    "source": "source_0",
+	    "transform": [
+		{"type": "filter", "expr": "datum.nb_msgs_collectifs > 0"},
+		{
+		    "type": "filter",
+		    "expr": "isValid(datum[\"nb_msgs\"]) && isFinite(+datum[\"nb_msgs\"])"
+		}
+	    ]
+	},
+	{
+	    "name": "data_2",
+	    "source": "source_0",
+	    "transform": [
+		{
+		    "type": "filter",
+		    "expr": "isValid(datum[\"nb_msgs_collectifs\"]) && isFinite(+datum[\"nb_msgs_collectifs\"])"
+		}
+	    ]
+	}
+    ],
+    "signals": [
+	{"name": "child_width", "value": 60},
+	{"name": "child_height", "value": 120},
+	{
+	    "name": "unit",
+	    "value": {},
+	    "on": [
+		{"events": "mousemove", "update": "isTuple(group()) ? group() : unit"}
+	    ]
+	},
+	{"name": "pts", "update": "vlSelectionResolve(\"pts_store\", \"union\")"}
+    ],
+    "layout": {
+	"padding": 20,
+	"offset": {"rowTitle": 10, "columnTitle": 10},
+	"columns": {"signal": "length(data('column_domain'))"},
+	"bounds": "full",
+	"align": "all"
+    },
+    "marks": [
+	{
+	    "name": "row-title",
+	    "type": "group",
+	    "role": "row-title",
+	    "title": {
+		"text": "Discussions",
+		"orient": "left",
+		"style": "guide-title",
+		"offset": 10
+	    }
+	},
+	{
+	    "name": "column-title",
+	    "type": "group",
+	    "role": "column-title",
+	    "title": {"text": "date", "style": "guide-title", "offset": 10}
+	},
+	{
+	    "name": "row_header",
+	    "type": "group",
+	    "role": "row-header",
+	    "from": {"data": "row_domain"},
+	    "sort": {"field": "datum[\"titre\"]", "order": "ascending"},
+	    "title": {
+		"text": {"signal": "''+parent[\"titre\"]"},
+		"orient": "left",
+		"style": "guide-label",
+		"frame": "group",
+		"offset": 10
+	    },
+	    "encode": {"update": {"height": {"signal": "child_height"}}},
+	    "axes": [
+		{
+		    "scale": "y",
+		    "orient": "left",
+		    "grid": false,
+		    "title": "# messages",
+		    "labelOverlap": true,
+		    "tickCount": {"signal": "ceil(child_height/40)"},
+		    "zindex": 0
+		}
+	    ]
+	},
+	{
+	    "name": "column_header",
+	    "type": "group",
+	    "role": "column-header",
+	    "from": {"data": "column_domain"},
+	    "sort": {"field": "datum[\"date\"]", "order": "ascending"},
+	    "title": {
+		"text": {"signal": "timeFormat(parent[\"date\"], '%b %d, %Y')"},
+		"style": "guide-label",
+		"frame": "group",
+		"offset": 10
+	    },
+	    "encode": {"update": {"width": {"signal": "child_width"}}}
+	},
+	{
+	    "name": "column_footer",
+	    "type": "group",
+	    "role": "column-footer",
+	    "from": {"data": "column_domain"},
+	    "sort": {"field": "datum[\"date\"]", "order": "ascending"},
+	    "encode": {"update": {"width": {"signal": "child_width"}}},
+	    "axes": [
+		{
+		    "scale": "x",
+		    "orient": "bottom",
+		    "grid": false,
+		    "title": "tokens",
+		    "labels": false,
+		    "labelAlign": "right",
+		    "labelAngle": 270,
+		    "labelBaseline": "middle",
+		    "zindex": 0
+		}
+	    ]
+	},
+	{
+	    "name": "cell",
+	    "type": "group",
+	    "style": "cell",
+	    "from": {
+		"facet": {
+		    "name": "facet",
+		    "data": "source_0",
+		    "groupby": ["titre", "date"],
+		    "aggregate": {"cross": true}
+		}
+	    },
+	    "sort": {
+		"field": ["datum[\"titre\"]", "datum[\"date\"]"],
+		"order": ["ascending", "ascending"]
+	    },
+	    "data": [
+		{
+		    "source": "facet",
+		    "name": "data_0",
+		    "transform": [
+			{"type": "filter", "expr": "datum.nb_msgs_collectifs > 0"},
+			{
+			    "type": "filter",
+			    "expr": "isValid(datum[\"nb_msgs\"]) && isFinite(+datum[\"nb_msgs\"])"
+			}
+		    ]
+		},
+		{
+		    "source": "facet",
+		    "name": "data_1",
+		    "transform": [
+			{
+			    "type": "filter",
+			    "expr": "isValid(datum[\"nb_msgs_collectifs\"]) && isFinite(+datum[\"nb_msgs_collectifs\"])"
+			}
+		    ]
+		}
+	    ],
+	    "encode": {
+		"update": {
+		    "width": {"signal": "child_width"},
+		    "height": {"signal": "child_height"}
+		}
+	    },
+	    "signals": [
+		{
+		    "name": "facet",
+		    "value": {},
+		    "on": [
+			{
+			    "events": [{"source": "scope", "type": "mousemove"}],
+			    "update": "isTuple(facet) ? facet : group(\"cell\").datum"
+			}
+		    ]
+		},
+		{
+		    "name": "pts_x",
+		    "value": [],
+		    "on": [
+			{
+			    "events": {
+				"source": "scope",
+				"type": "mousedown",
+				"filter": [
+				    "!event.item || event.item.mark.name !== \"pts_brush\""
+				]
+			    },
+			    "update": "[x(unit), x(unit)]"
+			},
+			{
+			    "events": {
+				"source": "window",
+				"type": "mousemove",
+				"consume": true,
+				"between": [
+				    {
+					"source": "scope",
+					"type": "mousedown",
+					"filter": [
+					    "!event.item || event.item.mark.name !== \"pts_brush\""
+					]
+				    },
+				    {"source": "window", "type": "mouseup"}
+				]
+			    },
+			    "update": "[pts_x[0], clamp(x(unit), 0, child_width)]"
+			},
+			{"events": {"signal": "pts_scale_trigger"}, "update": "[0, 0]"},
+			{
+			    "events": {"signal": "pts_translate_delta"},
+			    "update": "clampRange(panLinear(pts_translate_anchor.extent_x, pts_translate_delta.x / span(pts_translate_anchor.extent_x)), 0, child_width)"
+			},
+			{
+			    "events": {"signal": "pts_zoom_delta"},
+			    "update": "clampRange(zoomLinear(pts_x, pts_zoom_anchor.x, pts_zoom_delta), 0, child_width)"
+			},
+			{
+			    "events": [{"source": "scope", "type": "dblclick"}],
+			    "update": "[0, 0]"
+			}
+		    ]
+		},
+		{
+		    "name": "pts_tokens",
+		    "on": [
+			{
+			    "events": {"signal": "pts_x"},
+			    "update": "pts_x[0] === pts_x[1] ? null : invert(\"x\", pts_x)"
+			}
+		    ]
+		},
+		{
+		    "name": "pts_y",
+		    "value": [],
+		    "on": [
+			{
+			    "events": {
+				"source": "scope",
+				"type": "mousedown",
+				"filter": [
+				    "!event.item || event.item.mark.name !== \"pts_brush\""
+				]
+			    },
+			    "update": "[y(unit), y(unit)]"
+			},
+			{
+			    "events": {
+				"source": "window",
+				"type": "mousemove",
+				"consume": true,
+				"between": [
+				    {
+					"source": "scope",
+					"type": "mousedown",
+					"filter": [
+					    "!event.item || event.item.mark.name !== \"pts_brush\""
+					]
+				    },
+				    {"source": "window", "type": "mouseup"}
+				]
+			    },
+			    "update": "[pts_y[0], clamp(y(unit), 0, child_height)]"
+			},
+			{
+			    "events": {"signal": "pts_scale_trigger"},
+			    "update": "[scale(\"y\", pts_nb_msgs[0]), scale(\"y\", pts_nb_msgs[1])]"
+			},
+			{
+			    "events": {"signal": "pts_translate_delta"},
+			    "update": "clampRange(panLinear(pts_translate_anchor.extent_y, pts_translate_delta.y / span(pts_translate_anchor.extent_y)), 0, child_height)"
+			},
+			{
+			    "events": {"signal": "pts_zoom_delta"},
+			    "update": "clampRange(zoomLinear(pts_y, pts_zoom_anchor.y, pts_zoom_delta), 0, child_height)"
+			},
+			{
+			    "events": [{"source": "scope", "type": "dblclick"}],
+			    "update": "[0, 0]"
+			}
+		    ]
+		},
+		{
+		    "name": "pts_nb_msgs",
+		    "on": [
+			{
+			    "events": {"signal": "pts_y"},
+			    "update": "pts_y[0] === pts_y[1] ? null : invert(\"y\", pts_y)"
+			}
+		    ]
+		},
+		{
+		    "name": "pts_scale_trigger",
+		    "value": {},
+		    "on": [
+			{
+			    "events": [{"scale": "x"}, {"scale": "y"}],
+			    "update": "(!isArray(pts_tokens) || (invert(\"x\", pts_x)[0] === pts_tokens[0] && invert(\"x\", pts_x)[1] === pts_tokens[1])) && (!isArray(pts_nb_msgs) || (+invert(\"y\", pts_y)[0] === +pts_nb_msgs[0] && +invert(\"y\", pts_y)[1] === +pts_nb_msgs[1])) ? pts_scale_trigger : {}"
+			}
+		    ]
+		},
+		{
+		    "name": "pts_tuple",
+		    "on": [
+			{
+			    "events": [{"signal": "pts_tokens || pts_nb_msgs"}],
+			    "update": "pts_tokens && pts_nb_msgs ? {unit: \"child_layer_0\" + '__facet_row_' + (facet[\"titre\"]) + '__facet_column_' + (facet[\"date\"]), fields: pts_tuple_fields, values: [pts_tokens,pts_nb_msgs]} : null"
+			}
+		    ]
+		},
+		{
+		    "name": "pts_tuple_fields",
+		    "value": [
+			{"field": "tokens", "channel": "x", "type": "E"},
+			{"field": "nb_msgs", "channel": "y", "type": "R"}
+		    ]
+		},
+		{
+		    "name": "pts_translate_anchor",
+		    "value": {},
+		    "on": [
+			{
+			    "events": [
+				{
+				    "source": "scope",
+				    "type": "mousedown",
+				    "markname": "pts_brush"
+				}
+			    ],
+			    "update": "{x: x(unit), y: y(unit), extent_x: slice(pts_x), extent_y: slice(pts_y)}"
+			}
+		    ]
+		},
+		{
+		    "name": "pts_translate_delta",
+		    "value": {},
+		    "on": [
+			{
+			    "events": [
+				{
+				    "source": "window",
+				    "type": "mousemove",
+				    "consume": true,
+				    "between": [
+					{
+					    "source": "scope",
+					    "type": "mousedown",
+					    "markname": "pts_brush"
+					},
+					{"source": "window", "type": "mouseup"}
+				    ]
+				}
+			    ],
+			    "update": "{x: pts_translate_anchor.x - x(unit), y: pts_translate_anchor.y - y(unit)}"
+			}
+		    ]
+		},
+		{
+		    "name": "pts_zoom_anchor",
+		    "on": [
+			{
+			    "events": [
+				{
+				    "source": "scope",
+				    "type": "wheel",
+				    "consume": true,
+				    "markname": "pts_brush"
+				}
+			    ],
+			    "update": "{x: x(unit), y: y(unit)}"
+			}
+		    ]
+		},
+		{
+		    "name": "pts_zoom_delta",
+		    "on": [
+			{
+			    "events": [
+				{
+				    "source": "scope",
+				    "type": "wheel",
+				    "consume": true,
+				    "markname": "pts_brush"
+				}
+			    ],
+			    "force": true,
+			    "update": "pow(1.001, event.deltaY * pow(16, event.deltaMode))"
+			}
+		    ]
+		},
+		{
+		    "name": "pts_modify",
+		    "on": [
+			{
+			    "events": {"signal": "pts_tuple"},
+			    "update": "modify(\"pts_store\", pts_tuple, true)"
+			}
+		    ]
+		}
+	    ],
+	    "marks": [
+		{
+		    "name": "pts_brush_bg",
+		    "type": "rect",
+		    "clip": true,
+		    "encode": {
+			"enter": {
+			    "fill": {"value": "#333"},
+			    "fillOpacity": {"value": 0.125}
+			},
+			"update": {
+			    "x": [
+				{
+				    "test": "data(\"pts_store\").length && data(\"pts_store\")[0].unit === \"child_layer_0\" + '__facet_row_' + (facet[\"titre\"]) + '__facet_column_' + (facet[\"date\"])",
+				    "signal": "pts_x[0]"
+				},
+				{"value": 0}
+			    ],
+			    "y": [
+				{
+				    "test": "data(\"pts_store\").length && data(\"pts_store\")[0].unit === \"child_layer_0\" + '__facet_row_' + (facet[\"titre\"]) + '__facet_column_' + (facet[\"date\"])",
+				    "signal": "pts_y[0]"
+				},
+				{"value": 0}
+			    ],
+			    "x2": [
+				{
+				    "test": "data(\"pts_store\").length && data(\"pts_store\")[0].unit === \"child_layer_0\" + '__facet_row_' + (facet[\"titre\"]) + '__facet_column_' + (facet[\"date\"])",
+				    "signal": "pts_x[1]"
+				},
+				{"value": 0}
+			    ],
+			    "y2": [
+				{
+				    "test": "data(\"pts_store\").length && data(\"pts_store\")[0].unit === \"child_layer_0\" + '__facet_row_' + (facet[\"titre\"]) + '__facet_column_' + (facet[\"date\"])",
+				    "signal": "pts_y[1]"
+				},
+				{"value": 0}
+			    ]
+			}
+		    }
+		},
+		{
+		    "name": "child_layer_0_marks",
+		    "type": "rect",
+		    "style": ["bar"],
+		    "interactive": true,
+		    "from": {"data": "data_0"},
+		    "encode": {
+			"update": {
+			    "opacity": {"value": 0.7},
+			    "fill": {"scale": "color", "field": "tokens"},
+			    "tooltip": {
+				"signal": "{\"titre\": ''+datum[\"titre\"], \"nb_msgs\": format(datum[\"nb_msgs\"], \"\"), \"nb_msgs_collectifs\": format(datum[\"nb_msgs_collectifs\"], \"\"), \"ts\": ''+datum[\"ts\"], \"texte\": ''+datum[\"texte\"]}"
+			    },
+			    "x": {"scale": "x", "field": "tokens"},
+			    "width": {"scale": "x", "band": true},
+			    "y": {"scale": "y", "field": "nb_msgs"},
+			    "y2": {"scale": "y", "value": 0}
+			}
+		    }
+		},
+		{
+		    "name": "child_layer_1_marks",
+		    "type": "rect",
+		    "style": ["bar"],
+		    "interactive": false,
+		    "from": {"data": "data_1"},
+		    "encode": {
+			"update": {
+			    "opacity": {"value": 0.8},
+			    "fill": {"value": "red"},
+			    "tooltip": {
+				"signal": "{\"titre\": ''+datum[\"titre\"], \"nb_msgs\": format(datum[\"nb_msgs\"], \"\"), \"nb_msgs_collectifs\": format(datum[\"nb_msgs_collectifs\"], \"\"), \"ts\": ''+datum[\"ts\"], \"texte\": ''+datum[\"texte\"]}"
+			    },
+			    "xc": {"scale": "x", "field": "tokens", "band": 0.5},
+			    "width": {"value": 5},
+			    "y": {"scale": "y", "field": "nb_msgs_collectifs"},
+			    "y2": {"scale": "y", "value": 0}
+			}
+		    }
+		},
+		{
+		    "name": "pts_brush",
+		    "type": "rect",
+		    "clip": true,
+		    "encode": {
+			"enter": {"fill": {"value": "transparent"}},
+			"update": {
+			    "x": [
+				{
+				    "test": "data(\"pts_store\").length && data(\"pts_store\")[0].unit === \"child_layer_0\" + '__facet_row_' + (facet[\"titre\"]) + '__facet_column_' + (facet[\"date\"])",
+				    "signal": "pts_x[0]"
+				},
+				{"value": 0}
+			    ],
+			    "y": [
+				{
+				    "test": "data(\"pts_store\").length && data(\"pts_store\")[0].unit === \"child_layer_0\" + '__facet_row_' + (facet[\"titre\"]) + '__facet_column_' + (facet[\"date\"])",
+				    "signal": "pts_y[0]"
+				},
+				{"value": 0}
+			    ],
+			    "x2": [
+				{
+				    "test": "data(\"pts_store\").length && data(\"pts_store\")[0].unit === \"child_layer_0\" + '__facet_row_' + (facet[\"titre\"]) + '__facet_column_' + (facet[\"date\"])",
+				    "signal": "pts_x[1]"
+				},
+				{"value": 0}
+			    ],
+			    "y2": [
+				{
+				    "test": "data(\"pts_store\").length && data(\"pts_store\")[0].unit === \"child_layer_0\" + '__facet_row_' + (facet[\"titre\"]) + '__facet_column_' + (facet[\"date\"])",
+				    "signal": "pts_y[1]"
+				},
+				{"value": 0}
+			    ],
+			    "stroke": [
+				{
+				    "test": "pts_x[0] !== pts_x[1] && pts_y[0] !== pts_y[1]",
+				    "value": "white"
+				},
+				{"value": null}
+			    ]
+			}
+		    }
+		}
+	    ],
+	    "axes": [
+		{
+		    "scale": "y",
+		    "orient": "left",
+		    "gridScale": "x",
+		    "grid": true,
+		    "tickCount": {"signal": "ceil(child_height/40)"},
+		    "domain": false,
+		    "labels": false,
+		    "maxExtent": 0,
+		    "minExtent": 0,
+		    "ticks": false,
+		    "zindex": 0
+		}
+	    ]
+	}
+    ],
+    "scales": [
+	{
+	    "name": "x",
+	    "type": "band",
+	    "domain": {
+		"fields": [
+		    {"data": "data_1", "field": "tokens"},
+		    {"data": "data_2", "field": "tokens"}
+		],
+		"sort": true
+	    },
+	    "range": [0, {"signal": "child_width"}],
+	    "paddingInner": 0.1,
+	    "paddingOuter": 0.05
+	},
+	{
+	    "name": "y",
+	    "type": "linear",
+	    "domain": {
+		"fields": [
+		    {"data": "data_1", "field": "nb_msgs"},
+		    {"data": "data_2", "field": "nb_msgs_collectifs"}
+		]
+	    },
+	    "range": [{"signal": "child_height"}, 0],
+	    "nice": true,
+	    "zero": true
+	},
+	{
+	    "name": "color",
+	    "type": "ordinal",
+	    "domain": {"data": "data_1", "field": "tokens", "sort": true},
+	    "range": "category"
+	}
+    ],
+    "legends": [
+	{
+	    "fill": "color",
+	    "symbolType": "square",
+	    "title": "tokens",
+	    "encode": {"symbols": {"update": {"opacity": {"value": 0.7}}}}
+	}
+    ]
+}
